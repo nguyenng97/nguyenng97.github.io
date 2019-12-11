@@ -1,0 +1,19 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.6.x'
+    - name: Install jekyll
+      run: gem install jekyll
+    - name: deploy and publish
+      run: |
+        jekyll serve --trace
