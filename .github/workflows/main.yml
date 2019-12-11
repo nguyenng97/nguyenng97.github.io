@@ -12,8 +12,6 @@ jobs:
     - uses: actions/setup-ruby@v1
       with:
         ruby-version: '2.6.x'
-    - name: Install jekyll
-      run: gem install jekyll
     - name: deploy and publish
       run: |
         gem install github-pages
