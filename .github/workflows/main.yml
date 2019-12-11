@@ -16,6 +16,5 @@ jobs:
       run: gem install jekyll
     - name: deploy and publish
       run: |
-        gem uninstall --all
         gem install github-pages
         jekyll serve --trace
