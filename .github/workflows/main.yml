@@ -15,4 +15,4 @@ jobs:
     - name: deploy and publish
       run: |
         gem install github-pages
-        jekyll serve --trace
+        jekyll build
