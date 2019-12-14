@@ -6,9 +6,9 @@ plugins: [jekyll-paginate]
 permalink:           pretty
 
 # Setup
-title:               A certain ML notebook
-tagline:             Nguyen Nguyen's personal blog
-description:         An public notebook about interesting experience you would meet as a sofware engineer. Made by <a href="https://www.facebook.com/nttungnguyen" target="_blank">@elpsychris</a>.
+title:               Nguyen Nguyen
+tagline:             Engineer notes
+description:         An public notebook about my weekend projects as a sofware engineer. Written by <a href="facebook.com/nttungnguyen" target="_blank">@elpsychris</a> based on <a href="github.com/poole/lanyon">Lanyon project </a> - Jekyll.
 # url:               http://localhost:4000
 baseurl:             ''
 paginate: 	     5
@@ -21,5 +21,5 @@ author:
   email:             nguyenng178@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:             1.0.1
 
