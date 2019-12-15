@@ -19,9 +19,14 @@ All who spent a certain amount of time on this subject knew that despite the cat
 
 Jokes aside, the idea behind the name is having a bunch of different functions chained together into a multiple layers structure. 
 
-For example, suppose $f^{(1)}$ is the first layer, $f^{(2)}$ is the second, etc. By chaining these functions, $f(x) = f^{(2)}(f^{(1)}(x)$, the output of this layer became input for the next.
+For example, suppose $f^{(1)}$ is the first layer, $f^{(2)}$ is the second, etc. By chaining these functions, $f(x) = f^{(2)}(f^{(1)}(x)$ - the output of this layer became input for the next.
 
-![Layers structure creates a notion of depth to the model](https://i.ibb.co/DDnV50L/1200px-Colored-neural-network-svg.png)
+![Layers structure creates a notion of depth to the model](https://i.ibb.co/DDnV50L/1200px-Colored-neural-network-svg.png =100px)
+
+The rest is not that different from other ML models, we got a function $**y** = f(**x**, **\theta**)$ (where **x** is an input vector and **y** is a category) with a bunch of parameters (the weights of the edges between every two nodes in two adjacent layers in the networks) $\theta$ to optimize based on the training set. After the process, the initial ***f*** would, hopefully, approximate to ___f*___ - which is the true classification function for the problem.
+
+With each training data point (a row of training data), the signal was fired through the network and the algorithm would magically do the optimization on $\theta$ - the weights (or the params). Then TADAA!! Problem solved after a few cups of coffee.
+
 
 # References:
 - [Neural Networks for beginners - Jay Shah](https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca)
