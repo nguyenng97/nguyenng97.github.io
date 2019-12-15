@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neural Network #1 - Deep Neuron Net.
+title: Neural Network #1 - Deep Neural Net.
 ---
 
 Due to ever-evolving of various data driven industries, tools and frameworks are adapting to become more and more powerful with more enjoyable learning curve for not only researchers and data scientist, but also engineers on some small-scale project. 
@@ -21,7 +21,7 @@ Jokes aside, the idea behind the name is having a bunch of different functions c
 
 For example, suppose $f^{(1)}$ is the first layer, $f^{(2)}$ is the second, etc. By chaining these functions, $f(x) = f^{(2)}(f^{(1)}(x)$ - the output of this layer became input for the next.
 
-![Layers structure creates a notion of depth to the model](https://i.ibb.co/DDnV50L/1200px-Colored-neural-network-svg.png =30x)
+![Layers structure creates a notion of depth to the model](https://i.ibb.co/DDnV50L/1200px-Colored-neural-network-svg.png =30x){ width=50% }
 
 The rest is not that different from other ML models, we got a function $y = f(x, \theta)$ (where **x** is an input vector and **y** is a category) with a bunch of parameters (the weights of the edges between every two nodes in two adjacent layers in the networks) $\theta$ to optimize based on the training set.
 
