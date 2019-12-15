@@ -20,7 +20,7 @@ All who spent a certain amount of time on this subject knew that despite the cat
 Jokes aside, the idea behind the name is having a bunch of different functions chained together into a multiple layers structure. 
 
 For example, suppose $f^{(1)}$ is the first layer, $f^{(2)}$ is the second, etc. By chaining these functions, $f(x) = f^{(2)}(f^{(1)}(x)$ - the output of this layer became input for the next.
-<img src="https://i.ibb.co/DDnV50L/1200px-Colored-neural-network-svg.png" width="100">
+<img src="https://i.ibb.co/DDnV50L/1200px-Colored-neural-network-svg.png" width="300">
 
 The rest is not that different from other ML models, we got a function $y = f(x, \theta)$ (where **x** is an input vector and **y** is a category) with a bunch of parameters (the weights of the edges between every two nodes in two adjacent layers in the networks) $\theta$ to optimize based on the training set.
 
