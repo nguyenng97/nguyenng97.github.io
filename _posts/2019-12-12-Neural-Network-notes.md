@@ -21,7 +21,7 @@ Jokes aside, the idea behind the name is having a bunch of different functions c
 
 For example, suppose $f^{(1)}$ is the first layer, $f^{(2)}$ is the second, etc. By chaining these functions, $f(x) = f^{(2)}(f^{(1)}(x)$ - the output of this layer became input for the next.
 
-![Layers structure creates a notion of depth to the model](https://i.ibb.co/DDnV50L/1200px-Colored-neural-network-svg.png =50px)
+![Layers structure creates a notion of depth to the model](https://i.ibb.co/DDnV50L/1200px-Colored-neural-network-svg.png =100x)
 
 The rest is not that different from other ML models, we got a function $y = f(x, \theta)$ (where **x** is an input vector and **y** is a category) with a bunch of parameters (the weights of the edges between every two nodes in two adjacent layers in the networks) $\theta$ to optimize based on the training set.
 
