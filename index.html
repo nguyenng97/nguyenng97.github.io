@@ -2,9 +2,9 @@
 layout: default
 title: Home
 ---
-
+{% assign view_able = paginator.posts | where:"edited","true" %}
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in view_able %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">

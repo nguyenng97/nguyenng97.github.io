@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Neural Network #1 - Deep Neural Net.
+edited: false
 ---
 
 Due to ever-evolving of various data driven industries, tools and frameworks are adapting to become more and more powerful with more enjoyable learning curve for not only researchers and data scientist, but also engineers on some small-scale project. 

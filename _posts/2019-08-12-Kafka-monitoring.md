@@ -1,4 +1,6 @@
 ---
 layout: post
-title: Kafka #1 - Metric monitoring
+title: Kafka - Metric monitoring
+edited: true
 ---
+# Introduction
