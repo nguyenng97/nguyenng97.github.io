@@ -4,30 +4,14 @@ title: Kafka - Monitoring
 edited: true
 ---
 
-# Introduction
+# Cases
 
-Kafka log directory structure:
+### Scenario
+
+
 
 ```
-parent
-|-- my-topic-0
-    |-- 00000000000000069679.index
-    |-- 00000000000000069679.timeindex
-    |-- 00000000000000069679.log
-    |-- 00000000000000069679.snapshot
-    |-- leader-epoch-checkpoint/
-|-- my-topic-1
-|-- my-topic-2
+[pool-1-thread-1] 2019-12-18 09:45:19,994 FetchSessionHandler.java (line 383) [Consumer clientId=consumer-1, groupId=my.consumer_19_1576578898213] Node 4 was unable to process the fetch request with (sessionId=759283615, epoch=469203): INVALID_FETCH_SESSION_EPOCH.
 ```
 
-## Topic
 
-- Topic is the logical grouping
-
-- Each topic is assigned with at least 1 partition (in this case, `my-topic` has two partitions, hence `my-topic-0,1,2`)
-
-## Partition
-
-![]()
-
-- Partition is a storage unit in Kafka
