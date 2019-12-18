@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kafka - Internal storage
-edited: false
+edited: true
 ---
 
 # Introduction

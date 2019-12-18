@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kafka - Internal storage
+title: Kafka - Monitoring
 edited: true
 ---
 
@@ -31,5 +31,3 @@ parent
 ![]()
 
 - Partition is a storage unit in Kafka
-
-
