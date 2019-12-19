@@ -3,8 +3,7 @@ layout: post
 title: Kafka - Internal storage
 edited: true
 ---
-
-# Introduction
+## Log storage
 
 Kafka log directory structure:
 
@@ -20,23 +19,27 @@ parent
 |-- my-topic-2
 ```
 
-## Topic
+### Topic
 
 - Topic is the logical grouping
-
 - Each topic is assigned with at least 1 partition (in this case, `my-topic` has two partitions, hence `my-topic-0,1,2`)
 
-## Partition
+### Partition
 
 ![](https://miro.medium.com/max/1296/1*9W02uviSfU_QSHjaNTnNXQ.png)
 
 - *Partition* is a storage unit in Kafka
 - **Partition** includes multiple segments (`xxxxx.log`) with corresponding index (`xxxxx.index`)
 
-## Segment
+### Segment
 
-- Partition is splitted into segments for faster 
+- Partition is splitted into segments for faster retention operation (instead of operating delete on the whole partition, Kafka
+could run on segments one-by-one leaving out the active one)
 - Messages are stored in the `xxxxx.log` file
+
+### How Kafka brokers store published messages
+
+
 
 # References
 
