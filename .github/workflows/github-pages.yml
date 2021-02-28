@@ -24,11 +24,12 @@ jobs:
 
       - run: node --version
       
-      - uses: ruby/setup-ruby@v1
+      - uses: actions/cache@v2
         with:
-          ruby-version: 2.7
-
-      - run: gem install bundler:2.2.11
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
       - uses: helaili/jekyll-action@2.0.5
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
