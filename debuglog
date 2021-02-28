@@ -1,0 +1,436 @@
+==== start log session ====
+  0.023851 : StartTest: Test_AutoHover_Disabled()
+  0.024798 : Catch: Test_AutoHover_Disabled()
+  0.036933 : StartTest: Test_Changing_Filetype_Refreshes_Diagnostics()
+  0.037217 : Catch: Test_Changing_Filetype_Refreshes_Diagnostics()
+  0.039752 : StartTest: Test_Compl_After_Trigger()
+  0.040123 : Catch: Test_Compl_After_Trigger()
+  0.043079 : StartTest: Test_Compl_No_Filetype()
+  0.062426 : Catch: Test_Compl_No_Filetype()
+  0.074290 : StartTest: Test_Compl_No_Filetype_Blacklisted()
+  0.659770 : Catch: Test_Compl_No_Filetype_Blacklisted()
+  0.676581 : StartTest: Test_Completion_FixIt()
+  0.677636 : Catch: Test_Completion_FixIt()
+  0.685907 : StartTest: Test_DontResolveCompletion_AlreadyResolved()
+  0.686668 : Catch: Test_DontResolveCompletion_AlreadyResolved()
+  0.691679 : StartTest: Test_Enter_Delete_Chars_Updates_Filter()
+  0.692238 : Catch: Test_Enter_Delete_Chars_Updates_Filter()
+  0.697526 : StartTest: Test_Force_Semantic_TopLevel()
+  0.698148 : Catch: Test_Force_Semantic_TopLevel()
+  0.703237 : StartTest: Test_GetCommandResponse()
+  0.703920 : Catch: Test_GetCommandResponse()
+  0.708318 : StartTest: Test_GetCommandResponse_FixIt()
+  0.709139 : Catch: Test_GetCommandResponse_FixIt()
+  0.714123 : StartTest: Test_GetDefinedSubcommands_Native()
+  0.714534 : Catch: Test_GetDefinedSubcommands_Native()
+  0.718314 : StartTest: Test_GetDefinedSubcommands_NoNative()
+  0.721465 : EndTest: Test_GetDefinedSubcommands_NoNative()
+  0.724796 : StartTest: Test_Hover_Custom_Command()
+  0.725492 : Catch: Test_Hover_Custom_Command()
+  0.728884 : StartTest: Test_Hover_Custom_Syntax()
+  0.729278 : Catch: Test_Hover_Custom_Syntax()
+  0.732196 : StartTest: Test_Hover_Disabled_NonNative()
+  0.732630 : Catch: Test_Hover_Disabled_NonNative()
+  0.735857 : StartTest: Test_Hover_Dismiss()
+  0.736268 : Catch: Test_Hover_Dismiss()
+  0.738903 : StartTest: Test_Hover_MoveCursor()
+  0.739284 : Catch: Test_Hover_MoveCursor()
+  0.742384 : StartTest: Test_Hover_NonNative()
+  0.742923 : Catch: Test_Hover_NonNative()
+  0.745687 : StartTest: Test_Hover_Uses_GetDoc()
+  0.746036 : Catch: Test_Hover_Uses_GetDoc()
+  0.748639 : StartTest: Test_Hover_Uses_GetHover()
+  0.749014 : Catch: Test_Hover_Uses_GetHover()
+  0.751876 : StartTest: Test_Hover_Uses_GetType()
+  0.752257 : Catch: Test_Hover_Uses_GetType()
+  0.754609 : StartTest: Test_Hover_Uses_None()
+  0.754896 : Catch: Test_Hover_Uses_None()
+  0.758009 : StartTest: Test_Long_Single_Line()
+  0.758485 : Catch: Test_Long_Single_Line()
+  0.761288 : StartTest: Test_Long_Wrapped()
+  0.761602 : Catch: Test_Long_Wrapped()
+  0.764007 : StartTest: Test_MessagePoll_After_LocationList()
+  0.764375 : Catch: Test_MessagePoll_After_LocationList()
+  0.766939 : StartTest: Test_MessagePoll_Multiple_Filetypes()
+  0.767228 : Catch: Test_MessagePoll_Multiple_Filetypes()
+  0.769524 : StartTest: Test_No_Resolve()
+  0.769790 : Catch: Test_No_Resolve()
+  0.772400 : StartTest: Test_OmniComplete_Filter()
+  0.780595 : SafeState: Start triggering
+  0.780937 : looking for messages on channels
+  0.781241 : SafeState: back to waiting, triggering SafeStateAgain
+  0.781653 : SafeState: reset: ins_typebuf()
+  0.781945 : looking for messages on channels
+  0.782205 : EndTest: Test_OmniComplete_Filter()
+  0.791150 : StartTest: Test_OmniComplete_Force()
+  0.805534 : SafeState: Start triggering
+  0.805909 : looking for messages on channels
+  0.806164 : SafeState: back to waiting, triggering SafeStateAgain
+  1.466535 : ERROR: Error detected while processing function RunTheTest[68]..Test_OmniComplete_Force[38]..FeedAndCheckMain[2]..Check1[1]..WaitForCompletion[1]..WaitForAssert[2]..<SNR>33_WaitForCommon[11]..<lambda>1:
+  1.467154 : ERROR: line    1:
+  1.468245 : ERROR: Traceback (most recent call last):
+  1.468630 : ERROR:   File "<string>", line 1, in <module>
+  1.470115 : ERROR: NameError: name 'ycm_state' is not defined
+  1.471050 : ERROR: E858: Eval did not return a valid python object
+  1.472825 : ERROR: Error detected while processing function RunTheTest[68]..Test_OmniComplete_Force[38]..FeedAndCheckMain[2]..Check1[1]..WaitForCompletion[1]..WaitForAssert[2]..<SNR>33_WaitForCommon[27]..Check1[1]..WaitForCompletion[1]..WaitForAssert[2]..<SNR>33_WaitForCommon[11]..<lambda>2:
+  1.473767 : ERROR: line    1:
+  1.474401 : ERROR: Traceback (most recent call last):
+  1.474928 : ERROR:   File "<string>", line 1, in <module>
+  1.476384 : ERROR: NameError: name 'ycm_state' is not defined
+  1.476914 : ERROR: E858: Eval did not return a valid python object
+  1.487732 : looking for messages on channels
+  1.488285 : SafeState: back to waiting, triggering SafeStateAgain
+  1.489353 : ERROR: Traceback (most recent call last):
+  1.490088 : ERROR:   File "<string>", line 1, in <module>
+  1.491738 : ERROR: NameError: name 'ycm_state' is not defined
+  1.492616 : ERROR: E858: Eval did not return a valid python object
+  1.503299 : looking for messages on channels
+  1.503895 : SafeState: back to waiting, triggering SafeStateAgain
+  1.504744 : ERROR: Traceback (most recent call last):
+  1.505197 : ERROR:   File "<string>", line 1, in <module>
+  1.506180 : ERROR: NameError: name 'ycm_state' is not defined
+  1.506786 : ERROR: E858: Eval did not return a valid python object
+  1.517693 : looking for messages on channels
+  1.518232 : SafeState: back to waiting, triggering SafeStateAgain
+  1.519141 : ERROR: Traceback (most recent call last):
+  1.519598 : ERROR:   File "<string>", line 1, in <module>
+  1.520675 : ERROR: NameError: name 'ycm_state' is not defined
+  1.521466 : ERROR: E858: Eval did not return a valid python object
+  1.532278 : looking for messages on channels
+  1.532960 : SafeState: back to waiting, triggering SafeStateAgain
+  1.534025 : ERROR: Traceback (most recent call last):
+  1.534415 : ERROR:   File "<string>", line 1, in <module>
+  1.535377 : ERROR: NameError: name 'ycm_state' is not defined
+  1.535837 : ERROR: E858: Eval did not return a valid python object
+  1.546719 : looking for messages on channels
+  1.547172 : SafeState: back to waiting, triggering SafeStateAgain
+  1.548072 : ERROR: Traceback (most recent call last):
+  1.548742 : ERROR:   File "<string>", line 1, in <module>
+  1.550026 : ERROR: NameError: name 'ycm_state' is not defined
+  1.550493 : ERROR: E858: Eval did not return a valid python object
+  1.561294 : looking for messages on channels
+  1.561889 : SafeState: back to waiting, triggering SafeStateAgain
+  1.562839 : ERROR: Traceback (most recent call last):
+  1.563285 : ERROR:   File "<string>", line 1, in <module>
+  1.564180 : ERROR: NameError: name 'ycm_state' is not defined
+  1.564838 : ERROR: E858: Eval did not return a valid python object
+  1.575557 : looking for messages on channels
+  1.576255 : SafeState: back to waiting, triggering SafeStateAgain
+  1.577348 : ERROR: Traceback (most recent call last):
+  1.577950 : ERROR:   File "<string>", line 1, in <module>
+  1.579443 : ERROR: NameError: name 'ycm_state' is not defined
+  1.580187 : ERROR: E858: Eval did not return a valid python object
+  1.590912 : looking for messages on channels
+  1.591541 : SafeState: back to waiting, triggering SafeStateAgain
+  1.592653 : ERROR: Traceback (most recent call last):
+  1.593244 : ERROR:   File "<string>", line 1, in <module>
+  1.594606 : ERROR: NameError: name 'ycm_state' is not defined
+  1.595119 : ERROR: E858: Eval did not return a valid python object
+  1.605977 : looking for messages on channels
+  1.606620 : SafeState: back to waiting, triggering SafeStateAgain
+  1.607632 : ERROR: Traceback (most recent call last):
+  1.608167 : ERROR:   File "<string>", line 1, in <module>
+  1.609359 : ERROR: NameError: name 'ycm_state' is not defined
+  1.609981 : ERROR: E858: Eval did not return a valid python object
+  1.620740 : looking for messages on channels
+  1.621681 : SafeState: back to waiting, triggering SafeStateAgain
+  1.623487 : ERROR: Traceback (most recent call last):
+  1.624394 : ERROR:   File "<string>", line 1, in <module>
+  1.626708 : ERROR: NameError: name 'ycm_state' is not defined
+  1.627656 : ERROR: E858: Eval did not return a valid python object
+  1.638868 : looking for messages on channels
+  1.639796 : SafeState: back to waiting, triggering SafeStateAgain
+  1.641568 : ERROR: Traceback (most recent call last):
+  1.642518 : ERROR:   File "<string>", line 1, in <module>
+  1.644940 : ERROR: NameError: name 'ycm_state' is not defined
+  1.645839 : ERROR: E858: Eval did not return a valid python object
+  1.657005 : looking for messages on channels
+  1.657954 : SafeState: back to waiting, triggering SafeStateAgain
+  1.659756 : ERROR: Traceback (most recent call last):
+  1.660625 : ERROR:   File "<string>", line 1, in <module>
+  1.662848 : ERROR: NameError: name 'ycm_state' is not defined
+  1.663610 : ERROR: E858: Eval did not return a valid python object
+  1.675185 : looking for messages on channels
+  1.676032 : SafeState: back to waiting, triggering SafeStateAgain
+  1.677873 : ERROR: Traceback (most recent call last):
+  1.678802 : ERROR:   File "<string>", line 1, in <module>
+  1.681496 : ERROR: NameError: name 'ycm_state' is not defined
+  1.682445 : ERROR: E858: Eval did not return a valid python object
+  1.693667 : looking for messages on channels
+  1.694573 : SafeState: back to waiting, triggering SafeStateAgain
+  1.696377 : ERROR: Traceback (most recent call last):
+  1.697215 : ERROR:   File "<string>", line 1, in <module>
+  1.700014 : ERROR: NameError: name 'ycm_state' is not defined
+  1.700959 : ERROR: E858: Eval did not return a valid python object
+  1.712255 : looking for messages on channels
+  1.713043 : SafeState: back to waiting, triggering SafeStateAgain
+  1.714795 : ERROR: Traceback (most recent call last):
+  1.715770 : ERROR:   File "<string>", line 1, in <module>
+  1.718303 : ERROR: NameError: name 'ycm_state' is not defined
+  1.719124 : ERROR: E858: Eval did not return a valid python object
+  1.730315 : looking for messages on channels
+  1.731040 : SafeState: back to waiting, triggering SafeStateAgain
+  1.732971 : ERROR: Traceback (most recent call last):
+  1.734149 : ERROR:   File "<string>", line 1, in <module>
+  1.736569 : ERROR: NameError: name 'ycm_state' is not defined
+  1.737380 : ERROR: E858: Eval did not return a valid python object
+  1.748552 : looking for messages on channels
+  1.749510 : SafeState: back to waiting, triggering SafeStateAgain
+  1.751413 : ERROR: Traceback (most recent call last):
+  1.752269 : ERROR:   File "<string>", line 1, in <module>
+  1.755432 : ERROR: NameError: name 'ycm_state' is not defined
+  1.756540 : ERROR: E858: Eval did not return a valid python object
+  1.767759 : looking for messages on channels
+  1.768573 : SafeState: back to waiting, triggering SafeStateAgain
+  1.770375 : ERROR: Traceback (most recent call last):
+  1.771212 : ERROR:   File "<string>", line 1, in <module>
+  1.774265 : ERROR: NameError: name 'ycm_state' is not defined
+  1.775189 : ERROR: E858: Eval did not return a valid python object
+  1.786354 : looking for messages on channels
+  1.787358 : SafeState: back to waiting, triggering SafeStateAgain
+  1.789377 : ERROR: Traceback (most recent call last):
+  1.790302 : ERROR:   File "<string>", line 1, in <module>
+  1.792696 : ERROR: NameError: name 'ycm_state' is not defined
+  1.793599 : ERROR: E858: Eval did not return a valid python object
+  1.804434 : looking for messages on channels
+  1.805136 : SafeState: back to waiting, triggering SafeStateAgain
+  1.806385 : ERROR: Traceback (most recent call last):
+  1.807005 : ERROR:   File "<string>", line 1, in <module>
+  1.808574 : ERROR: NameError: name 'ycm_state' is not defined
+  1.809165 : ERROR: E858: Eval did not return a valid python object
+  1.819848 : looking for messages on channels
+  1.820574 : SafeState: back to waiting, triggering SafeStateAgain
+  1.821766 : ERROR: Traceback (most recent call last):
+  1.822453 : ERROR:   File "<string>", line 1, in <module>
+  1.824084 : ERROR: NameError: name 'ycm_state' is not defined
+  1.824659 : ERROR: E858: Eval did not return a valid python object
+  1.835455 : looking for messages on channels
+  1.836143 : SafeState: back to waiting, triggering SafeStateAgain
+  1.837160 : ERROR: Traceback (most recent call last):
+  1.837814 : ERROR:   File "<string>", line 1, in <module>
+  1.839287 : ERROR: NameError: name 'ycm_state' is not defined
+  1.839882 : ERROR: E858: Eval did not return a valid python object
+  1.850661 : looking for messages on channels
+  1.851441 : SafeState: back to waiting, triggering SafeStateAgain
+  1.852747 : ERROR: Traceback (most recent call last):
+  1.853465 : ERROR:   File "<string>", line 1, in <module>
+  1.854867 : ERROR: NameError: name 'ycm_state' is not defined
+  1.855263 : ERROR: E858: Eval did not return a valid python object
+  1.865845 : looking for messages on channels
+  1.866445 : SafeState: back to waiting, triggering SafeStateAgain
+  1.867726 : ERROR: Traceback (most recent call last):
+  1.868606 : ERROR:   File "<string>", line 1, in <module>
+  1.869812 : ERROR: NameError: name 'ycm_state' is not defined
+  1.870205 : ERROR: E858: Eval did not return a valid python object
+  1.880849 : looking for messages on channels
+  1.881420 : SafeState: back to waiting, triggering SafeStateAgain
+  1.882418 : ERROR: Traceback (most recent call last):
+  1.883177 : ERROR:   File "<string>", line 1, in <module>
+  1.885011 : ERROR: NameError: name 'ycm_state' is not defined
+  1.885585 : ERROR: E858: Eval did not return a valid python object
+  1.896131 : looking for messages on channels
+  1.896717 : SafeState: back to waiting, triggering SafeStateAgain
+  1.897453 : ERROR: Traceback (most recent call last):
+  1.897867 : ERROR:   File "<string>", line 1, in <module>
+  1.899286 : ERROR: NameError: name 'ycm_state' is not defined
+  1.899848 : ERROR: E858: Eval did not return a valid python object
+  1.910443 : looking for messages on channels
+  1.911080 : SafeState: back to waiting, triggering SafeStateAgain
+  1.911998 : ERROR: Traceback (most recent call last):
+  1.912614 : ERROR:   File "<string>", line 1, in <module>
+  1.913924 : ERROR: NameError: name 'ycm_state' is not defined
+  1.914272 : ERROR: E858: Eval did not return a valid python object
+  1.924880 : looking for messages on channels
+  1.925585 : SafeState: back to waiting, triggering SafeStateAgain
+  1.926756 : ERROR: Traceback (most recent call last):
+  1.927337 : ERROR:   File "<string>", line 1, in <module>
+  1.928527 : ERROR: NameError: name 'ycm_state' is not defined
+  1.928925 : ERROR: E858: Eval did not return a valid python object
+  1.939615 : looking for messages on channels
+  1.940280 : SafeState: back to waiting, triggering SafeStateAgain
+  1.941397 : ERROR: Traceback (most recent call last):
+  1.941948 : ERROR:   File "<string>", line 1, in <module>
+  1.943186 : ERROR: NameError: name 'ycm_state' is not defined
+  1.943565 : ERROR: E858: Eval did not return a valid python object
+  1.954329 : looking for messages on channels
+  1.954953 : SafeState: back to waiting, triggering SafeStateAgain
+  1.955961 : ERROR: Traceback (most recent call last):
+  1.956670 : ERROR:   File "<string>", line 1, in <module>
+  1.958229 : ERROR: NameError: name 'ycm_state' is not defined
+  1.958812 : ERROR: E858: Eval did not return a valid python object
+  1.969325 : looking for messages on channels
+  1.969918 : SafeState: back to waiting, triggering SafeStateAgain
+  1.971084 : ERROR: Traceback (most recent call last):
+  1.971670 : ERROR:   File "<string>", line 1, in <module>
+  1.973417 : ERROR: NameError: name 'ycm_state' is not defined
+  1.973991 : ERROR: E858: Eval did not return a valid python object
+  1.984684 : looking for messages on channels
+  1.985362 : SafeState: back to waiting, triggering SafeStateAgain
+  1.986398 : ERROR: Traceback (most recent call last):
+  1.986918 : ERROR:   File "<string>", line 1, in <module>
+  1.988135 : ERROR: NameError: name 'ycm_state' is not defined
+  1.988595 : ERROR: E858: Eval did not return a valid python object
+  1.999229 : looking for messages on channels
+  1.999758 : SafeState: back to waiting, triggering SafeStateAgain
+  2.000654 : ERROR: Traceback (most recent call last):
+  2.001235 : ERROR:   File "<string>", line 1, in <module>
+  2.002459 : ERROR: NameError: name 'ycm_state' is not defined
+  2.003049 : ERROR: E858: Eval did not return a valid python object
+  2.013623 : looking for messages on channels
+  2.014113 : SafeState: back to waiting, triggering SafeStateAgain
+  2.015089 : ERROR: Traceback (most recent call last):
+  2.015548 : ERROR:   File "<string>", line 1, in <module>
+  2.016766 : ERROR: NameError: name 'ycm_state' is not defined
+  2.017369 : ERROR: E858: Eval did not return a valid python object
+  2.028112 : looking for messages on channels
+  2.028735 : SafeState: back to waiting, triggering SafeStateAgain
+  2.029771 : ERROR: Traceback (most recent call last):
+  2.030179 : ERROR:   File "<string>", line 1, in <module>
+  2.031377 : ERROR: NameError: name 'ycm_state' is not defined
+  2.031820 : ERROR: E858: Eval did not return a valid python object
+  2.042570 : looking for messages on channels
+  2.043338 : SafeState: back to waiting, triggering SafeStateAgain
+  2.044526 : ERROR: Traceback (most recent call last):
+  2.045175 : ERROR:   File "<string>", line 1, in <module>
+  2.046322 : ERROR: NameError: name 'ycm_state' is not defined
+  2.046756 : ERROR: E858: Eval did not return a valid python object
+  2.057583 : looking for messages on channels
+  2.058243 : SafeState: back to waiting, triggering SafeStateAgain
+  2.059365 : ERROR: Traceback (most recent call last):
+  2.059964 : ERROR:   File "<string>", line 1, in <module>
+  2.061449 : ERROR: NameError: name 'ycm_state' is not defined
+  2.061839 : ERROR: E858: Eval did not return a valid python object
+  2.072452 : looking for messages on channels
+  2.073111 : SafeState: back to waiting, triggering SafeStateAgain
+  2.074186 : ERROR: Traceback (most recent call last):
+  2.074799 : ERROR:   File "<string>", line 1, in <module>
+  2.075977 : ERROR: NameError: name 'ycm_state' is not defined
+  2.076477 : ERROR: E858: Eval did not return a valid python object
+  2.087351 : looking for messages on channels
+  2.088007 : SafeState: back to waiting, triggering SafeStateAgain
+  2.089109 : ERROR: Traceback (most recent call last):
+  2.089782 : ERROR:   File "<string>", line 1, in <module>
+  2.091002 : ERROR: NameError: name 'ycm_state' is not defined
+  2.091528 : ERROR: E858: Eval did not return a valid python object
+  2.102102 : looking for messages on channels
+  2.102718 : SafeState: back to waiting, triggering SafeStateAgain
+  2.103690 : ERROR: Traceback (most recent call last):
+  2.104290 : ERROR:   File "<string>", line 1, in <module>
+  2.105711 : ERROR: NameError: name 'ycm_state' is not defined
+  2.106445 : ERROR: E858: Eval did not return a valid python object
+  2.117397 : looking for messages on channels
+  2.117967 : SafeState: back to waiting, triggering SafeStateAgain
+  2.118935 : ERROR: Traceback (most recent call last):
+  2.119547 : ERROR:   File "<string>", line 1, in <module>
+  2.120714 : ERROR: NameError: name 'ycm_state' is not defined
+  2.121064 : ERROR: E858: Eval did not return a valid python object
+  2.131721 : looking for messages on channels
+  2.132270 : SafeState: back to waiting, triggering SafeStateAgain
+  2.133206 : ERROR: Traceback (most recent call last):
+  2.133770 : ERROR:   File "<string>", line 1, in <module>
+  2.135189 : ERROR: NameError: name 'ycm_state' is not defined
+  2.135780 : ERROR: E858: Eval did not return a valid python object
+  2.146430 : looking for messages on channels
+  2.147020 : SafeState: back to waiting, triggering SafeStateAgain
+  2.147905 : ERROR: Traceback (most recent call last):
+  2.148603 : ERROR:   File "<string>", line 1, in <module>
+  2.150082 : ERROR: NameError: name 'ycm_state' is not defined
+  2.150517 : ERROR: E858: Eval did not return a valid python object
+  2.161321 : looking for messages on channels
+  2.161822 : SafeState: back to waiting, triggering SafeStateAgain
+  2.162895 : ERROR: Traceback (most recent call last):
+  2.163399 : ERROR:   File "<string>", line 1, in <module>
+  2.164547 : ERROR: NameError: name 'ycm_state' is not defined
+  2.165078 : ERROR: E858: Eval did not return a valid python object
+  2.175855 : looking for messages on channels
+  2.176411 : SafeState: back to waiting, triggering SafeStateAgain
+  2.177279 : ERROR: Traceback (most recent call last):
+  2.177901 : ERROR:   File "<string>", line 1, in <module>
+  2.179203 : ERROR: NameError: name 'ycm_state' is not defined
+  2.179749 : ERROR: E858: Eval did not return a valid python object
+  2.190497 : looking for messages on channels
+  2.191054 : SafeState: back to waiting, triggering SafeStateAgain
+  2.191877 : ERROR: Traceback (most recent call last):
+  2.192471 : ERROR:   File "<string>", line 1, in <module>
+  2.193615 : ERROR: NameError: name 'ycm_state' is not defined
+  2.194226 : ERROR: E858: Eval did not return a valid python object
+  2.204954 : looking for messages on channels
+  2.205552 : SafeState: back to waiting, triggering SafeStateAgain
+  2.206600 : ERROR: Traceback (most recent call last):
+  2.207186 : ERROR:   File "<string>", line 1, in <module>
+  2.208546 : ERROR: NameError: name 'ycm_state' is not defined
+  2.209138 : ERROR: E858: Eval did not return a valid python object
+  2.219987 : looking for messages on channels
+  2.220576 : SafeState: back to waiting, triggering SafeStateAgain
+  2.221618 : ERROR: Traceback (most recent call last):
+  2.222109 : ERROR:   File "<string>", line 1, in <module>
+  2.223342 : ERROR: NameError: name 'ycm_state' is not defined
+  2.223939 : ERROR: E858: Eval did not return a valid python object
+  2.234452 : looking for messages on channels
+  2.234823 : SafeState: back to waiting, triggering SafeStateAgain
+  2.235801 : ERROR: Traceback (most recent call last):
+  2.236311 : ERROR:   File "<string>", line 1, in <module>
+  2.237540 : ERROR: NameError: name 'ycm_state' is not defined
+  2.238104 : ERROR: E858: Eval did not return a valid python object
+  2.248720 : looking for messages on channels
+  2.249317 : SafeState: back to waiting, triggering SafeStateAgain
+  2.250262 : ERROR: Traceback (most recent call last):
+  2.250848 : ERROR:   File "<string>", line 1, in <module>
+  2.252043 : ERROR: NameError: name 'ycm_state' is not defined
+  2.252401 : ERROR: E858: Eval did not return a valid python object
+  2.263063 : looking for messages on channels
+  2.263550 : SafeState: back to waiting, triggering SafeStateAgain
+  2.264544 : ERROR: Traceback (most recent call last):
+  2.265359 : ERROR:   File "<string>", line 1, in <module>
+  2.266638 : ERROR: NameError: name 'ycm_state' is not defined
+  2.267157 : ERROR: E858: Eval did not return a valid python object
+  2.277796 : looking for messages on channels
+  2.278329 : SafeState: back to waiting, triggering SafeStateAgain
+  2.279141 : ERROR: Traceback (most recent call last):
+  2.279587 : ERROR:   File "<string>", line 1, in <module>
+  2.280831 : ERROR: NameError: name 'ycm_state' is not defined
+  2.281264 : ERROR: E858: Eval did not return a valid python object
+  2.291751 : looking for messages on channels
+  2.292219 : SafeState: back to waiting, triggering SafeStateAgain
+  2.293068 : ERROR: Traceback (most recent call last):
+  2.293590 : ERROR:   File "<string>", line 1, in <module>
+  2.294777 : ERROR: NameError: name 'ycm_state' is not defined
+  2.295288 : ERROR: E858: Eval did not return a valid python object
+  2.305952 : looking for messages on channels
+  2.306334 : SafeState: back to waiting, triggering SafeStateAgain
+  2.307087 : ERROR: Traceback (most recent call last):
+  2.307517 : ERROR:   File "<string>", line 1, in <module>
+  2.308759 : ERROR: NameError: name 'ycm_state' is not defined
+  2.309225 : ERROR: E858: Eval did not return a valid python object
+  2.319792 : looking for messages on channels
+  2.320213 : SafeState: back to waiting, triggering SafeStateAgain
+  2.321016 : ERROR: Traceback (most recent call last):
+  2.321385 : ERROR:   File "<string>", line 1, in <module>
+  2.322348 : ERROR: NameError: name 'ycm_state' is not defined
+  2.322778 : ERROR: E858: Eval did not return a valid python object
+  2.333428 : looking for messages on channels
+  2.333985 : SafeState: back to waiting, triggering SafeStateAgain
+  2.334844 : ERROR: Traceback (most recent call last):
+  2.335286 : ERROR:   File "<string>", line 1, in <module>
+  2.336483 : ERROR: NameError: name 'ycm_state' is not defined
+  2.336927 : ERROR: E858: Eval did not return a valid python object
+  2.347541 : looking for messages on channels
+  2.348059 : SafeState: back to waiting, triggering SafeStateAgain
+  2.348975 : ERROR: Traceback (most recent call last):
+  2.349545 : ERROR:   File "<string>", line 1, in <module>
+  2.350773 : ERROR: NameError: name 'ycm_state' is not defined
+  2.351235 : ERROR: E858: Eval did not return a valid python object
+  2.361818 : looking for messages on channels
+  2.362231 : SafeState: back to waiting, triggering SafeStateAgain
+  2.363045 : ERROR: Traceback (most recent call last):
+  2.363681 : ERROR:   File "<string>", line 1, in <module>
+  2.365032 : ERROR: NameError: name 'ycm_state' is not defined
+  2.365709 : ERROR: E858: Eval did not return a valid python object
+  2.373272 : looking for messages on channels
+  2.373716 : SafeState: back to waiting, triggering SafeStateAgain
+  2.377723 : ERROR: Traceback (most recent call last):
+  2.378424 : ERROR:   File "<string>", line 1, in <module>
+  2.380056 : ERROR: NameError: name 'ycm_state' is not defined
+  2.380510 : ERROR: E858: Eval did not return a valid python object
+  2.386582 : looking for messages on channels
+  2.386996 : SafeState: back to waiting, triggering SafeStateAgain

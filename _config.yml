@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My Journey
+title: Engineer Noteblog
 email: nguyenng178@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -33,10 +33,16 @@ github_username:  nguyenntt97
 theme: "just-the-docs"
 plugins:
   - jekyll-feed
+  - jekyll-katex
 
+# Katex
+katex:
+  rendering_options:
+    # Default KaTeX rendering options. See https://github.com/Khan/KaTeX#rendering-options
+    throw_error: true                       # throwOnError - set to false if you want rendering to output error as text rather than a build error
+    error_color: "#cc0000"                  # errorColor
 
-paginate: 2
-
+color_scheme: dark
 # Define Jekyll collections
 collections:
   # Define a collection named "docs", its documents reside in the "_docs" directory
