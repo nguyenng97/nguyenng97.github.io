@@ -15,6 +15,7 @@ gem "minima", "~> 2.5"
 gem "github-pages", "212", group: :jekyll_plugins
 gem "just-the-docs"
 gem "therubyracer", :platforms => :ruby
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
