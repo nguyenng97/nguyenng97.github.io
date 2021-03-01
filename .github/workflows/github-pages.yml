@@ -14,6 +14,11 @@ jobs:
         uses: actions/setup-node@v2.1.2
         with:
           node-version: '14'
+      
+      - name: 💎 setup ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
       - name: Cache dependencies
         uses: actions/cache@v2
         with:
@@ -24,17 +29,14 @@ jobs:
 
       - run: node --version
       
-      - uses: actions/cache@v2
+      - name: 🔨 install dependencies & build site
+        uses: limjh16/jekyll-action-ts@v2
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-      - run: ruby -v
-      - uses: helaili/jekyll-action@2.0.5
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-      - uses: helaili/jekyll-action@v2
-        with:
-          token: ${{ secrets.JEKYLL_PAT }}
-          target_branch: 'gh-pages'
+          enable_cache: true
+
+      - name: 🚀 deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with: 
+          github_token: ${{ secrets.JEKYLL_PAT }}
+          publish_dir: ./_site
+          publish_branch: gh-pages 
