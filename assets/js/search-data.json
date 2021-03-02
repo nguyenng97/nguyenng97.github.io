@@ -31,7 +31,7 @@
   },"5": {
     "doc": "Probability Notes (Beginner)",
     "title": "Table of contents",
-    "content": ". | Notation | Probability | Expectation, Variance | References | . ",
+    "content": ". | Navigation Structure | Notation | Probability | Expectation, Variance | References | . ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/#table-of-contents",
     "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/#table-of-contents"
   },"6": {
@@ -82,5 +82,35 @@
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Probability/",
     "relUrl": "/docs/Probability/2021-02-28-Probability/"
+  },"14": {
+    "doc": "Probability Basic Notation",
+    "title": "Navigation Structure",
+    "content": ". | Navigation Structure | 1. Random experiment . | Why? | How? | Properties | . | 2. Outcomes, Sample space, Events . | Comparison | . | References | . ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#navigation-structure",
+    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#navigation-structure"
+  },"15": {
+    "doc": "Probability Basic Notation",
+    "title": "1. Random experiment",
+    "content": ". | Example: Rolling a die | . Why? . | To explain the behavior of a Random process (a process we know all possible outcomes but unsure when each of them happens) | . How? . | By conducting a large(?) number of trials (repeat the Random process) and observe the result at the end More | . Properties . A random experiment: . | consists of multiple trials (to be an experiment) | has more than one possible outcome | has a well-defined set of possible outcomes (i.e. sample space) | . ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#1-random-experiment",
+    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#1-random-experiment"
+  },"16": {
+    "doc": "Probability Basic Notation",
+    "title": "2. Outcomes, Sample space, Events",
+    "content": "Comparison . |   | Sample space | Outcomes | Events | . |   |   |   |   | . ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#2-outcomes-sample-space-events",
+    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#2-outcomes-sample-space-events"
+  },"17": {
+    "doc": "Probability Basic Notation",
+    "title": "References",
+    "content": " ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#references",
+    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#references"
+  },"18": {
+    "doc": "Probability Basic Notation",
+    "title": "Probability Basic Notation",
+    "content": " ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/",
+    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/"
   }
 }
