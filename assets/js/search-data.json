@@ -6,125 +6,119 @@
     "relUrl": "/"
   },"1": {
     "doc": "Home",
-    "title": "Focus on writing good documentation",
-    "content": " ",
-    "url": "http://nguyenntt97.github.io/#focus-on-writing-good-documentation",
-    "relUrl": "/#focus-on-writing-good-documentation"
-  },"2": {
-    "doc": "Home",
     "title": "Home",
-    "content": " ",
+    "content": ". | Welcome to My blog! | Probability Notes (Beginner) | Probability | Probability Basic Notation | . ",
     "url": "http://nguyenntt97.github.io/",
     "relUrl": "/"
-  },"3": {
+  },"2": {
     "doc": "Welcome to My blog!",
     "title": "Progress",
     "content": ". | Motivation | About Me | Disclaimer | Review | . ",
     "url": "http://nguyenntt97.github.io/docs/General/2021-02-26-welcome/#progress",
     "relUrl": "/docs/General/2021-02-26-welcome/#progress"
-  },"4": {
+  },"3": {
     "doc": "Welcome to My blog!",
     "title": "Motivation",
     "content": "The blog was inspired by this wonderful lecture on the study method for students by Prof. Lobdell that I luckily ran into on a certain weekend night. In the lecture, a famous method of reading and studying textbooks that I first heard of called SQ4R. Basically SQ4R is an active learning strategy to boost learning efficiency. SQ4R includes: . | Survey | Question | Read | Respond | Record | Review | . (You can read more about it here) . Long story short, the whole project is my personal attempt to challenge myself and explore a more active and proficient learning ability for my career. ",
     "url": "http://nguyenntt97.github.io/docs/General/2021-02-26-welcome/#motivation",
     "relUrl": "/docs/General/2021-02-26-welcome/#motivation"
-  },"5": {
+  },"4": {
     "doc": "Welcome to My blog!",
     "title": "About me",
     "content": "(TODO) . ",
     "url": "http://nguyenntt97.github.io/docs/General/2021-02-26-welcome/#about-me",
     "relUrl": "/docs/General/2021-02-26-welcome/#about-me"
-  },"6": {
+  },"5": {
     "doc": "Welcome to My blog!",
     "title": "Disclaimer",
     "content": "(TODO) . ",
     "url": "http://nguyenntt97.github.io/docs/General/2021-02-26-welcome/#disclaimer",
     "relUrl": "/docs/General/2021-02-26-welcome/#disclaimer"
-  },"7": {
+  },"6": {
     "doc": "Welcome to My blog!",
     "title": "Referemces",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/General/2021-02-26-welcome/#referemces",
     "relUrl": "/docs/General/2021-02-26-welcome/#referemces"
-  },"8": {
+  },"7": {
     "doc": "Welcome to My blog!",
     "title": "Welcome to My blog!",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/General/2021-02-26-welcome/",
     "relUrl": "/docs/General/2021-02-26-welcome/"
-  },"9": {
+  },"8": {
     "doc": "Probability Notes (Beginner)",
     "title": "Navigation Structure",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/#navigation-structure",
     "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/#navigation-structure"
-  },"10": {
+  },"9": {
     "doc": "Probability Notes (Beginner)",
     "title": "Table of contents",
     "content": ". | Navigation Structure | Notation | Probability | Expectation, Variance | References | . ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/#table-of-contents",
     "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/#table-of-contents"
-  },"11": {
+  },"10": {
     "doc": "Probability Notes (Beginner)",
     "title": "Notation",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/#notation",
     "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/#notation"
-  },"12": {
+  },"11": {
     "doc": "Probability Notes (Beginner)",
     "title": "Probability",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/#probability",
     "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/#probability"
-  },"13": {
+  },"12": {
     "doc": "Probability Notes (Beginner)",
     "title": "Expectation, Variance",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/#expectation-variance",
     "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/#expectation-variance"
-  },"14": {
+  },"13": {
     "doc": "Probability Notes (Beginner)",
     "title": "References",
     "content": "c=±a2+b2 c = \\pm\\sqrt{a^2 + b^2} c=±a2+b2 . ​ . This is a mixed environment where you can have normal text and c=±a2+b2c = \\pm\\sqrt{a^2 + b^2}c=±a2+b2 . ​ fenced math. ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/#references",
     "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/#references"
-  },"15": {
+  },"14": {
     "doc": "Probability Notes (Beginner)",
     "title": "Probability Notes (Beginner)",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/",
     "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/"
-  },"16": {
+  },"15": {
     "doc": "Probability",
     "title": "Probability",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Probability/",
     "relUrl": "/docs/Probability/2021-02-28-Probability/"
-  },"17": {
+  },"16": {
     "doc": "Probability Basic Notation",
     "title": "Navigation Structure",
     "content": ". | Navigation Structure | 1. Random experiment . | Why? | How? | Properties | . | 2. Outcomes, Sample space, Events . | Comparison | . | References | . ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#navigation-structure",
     "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#navigation-structure"
-  },"18": {
+  },"17": {
     "doc": "Probability Basic Notation",
     "title": "1. Random experiment",
     "content": ". | Example: Rolling a die | . Why? . | To explain the behavior of a Random process (a process we know all possible outcomes but unsure when each of them happens) | . How? . | By conducting a large(?) number of trials (repeat the Random process) and observe the result at the end More | . Properties . A random experiment: . | consists of multiple trials (to be an experiment) | has more than one possible outcome | has a well-defined set of possible outcomes (i.e. sample space) | . ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#1-random-experiment",
     "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#1-random-experiment"
-  },"19": {
+  },"18": {
     "doc": "Probability Basic Notation",
     "title": "2. Outcomes, Sample space, Events",
     "content": "Comparison . |   | Sample space | Outcomes | Events | . |   |   |   |   | . ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#2-outcomes-sample-space-events",
     "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#2-outcomes-sample-space-events"
-  },"20": {
+  },"19": {
     "doc": "Probability Basic Notation",
     "title": "References",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#references",
     "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#references"
-  },"21": {
+  },"20": {
     "doc": "Probability Basic Notation",
     "title": "Probability Basic Notation",
     "content": " ",
