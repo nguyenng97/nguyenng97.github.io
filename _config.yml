@@ -49,7 +49,10 @@ collections:
   docs:
     permalink: "/:collection/:path/"
     output: true
-
+feed:
+  collections:
+    - docs
+    
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
