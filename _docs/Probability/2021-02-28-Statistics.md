@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Probability
+title: Statistics
 nav_order: 2
 has_children: true
 ---
