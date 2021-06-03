@@ -7,7 +7,7 @@
   },"1": {
     "doc": "Home",
     "title": "Home",
-    "content": ". | Probability Notes (Beginner) | Probability | Probability Basic Notation | . ",
+    "content": ". | Probability Notes (Beginner) | Probability | Statistics | Probability Basic Notation | Sampling in Data Stream | . ",
     "url": "http://nguyenntt97.github.io/",
     "relUrl": "/"
   },"2": {
@@ -56,37 +56,67 @@
     "doc": "Probability",
     "title": "Probability",
     "content": " ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Probability%20copy/",
+    "relUrl": "/docs/Probability/2021-02-28-Probability%20copy/"
+  },"10": {
+    "doc": "Statistics",
+    "title": "Statistics",
+    "content": " ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Probability/",
     "relUrl": "/docs/Probability/2021-02-28-Probability/"
-  },"10": {
+  },"11": {
     "doc": "Probability Basic Notation",
     "title": "Navigation Structure",
     "content": ". | Navigation Structure | Random experiment . | Why? | How? | Properties | . | Outcomes, Sample space, Events . | Comparison | . | References | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#navigation-structure",
-    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#navigation-structure"
-  },"11": {
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations%20copy/#navigation-structure",
+    "relUrl": "/docs/Probability/2021-03-02-BasicNotations%20copy/#navigation-structure"
+  },"12": {
     "doc": "Probability Basic Notation",
     "title": "Random experiment",
     "content": "So we all know about the “Tossing a coin” experiment: . A coin was tossed multiple times (trials). Each trial resulted a head or tail. Why? . | To explain the behavior of a Random process (a process we know all possible outcomes but unsure when each of them happens) | . How? . | By conducting a large(?) number of trials (repeat the Random process) and observe the result at the end More | . Properties . A random experiment: . | consists of multiple trials (to be an experiment) | has more than one possible outcome | has a well-defined set of possible outcomes (i.e. sample space) | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#random-experiment",
-    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#random-experiment"
-  },"12": {
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations%20copy/#random-experiment",
+    "relUrl": "/docs/Probability/2021-03-02-BasicNotations%20copy/#random-experiment"
+  },"13": {
     "doc": "Probability Basic Notation",
     "title": "Outcomes, Sample space, Events",
     "content": "Comparison . (TODO) . |   | Sample space | Outcomes | Events | . |   |   |   |   | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#outcomes-sample-space-events",
-    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#outcomes-sample-space-events"
-  },"13": {
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations%20copy/#outcomes-sample-space-events",
+    "relUrl": "/docs/Probability/2021-03-02-BasicNotations%20copy/#outcomes-sample-space-events"
+  },"14": {
     "doc": "Probability Basic Notation",
     "title": "References",
     "content": ". | . | Shafer, Zhang - Introductory_Statistics | . | . | [] | . | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#references",
-    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#references"
-  },"14": {
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations%20copy/#references",
+    "relUrl": "/docs/Probability/2021-03-02-BasicNotations%20copy/#references"
+  },"15": {
     "doc": "Probability Basic Notation",
     "title": "Probability Basic Notation",
     "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/",
-    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/"
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations%20copy/",
+    "relUrl": "/docs/Probability/2021-03-02-BasicNotations%20copy/"
+  },"16": {
+    "doc": "Sampling in Data Stream",
+    "title": "Navigation Structure",
+    "content": ". | Navigation Structure | Sampling | References | . ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-06-03-Sampling/#navigation-structure",
+    "relUrl": "/docs/Probability/2021-06-03-Sampling/#navigation-structure"
+  },"17": {
+    "doc": "Sampling in Data Stream",
+    "title": "Sampling",
+    "content": " ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-06-03-Sampling/#sampling",
+    "relUrl": "/docs/Probability/2021-06-03-Sampling/#sampling"
+  },"18": {
+    "doc": "Sampling in Data Stream",
+    "title": "References",
+    "content": ". | . | Shafer, Zhang - Introductory_Statistics | . | . | [] | . | . ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-06-03-Sampling/#references",
+    "relUrl": "/docs/Probability/2021-06-03-Sampling/#references"
+  },"19": {
+    "doc": "Sampling in Data Stream",
+    "title": "Sampling in Data Stream",
+    "content": " ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-06-03-Sampling/",
+    "relUrl": "/docs/Probability/2021-06-03-Sampling/"
   }
 }
