@@ -6,111 +6,135 @@
     "relUrl": "/"
   },"1": {
     "doc": "Home",
+    "title": "Welcome to my blog",
+    "content": ". | Probability | Probability Advanced | Statistics | Probability Basic | Regression | Sampling in Data Stream | Machine Learning Practice | Learning Note | . ",
+    "url": "http://nguyenntt97.github.io/#welcome-to-my-blog",
+    "relUrl": "/#welcome-to-my-blog"
+  },"2": {
+    "doc": "Home",
     "title": "Home",
-    "content": ". | Probability Notes (Beginner) | Probability | Statistics | Probability Basic Notation | Sampling in Data Stream | . ",
+    "content": " ",
     "url": "http://nguyenntt97.github.io/",
     "relUrl": "/"
-  },"2": {
-    "doc": "Probability Notes (Beginner)",
-    "title": "Navigation Structure",
-    "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/#navigation-structure",
-    "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/#navigation-structure"
   },"3": {
-    "doc": "Probability Notes (Beginner)",
-    "title": "Table of contents",
-    "content": ". | Navigation Structure | Notation | Probability | Expectation, Variance | References | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/#table-of-contents",
-    "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/#table-of-contents"
-  },"4": {
-    "doc": "Probability Notes (Beginner)",
-    "title": "Notation",
-    "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/#notation",
-    "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/#notation"
-  },"5": {
-    "doc": "Probability Notes (Beginner)",
-    "title": "Probability",
-    "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/#probability",
-    "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/#probability"
-  },"6": {
-    "doc": "Probability Notes (Beginner)",
-    "title": "Expectation, Variance",
-    "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/#expectation-variance",
-    "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/#expectation-variance"
-  },"7": {
-    "doc": "Probability Notes (Beginner)",
-    "title": "References",
-    "content": "c=±a2+b2 c = \\pm\\sqrt{a^2 + b^2} c=±a2+b2 . ​ . This is a mixed environment where you can have normal text and c=±a2+b2c = \\pm\\sqrt{a^2 + b^2}c=±a2+b2 . ​ fenced math. ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/#references",
-    "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/#references"
-  },"8": {
-    "doc": "Probability Notes (Beginner)",
-    "title": "Probability Notes (Beginner)",
-    "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/",
-    "relUrl": "/docs/Probability/2021-02-28-Prob-beginner/"
-  },"9": {
     "doc": "Probability",
     "title": "Probability",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Probability/",
     "relUrl": "/docs/Probability/2021-02-28-Probability/"
-  },"10": {
+  },"4": {
+    "doc": "Probability Advanced",
+    "title": "Notation",
+    "content": "Test: curl in this example . ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_advanced/#notation",
+    "relUrl": "/docs/Probability/2021-02-28-prob_advanced/#notation"
+  },"5": {
+    "doc": "Probability Advanced",
+    "title": "Probability",
+    "content": " ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_advanced/#probability",
+    "relUrl": "/docs/Probability/2021-02-28-prob_advanced/#probability"
+  },"6": {
+    "doc": "Probability Advanced",
+    "title": "Expectation, Variance",
+    "content": " ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_advanced/#expectation-variance",
+    "relUrl": "/docs/Probability/2021-02-28-prob_advanced/#expectation-variance"
+  },"7": {
+    "doc": "Probability Advanced",
+    "title": "References",
+    "content": "c=±a2+b2 c = \\pm\\sqrt{a^2 + b^2} c=±a2+b2 . ​ . This is a mixed environment where you can have normal text and c=±a2+b2c = \\pm\\sqrt{a^2 + b^2}c=±a2+b2 . ​ fenced math. ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_advanced/#references",
+    "relUrl": "/docs/Probability/2021-02-28-prob_advanced/#references"
+  },"8": {
+    "doc": "Probability Advanced",
+    "title": "Probability Advanced",
+    "content": ". | Notation | Probability | Expectation, Variance | References | . ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_advanced/",
+    "relUrl": "/docs/Probability/2021-02-28-prob_advanced/"
+  },"9": {
     "doc": "Statistics",
     "title": "Statistics",
     "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Statistics/",
-    "relUrl": "/docs/Probability/2021-02-28-Statistics/"
-  },"11": {
-    "doc": "Probability Basic Notation",
+    "url": "http://nguyenntt97.github.io/docs/stats/2021-02-28-statistics/",
+    "relUrl": "/docs/stats/2021-02-28-statistics/"
+  },"10": {
+    "doc": "Probability Basic",
     "title": "Random experiment",
-    "content": "So we all know about the “Tossing a coin” experiment: . A coin was tossed multiple times (trials). Each trial resulted a head or tail. Why? . | To explain the behavior of a Random process (a process we know all possible outcomes but unsure when each of them happens) | . How? . | By conducting a large(?) number of trials (repeat the Random process) and observe the result at the end More | . Properties . A random experiment: . | consists of multiple trials (to be an experiment) | has more than one possible outcome | has a well-defined set of possible outcomes (i.e. sample space) | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#random-experiment",
-    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#random-experiment"
+    "content": "Concept . Random experiment. A process (or mechanism) produce definitive but uncertain output (or outcome) (e.g. tossing a coin). Random experiments are often conducted repeatedly, so that the collective results may be subjected to statistical analysis. A fixed number of repetitions of the same experiment can be thought of as a composed experiment, in which case the individual repetitions are called trials. (Experiment - Probability Theory, 2021) . Some characteristics of a random experiment includes: . | consists of multiple trials (tossing the coin multiple times). Each trial could produce a different outcome (e.g. head or tail) | a random experiment has a set of all possible outcomes which is called Sample space (e.g. Ω={Head,Tail}\\Omega = \\{Head, Tail\\}Ω={Head,Tail}) | . Sample space (Ω[omega](\\Omega _{[omega]}(Ω[omega]​ or S)S )S) . A set of all possible outcomes associated with a Random experiment. Events. A group of outcomes. All events is a member of F\\mathcal{F}F (\\mathcal{F}) which is a set of all events. Studies and experiments are conducted to deal with the uncertainty by estimate the likelihood of a specified event (e.g. two tossings produces two heads) . Probability. Likelihood of each of the possible events, denoted as a continuous number in range [0,1][0, 1][0,1]. PPP is a function mapping from events to probabilities. ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_basic/#random-experiment",
+    "relUrl": "/docs/Probability/2021-03-02-prob_basic/#random-experiment"
+  },"11": {
+    "doc": "Probability Basic",
+    "title": "References",
+    "content": ". | Experiment - Probability theory. (2021). https://en.wikipedia.org/wiki/Experiment_(probability_theory) | . ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_basic/#references",
+    "relUrl": "/docs/Probability/2021-03-02-prob_basic/#references"
   },"12": {
-    "doc": "Probability Basic Notation",
-    "title": "Outcomes, Sample space, Events",
-    "content": "Comparison . (TODO) . |   | Sample space | Outcomes | Events | . |   |   |   |   | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#outcomes-sample-space-events",
-    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#outcomes-sample-space-events"
+    "doc": "Probability Basic",
+    "title": "Probability Basic",
+    "content": ". | Random experiment . | Concept | . | References | . ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_basic/",
+    "relUrl": "/docs/Probability/2021-03-02-prob_basic/"
   },"13": {
-    "doc": "Probability Basic Notation",
+    "doc": "Regression",
+    "title": "Sampling",
+    "content": " ",
+    "url": "http://nguyenntt97.github.io/docs/ml/2021-06-03-regression/#sampling",
+    "relUrl": "/docs/ml/2021-06-03-regression/#sampling"
+  },"14": {
+    "doc": "Regression",
     "title": "References",
     "content": ". | . | Shafer, Zhang - Introductory_Statistics | . | . | [] | . | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/#references",
-    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/#references"
-  },"14": {
-    "doc": "Probability Basic Notation",
-    "title": "Probability Basic Notation",
-    "content": ". | Random experiment . | Why? | How? | Properties | . | Outcomes, Sample space, Events . | Comparison | . | References | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/",
-    "relUrl": "/docs/Probability/2021-03-02-BasicNotations/"
+    "url": "http://nguyenntt97.github.io/docs/ml/2021-06-03-regression/#references",
+    "relUrl": "/docs/ml/2021-06-03-regression/#references"
   },"15": {
-    "doc": "Sampling in Data Stream",
-    "title": "Navigation Structure",
-    "content": ". | Navigation Structure | Sampling | References | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-06-03-Sampling/#navigation-structure",
-    "relUrl": "/docs/Probability/2021-06-03-Sampling/#navigation-structure"
+    "doc": "Regression",
+    "title": "Regression",
+    "content": ". | Sampling | References | . ",
+    "url": "http://nguyenntt97.github.io/docs/ml/2021-06-03-regression/",
+    "relUrl": "/docs/ml/2021-06-03-regression/"
   },"16": {
     "doc": "Sampling in Data Stream",
     "title": "Sampling",
     "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-06-03-Sampling/#sampling",
-    "relUrl": "/docs/Probability/2021-06-03-Sampling/#sampling"
+    "url": "http://nguyenntt97.github.io/docs/stats/2021-06-03-sampling/#sampling",
+    "relUrl": "/docs/stats/2021-06-03-sampling/#sampling"
   },"17": {
     "doc": "Sampling in Data Stream",
     "title": "References",
     "content": ". | . | Shafer, Zhang - Introductory_Statistics | . | . | [] | . | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-06-03-Sampling/#references",
-    "relUrl": "/docs/Probability/2021-06-03-Sampling/#references"
+    "url": "http://nguyenntt97.github.io/docs/stats/2021-06-03-sampling/#references",
+    "relUrl": "/docs/stats/2021-06-03-sampling/#references"
   },"18": {
     "doc": "Sampling in Data Stream",
     "title": "Sampling in Data Stream",
+    "content": ". | Sampling | References | . ",
+    "url": "http://nguyenntt97.github.io/docs/stats/2021-06-03-sampling/",
+    "relUrl": "/docs/stats/2021-06-03-sampling/"
+  },"19": {
+    "doc": "Machine Learning Practice",
+    "title": "Machine Learning Practice",
     "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-06-03-Sampling/",
-    "relUrl": "/docs/Probability/2021-06-03-Sampling/"
+    "url": "http://nguyenntt97.github.io/docs/ml/2021-07-03-ml/",
+    "relUrl": "/docs/ml/2021-07-03-ml/"
+  },"20": {
+    "doc": "Learning Note",
+    "title": "SQ4R",
+    "content": "A popular technique to read learning material (Lobdell, 2015). SQ4R stands for: . | S: Survey | Q: Question | 4R: Read, Record, Recite, Review | . Survey Skim through the entire section, chapter. Read section overview, headings, pictures, graphs for a big picture. Question Be skeptical of what you read. Questioning the facts mentioned in book creates a cue to process the information the next time you read. ‘Critical thinking skills encourage students to move beyond knowing information and get to the heart of what they really think and believe’ (HunSchool - Encourage Critical Thinking, 2021). Read, Record, Recite, Review. The objective is to become more active in learning. Note down what you read. Recite it. Then review the noted content for better material retention. ",
+    "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/#sq4r",
+    "relUrl": "/docs/personal_note/2021-07-13-learning_note/#sq4r"
+  },"21": {
+    "doc": "Learning Note",
+    "title": "References",
+    "content": ". | Lobdell, M. (2015). Study Less, Study Smart: How to spend less time and learn more material. CreateSpace Independent Publishing Platform. | HunSchool - Encourage critical thinking. (2021). https://www.hunschool.org/resources/questions-for-critical-thinking | . ",
+    "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/#references",
+    "relUrl": "/docs/personal_note/2021-07-13-learning_note/#references"
+  },"22": {
+    "doc": "Learning Note",
+    "title": "Learning Note",
+    "content": ". | SQ4R | References | . ",
+    "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/",
+    "relUrl": "/docs/personal_note/2021-07-13-learning_note/"
   }
 }

@@ -1,12 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://nguyenntt97.github.io/feed/docs.xml" rel="self" type="application/atom+xml" /><link href="http://nguyenntt97.github.io/" rel="alternate" type="text/html" /><updated>2021-06-15T09:35:15+00:00</updated><id>http://nguyenntt97.github.io/feed/docs.xml</id><title type="html">Engineer Noteblog | Docs</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Sampling in Data Stream</title><link href="http://nguyenntt97.github.io/docs/Probability/2021-06-03-Sampling/" rel="alternate" type="text/html" title="Sampling in Data Stream" /><published>2021-06-03T00:00:00+00:00</published><updated>2021-06-03T00:00:00+00:00</updated><id>http://nguyenntt97.github.io/docs/Probability/Sampling</id><content type="html" xml:base="http://nguyenntt97.github.io/docs/Probability/2021-06-03-Sampling/">&lt;h2 id=&quot;navigation-structure&quot;&gt;Navigation Structure&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://nguyenntt97.github.io/feed/docs.xml" rel="self" type="application/atom+xml" /><link href="http://nguyenntt97.github.io/" rel="alternate" type="text/html" /><updated>2021-07-15T03:16:21+00:00</updated><id>http://nguyenntt97.github.io/feed/docs.xml</id><title type="html">Engineer Noteblog | Docs</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Learning Note</title><link href="http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/" rel="alternate" type="text/html" title="Learning Note" /><published>2021-07-13T00:00:00+00:00</published><updated>2021-07-13T00:00:00+00:00</updated><id>http://nguyenntt97.github.io/docs/personal_note/learning_note</id><content type="html" xml:base="http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/">&lt;details open=&quot;&quot;&gt;
+  &lt;summary class=&quot;text-delta&quot;&gt;
+    Table of contents
+  &lt;/summary&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#sq4r&quot; id=&quot;markdown-toc-sq4r&quot;&gt;SQ4R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#references&quot; id=&quot;markdown-toc-references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h3 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of contents&lt;/h3&gt;
+&lt;/details&gt;
 
-&lt;ol class=&quot;no_toc text-delta&quot; id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#navigation-structure&quot; id=&quot;markdown-toc-navigation-structure&quot;&gt;Navigation Structure&lt;/a&gt;&lt;/li&gt;
+&lt;h2 id=&quot;sq4r&quot;&gt;SQ4R&lt;/h2&gt;
+
+&lt;p&gt;A popular technique to read learning material &lt;a class=&quot;citation&quot; href=&quot;#study_less&quot;&gt;(Lobdell, 2015)&lt;/a&gt;. &lt;strong&gt;SQ4R&lt;/strong&gt; stands for:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;S: Survey&lt;/li&gt;
+  &lt;li&gt;Q: Question&lt;/li&gt;
+  &lt;li&gt;4R: Read, Record, Recite, Review&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Survey&lt;/strong&gt; Skim through the entire section, chapter. Read section overview, headings, pictures, graphs for a big picture.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Question&lt;/strong&gt; Be skeptical of what you read. Questioning the facts mentioned in book creates a cue to process the information the next time you read. &lt;em&gt;‘Critical thinking skills encourage students to move beyond knowing information and get to the heart of what they really think and believe’&lt;/em&gt; &lt;a class=&quot;citation&quot; href=&quot;#critic_thinking&quot;&gt;(&lt;i&gt;HunSchool - Encourage Critical Thinking&lt;/i&gt;, 2021)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read, Record, Recite, Review&lt;/strong&gt;. The objective is to become more active in learning. Note down what you read. Recite it. Then review the noted content for better material retention.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;study_less&quot;&gt;Lobdell, M. (2015). &lt;i&gt;Study Less, Study Smart: How to spend less time and learn more material&lt;/i&gt;. CreateSpace Independent Publishing Platform.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;critic_thinking&quot;&gt;&lt;i&gt;HunSchool - Encourage critical thinking&lt;/i&gt;. (2021). https://www.hunschool.org/resources/questions-for-critical-thinking&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name></name></author><summary type="html">Table of contents</summary></entry><entry><title type="html">Machine Learning Practice</title><link href="http://nguyenntt97.github.io/docs/ml/2021-07-03-ml/" rel="alternate" type="text/html" title="Machine Learning Practice" /><published>2021-07-03T00:00:00+00:00</published><updated>2021-07-03T00:00:00+00:00</updated><id>http://nguyenntt97.github.io/docs/ml/ml</id><content type="html" xml:base="http://nguyenntt97.github.io/docs/ml/2021-07-03-ml/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Sampling in Data Stream</title><link href="http://nguyenntt97.github.io/docs/stats/2021-06-03-sampling/" rel="alternate" type="text/html" title="Sampling in Data Stream" /><published>2021-06-03T00:00:00+00:00</published><updated>2021-06-03T00:00:00+00:00</updated><id>http://nguyenntt97.github.io/docs/stats/sampling</id><content type="html" xml:base="http://nguyenntt97.github.io/docs/stats/2021-06-03-sampling/">&lt;details open=&quot;&quot;&gt;
+  &lt;summary class=&quot;text-delta&quot;&gt;
+    Table of contents
+  &lt;/summary&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#sampling&quot; id=&quot;markdown-toc-sampling&quot;&gt;Sampling&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#references&quot; id=&quot;markdown-toc-references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;/details&gt;
 
 &lt;h2 id=&quot;sampling&quot;&gt;Sampling&lt;/h2&gt;
 
@@ -23,80 +54,18 @@
       &lt;li&gt;[]&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="statistics" /><summary type="html">Navigation Structure</summary></entry><entry><title type="html">Probability Basic Notation</title><link href="http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/" rel="alternate" type="text/html" title="Probability Basic Notation" /><published>2021-03-02T00:00:00+00:00</published><updated>2021-03-02T00:00:00+00:00</updated><id>http://nguyenntt97.github.io/docs/Probability/BasicNotations</id><content type="html" xml:base="http://nguyenntt97.github.io/docs/Probability/2021-03-02-BasicNotations/">&lt;details open=&quot;&quot;&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="statistics" /><summary type="html">Table of contents</summary></entry><entry><title type="html">Regression</title><link href="http://nguyenntt97.github.io/docs/ml/2021-06-03-regression/" rel="alternate" type="text/html" title="Regression" /><published>2021-06-03T00:00:00+00:00</published><updated>2021-06-03T00:00:00+00:00</updated><id>http://nguyenntt97.github.io/docs/ml/regression</id><content type="html" xml:base="http://nguyenntt97.github.io/docs/ml/2021-06-03-regression/">&lt;details open=&quot;&quot;&gt;
   &lt;summary class=&quot;text-delta&quot;&gt;
     Table of contents
   &lt;/summary&gt;
 &lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#random-experiment&quot; id=&quot;markdown-toc-random-experiment&quot;&gt;Random experiment&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#why&quot; id=&quot;markdown-toc-why&quot;&gt;Why?&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#how&quot; id=&quot;markdown-toc-how&quot;&gt;How?&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#properties&quot; id=&quot;markdown-toc-properties&quot;&gt;Properties&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#outcomes-sample-space-events&quot; id=&quot;markdown-toc-outcomes-sample-space-events&quot;&gt;Outcomes, Sample space, Events&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#comparison&quot; id=&quot;markdown-toc-comparison&quot;&gt;Comparison&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sampling&quot; id=&quot;markdown-toc-sampling&quot;&gt;Sampling&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#references&quot; id=&quot;markdown-toc-references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;/details&gt;
 
-&lt;h2 id=&quot;random-experiment&quot;&gt;Random experiment&lt;/h2&gt;
-
-&lt;p&gt;So we all know about the “Tossing a coin” experiment:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A coin was tossed multiple times (trials). Each trial resulted a head or tail.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;why&quot;&gt;Why?&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To explain the behavior of a &lt;em&gt;Random process&lt;/em&gt; (a process we know all possible &lt;em&gt;outcomes&lt;/em&gt; but unsure when each of them happens)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;how&quot;&gt;How?&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;By conducting a large(?) number of trials (repeat the &lt;em&gt;Random process&lt;/em&gt;) and observe the result at the end &lt;a href=&quot;https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(Shafer_and_Zhang)/03%3A_Basic_Concepts_of_Probability/3.01%3A_Sample_Spaces_Events_and_Their_Probabilities&quot; title=&quot;Sample Spaces Events and Their Probabilities&quot;&gt;More&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;properties&quot;&gt;Properties&lt;/h3&gt;
-
-&lt;p&gt;A random experiment:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;consists of multiple trials (to be an experiment)&lt;/li&gt;
-  &lt;li&gt;has more than one possible outcome&lt;/li&gt;
-  &lt;li&gt;has a well-defined set of possible outcomes (i.e. sample space)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;outcomes-sample-space-events&quot;&gt;Outcomes, Sample space, Events&lt;/h2&gt;
-
-&lt;h3 id=&quot;comparison&quot;&gt;Comparison&lt;/h3&gt;
-
-&lt;p&gt;(TODO)&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt;Sample space&lt;/th&gt;
-      &lt;th&gt;Outcomes&lt;/th&gt;
-      &lt;th&gt;Events&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;h2 id=&quot;sampling&quot;&gt;Sampling&lt;/h2&gt;
 
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
@@ -111,19 +80,66 @@
       &lt;li&gt;[]&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="probability" /><category term="theory" /><summary type="html">Table of contents</summary></entry><entry><title type="html">Statistics</title><link href="http://nguyenntt97.github.io/docs/Probability/2021-02-28-Statistics/" rel="alternate" type="text/html" title="Statistics" /><published>2021-02-28T00:00:00+00:00</published><updated>2021-02-28T00:00:00+00:00</updated><id>http://nguyenntt97.github.io/docs/Probability/Statistics</id><content type="html" xml:base="http://nguyenntt97.github.io/docs/Probability/2021-02-28-Statistics/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Probability</title><link href="http://nguyenntt97.github.io/docs/Probability/2021-02-28-Probability/" rel="alternate" type="text/html" title="Probability" /><published>2021-02-28T00:00:00+00:00</published><updated>2021-02-28T00:00:00+00:00</updated><id>http://nguyenntt97.github.io/docs/Probability/Probability</id><content type="html" xml:base="http://nguyenntt97.github.io/docs/Probability/2021-02-28-Probability/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Probability Notes (Beginner)</title><link href="http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/" rel="alternate" type="text/html" title="Probability Notes (Beginner)" /><published>2021-02-28T00:00:00+00:00</published><updated>2021-02-28T00:00:00+00:00</updated><id>http://nguyenntt97.github.io/docs/Probability/Prob-beginner</id><content type="html" xml:base="http://nguyenntt97.github.io/docs/Probability/2021-02-28-Prob-beginner/">&lt;h1 id=&quot;navigation-structure&quot;&gt;Navigation Structure&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="ml" /><summary type="html">Table of contents</summary></entry><entry><title type="html">Probability Basic</title><link href="http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_basic/" rel="alternate" type="text/html" title="Probability Basic" /><published>2021-03-02T00:00:00+00:00</published><updated>2021-03-02T00:00:00+00:00</updated><id>http://nguyenntt97.github.io/docs/Probability/prob_basic</id><content type="html" xml:base="http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_basic/">&lt;details open=&quot;&quot;&gt;
+  &lt;summary class=&quot;text-delta&quot;&gt;
+    Table of contents
+  &lt;/summary&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#random-experiment&quot; id=&quot;markdown-toc-random-experiment&quot;&gt;Random experiment&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#concept&quot; id=&quot;markdown-toc-concept&quot;&gt;Concept&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#references&quot; id=&quot;markdown-toc-references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of contents&lt;/h2&gt;
+&lt;/details&gt;
 
-&lt;ol class=&quot;no_toc text-delta&quot; id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#navigation-structure&quot; id=&quot;markdown-toc-navigation-structure&quot;&gt;Navigation Structure&lt;/a&gt;&lt;/li&gt;
+&lt;h2 id=&quot;random-experiment&quot;&gt;Random experiment&lt;/h2&gt;
+
+&lt;h3 id=&quot;concept&quot;&gt;Concept&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Random experiment&lt;/strong&gt;. A process (or mechanism) produce definitive but uncertain output (or outcome) (e.g. tossing a coin).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Random experiments&lt;/em&gt; are often conducted repeatedly, so that the collective results
+may be subjected to &lt;em&gt;statistical analysis&lt;/em&gt;.
+A fixed number of repetitions of the same experiment can be thought of as a composed
+experiment, in which case the individual repetitions are called trials. &lt;a class=&quot;citation&quot; href=&quot;#exp_wiki&quot;&gt;(&lt;i&gt;Experiment - Probability Theory&lt;/i&gt;, 2021)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some characteristics of a random experiment includes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;consists of multiple trials (tossing the coin multiple times). Each trial could produce a different outcome (e.g. head or tail)&lt;/li&gt;
+  &lt;li&gt;a random experiment has a set of all possible outcomes which is called &lt;strong&gt;Sample space&lt;/strong&gt; (e.g. &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Ω&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo stretchy=&quot;false&quot;&gt;{&lt;/mo&gt;&lt;mi&gt;H&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mo separator=&quot;true&quot;&gt;,&lt;/mo&gt;&lt;mi&gt;T&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;l&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;}&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;\Omega = \{Head, Tail\}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.68333em;vertical-align:0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;Ω&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1em;vertical-align:-0.25em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mopen&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;mord mathdefault&quot; style=&quot;margin-right:0.08125em;&quot;&gt;H&lt;/span&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;mpunct&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.16666666666666666em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathdefault&quot; style=&quot;margin-right:0.13889em;&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;mord mathdefault&quot; style=&quot;margin-right:0.01968em;&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;mclose&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Sample space &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;msub&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Ω&lt;/mi&gt;&lt;mrow&gt;&lt;mo stretchy=&quot;false&quot;&gt;[&lt;/mo&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;g&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;]&lt;/mo&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;(\Omega _{[omega]}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1.1052em;vertical-align:-0.3551999999999999em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mopen&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord&quot;&gt;Ω&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.34480000000000005em;&quot;&gt;&lt;span style=&quot;top:-2.5198em;margin-left:0em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mopen mtight&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mord mathdefault mtight&quot;&gt;o&lt;/span&gt;&lt;span class=&quot;mord mathdefault mtight&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;mord mathdefault mtight&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;mord mathdefault mtight&quot; style=&quot;margin-right:0.03588em;&quot;&gt;g&lt;/span&gt;&lt;span class=&quot;mord mathdefault mtight&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;mclose mtight&quot;&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.3551999999999999em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; or &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;S&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;S )&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1em;vertical-align:-0.25em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathdefault&quot; style=&quot;margin-right:0.05764em;&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;mclose&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt; . A set of all possible outcomes associated with a &lt;strong&gt;Random experiment&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Events&lt;/strong&gt;. A group of outcomes. All events is a member of &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi mathvariant=&quot;script&quot;&gt;F&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;\mathcal{F}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.68333em;vertical-align:0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathcal&quot; style=&quot;margin-right:0.09931em;&quot;&gt;F&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;\mathcal{F}&lt;/code&gt;) which is a set of all events.&lt;/p&gt;
+
+&lt;p&gt;Studies and experiments are conducted to deal with the uncertainty by estimate the likelihood of a specified event (e.g. two tossings produces two heads)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Probability&lt;/strong&gt;. Likelihood of each of the possible events, denoted as a continuous number in range &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mo stretchy=&quot;false&quot;&gt;[&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo separator=&quot;true&quot;&gt;,&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo stretchy=&quot;false&quot;&gt;]&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;[0, 1]&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1em;vertical-align:-0.25em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mopen&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;mpunct&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.16666666666666666em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;mclose&quot;&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;. &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;P&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.68333em;vertical-align:0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathdefault&quot; style=&quot;margin-right:0.13889em;&quot;&gt;P&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; is a function mapping from events to probabilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;exp_wiki&quot;&gt;&lt;i&gt;Experiment - Probability theory&lt;/i&gt;. (2021). https://en.wikipedia.org/wiki/Experiment_(probability_theory)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name></name></author><category term="probability" /><category term="theory" /><summary type="html">Table of contents</summary></entry><entry><title type="html">Statistics</title><link href="http://nguyenntt97.github.io/docs/stats/2021-02-28-statistics/" rel="alternate" type="text/html" title="Statistics" /><published>2021-02-28T00:00:00+00:00</published><updated>2021-02-28T00:00:00+00:00</updated><id>http://nguyenntt97.github.io/docs/stats/statistics</id><content type="html" xml:base="http://nguyenntt97.github.io/docs/stats/2021-02-28-statistics/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Probability Advanced</title><link href="http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_advanced/" rel="alternate" type="text/html" title="Probability Advanced" /><published>2021-02-28T00:00:00+00:00</published><updated>2021-02-28T00:00:00+00:00</updated><id>http://nguyenntt97.github.io/docs/Probability/prob_advanced</id><content type="html" xml:base="http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_advanced/">&lt;details open=&quot;&quot;&gt;
+  &lt;summary class=&quot;text-delta&quot;&gt;
+    Table of contents
+  &lt;/summary&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#notation&quot; id=&quot;markdown-toc-notation&quot;&gt;Notation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#probability&quot; id=&quot;markdown-toc-probability&quot;&gt;Probability&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#expectation-variance&quot; id=&quot;markdown-toc-expectation-variance&quot;&gt;Expectation, Variance&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#references&quot; id=&quot;markdown-toc-references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;/details&gt;
+
 &lt;h1 id=&quot;notation&quot;&gt;Notation&lt;/h1&gt;
+
+&lt;p style=&quot;color:gray; font-size: 80%; text-align: center;&quot;&gt;Test: curl in this example&lt;/p&gt;
 
 &lt;h1 id=&quot;probability&quot;&gt;Probability&lt;/h1&gt;
 
@@ -134,4 +150,4 @@
 c = \pm\sqrt{a^2 + b^2}
 &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.43056em;vertical-align:0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1.04em;vertical-align:-0.12661100000000003em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;±&lt;/span&gt;&lt;span class=&quot;mord sqrt&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.913389em;&quot;&gt;&lt;span class=&quot;svg-align&quot; style=&quot;top:-3em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot; style=&quot;padding-left:0.833em;&quot;&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.740108em;&quot;&gt;&lt;span style=&quot;top:-2.9890000000000003em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2222222222222222em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mbin&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2222222222222222em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.740108em;&quot;&gt;&lt;span style=&quot;top:-2.9890000000000003em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.873389em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;hide-tail&quot; style=&quot;min-width:0.853em;height:1.08em;&quot;&gt;&lt;svg width=&quot;400em&quot; height=&quot;1.08em&quot; viewBox=&quot;0 0 400000 1080&quot; preserveAspectRatio=&quot;xMinYMin slice&quot;&gt;&lt;path d=&quot;M95,702 c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14 c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54 c44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10 s173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429 c69,-144,104.5,-217.7,106.5,-221 l0 -0 c5.3,-9.3,12,-14,20,-14 H400000v40H845.2724 s-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7 c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z M834 80h400000v40h-400000z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.12661100000000003em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;This is a mixed environment where you can have normal text and &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;±&lt;/mo&gt;&lt;msqrt&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;/msqrt&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;c = \pm\sqrt{a^2 + b^2}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.43056em;vertical-align:0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1.04em;vertical-align:-0.12661100000000003em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;±&lt;/span&gt;&lt;span class=&quot;mord sqrt&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.913389em;&quot;&gt;&lt;span class=&quot;svg-align&quot; style=&quot;top:-3em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot; style=&quot;padding-left:0.833em;&quot;&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.740108em;&quot;&gt;&lt;span style=&quot;top:-2.9890000000000003em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2222222222222222em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mbin&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2222222222222222em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.740108em;&quot;&gt;&lt;span style=&quot;top:-2.9890000000000003em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.873389em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;hide-tail&quot; style=&quot;min-width:0.853em;height:1.08em;&quot;&gt;&lt;svg width=&quot;400em&quot; height=&quot;1.08em&quot; viewBox=&quot;0 0 400000 1080&quot; preserveAspectRatio=&quot;xMinYMin slice&quot;&gt;&lt;path d=&quot;M95,702 c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14 c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54 c44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10 s173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429 c69,-144,104.5,-217.7,106.5,-221 l0 -0 c5.3,-9.3,12,-14,20,-14 H400000v40H845.2724 s-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7 c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z M834 80h400000v40h-400000z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.12661100000000003em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; fenced math.&lt;/p&gt;</content><author><name></name></author><category term="probability" /><category term="theory" /><summary type="html">Navigation Structure</summary></entry></feed>
+&lt;p&gt;This is a mixed environment where you can have normal text and &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;±&lt;/mo&gt;&lt;msqrt&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;/msqrt&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;c = \pm\sqrt{a^2 + b^2}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.43056em;vertical-align:0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1.04em;vertical-align:-0.12661100000000003em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;±&lt;/span&gt;&lt;span class=&quot;mord sqrt&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.913389em;&quot;&gt;&lt;span class=&quot;svg-align&quot; style=&quot;top:-3em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot; style=&quot;padding-left:0.833em;&quot;&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.740108em;&quot;&gt;&lt;span style=&quot;top:-2.9890000000000003em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2222222222222222em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mbin&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2222222222222222em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathdefault&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.740108em;&quot;&gt;&lt;span style=&quot;top:-2.9890000000000003em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.873389em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;hide-tail&quot; style=&quot;min-width:0.853em;height:1.08em;&quot;&gt;&lt;svg width=&quot;400em&quot; height=&quot;1.08em&quot; viewBox=&quot;0 0 400000 1080&quot; preserveAspectRatio=&quot;xMinYMin slice&quot;&gt;&lt;path d=&quot;M95,702 c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14 c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54 c44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10 s173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429 c69,-144,104.5,-217.7,106.5,-221 l0 -0 c5.3,-9.3,12,-14,20,-14 H400000v40H845.2724 s-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7 c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z M834 80h400000v40h-400000z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.12661100000000003em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; fenced math.&lt;/p&gt;</content><author><name></name></author><category term="probability" /><category term="theory" /><summary type="html">Table of contents</summary></entry><entry><title type="html">Probability</title><link href="http://nguyenntt97.github.io/docs/Probability/2021-02-28-Probability/" rel="alternate" type="text/html" title="Probability" /><published>2021-02-28T00:00:00+00:00</published><updated>2021-02-28T00:00:00+00:00</updated><id>http://nguyenntt97.github.io/docs/Probability/Probability</id><content type="html" xml:base="http://nguyenntt97.github.io/docs/Probability/2021-02-28-Probability/"></content><author><name></name></author><summary type="html"></summary></entry></feed>
