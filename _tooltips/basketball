@@ -1,0 +1,6 @@
+---
+title:  "Probability Notes (Beginner)"
+doc_id: basketball
+product: docs
+---
+{{ site.data.definitions.basketball }}

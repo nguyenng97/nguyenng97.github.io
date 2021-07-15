@@ -29,11 +29,20 @@ url: "http://nguyenntt97.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  nguyenntt97
 
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
 # Build settings
 theme: "just-the-docs"
 plugins:
   - jekyll-feed
   - jekyll-katex
+  - jekyll-scholar
+
+# Scholar
+scholar:
+  style: apa
 
 # Katex
 katex:
@@ -49,6 +58,9 @@ collections:
   docs:
     permalink: "/:collection/:path/"
     output: true
+  tooltips:
+    output: false
+    
 feed:
   collections:
     - docs

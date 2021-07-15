@@ -1,23 +1,25 @@
 ---
 layout: default
-title:  "Probability Notes (Beginner)"
+title:  "Probability Advanced"
 parent: "Probability"
 categories: probability theory
 published: true
+nav_order: 2
 ---
 
-# Navigation Structure
-
-{: .no_toc }
-
-## Table of contents
-
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 # Notation
+
+Test: curl in this example
+{: style="color:gray; font-size: 80%; text-align: center;"}
 
 # Probability
 
