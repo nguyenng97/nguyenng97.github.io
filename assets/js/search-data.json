@@ -7,7 +7,7 @@
   },"1": {
     "doc": "Home",
     "title": "Welcome to my blog",
-    "content": ". | Probability | Probability Advanced | Statistics | Probability Basic | Regression | Sampling in Data Stream | Machine Learning Practice | Learning Note | . ",
+    "content": ". | Probability | Probability Advanced | Statistics | Overview | Regression | Sampling in Data Stream | Machine Learning Practice | Learning Note | . ",
     "url": "http://nguyenntt97.github.io/#welcome-to-my-blog",
     "relUrl": "/#welcome-to-my-blog"
   },"2": {
@@ -26,32 +26,32 @@
     "doc": "Probability Advanced",
     "title": "Notation",
     "content": "Test: curl in this example . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_advanced/#notation",
-    "relUrl": "/docs/Probability/2021-02-28-prob_advanced/#notation"
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_distro/#notation",
+    "relUrl": "/docs/Probability/2021-02-28-prob_distro/#notation"
   },"5": {
     "doc": "Probability Advanced",
     "title": "Probability",
     "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_advanced/#probability",
-    "relUrl": "/docs/Probability/2021-02-28-prob_advanced/#probability"
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_distro/#probability",
+    "relUrl": "/docs/Probability/2021-02-28-prob_distro/#probability"
   },"6": {
     "doc": "Probability Advanced",
     "title": "Expectation, Variance",
     "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_advanced/#expectation-variance",
-    "relUrl": "/docs/Probability/2021-02-28-prob_advanced/#expectation-variance"
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_distro/#expectation-variance",
+    "relUrl": "/docs/Probability/2021-02-28-prob_distro/#expectation-variance"
   },"7": {
     "doc": "Probability Advanced",
     "title": "References",
     "content": "c=±a2+b2 c = \\pm\\sqrt{a^2 + b^2} c=±a2+b2 . ​ . This is a mixed environment where you can have normal text and c=±a2+b2c = \\pm\\sqrt{a^2 + b^2}c=±a2+b2 . ​ fenced math. ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_advanced/#references",
-    "relUrl": "/docs/Probability/2021-02-28-prob_advanced/#references"
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_distro/#references",
+    "relUrl": "/docs/Probability/2021-02-28-prob_distro/#references"
   },"8": {
     "doc": "Probability Advanced",
     "title": "Probability Advanced",
     "content": ". | Notation | Probability | Expectation, Variance | References | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_advanced/",
-    "relUrl": "/docs/Probability/2021-02-28-prob_advanced/"
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_distro/",
+    "relUrl": "/docs/Probability/2021-02-28-prob_distro/"
   },"9": {
     "doc": "Statistics",
     "title": "Statistics",
@@ -59,23 +59,23 @@
     "url": "http://nguyenntt97.github.io/docs/stats/2021-02-28-statistics/",
     "relUrl": "/docs/stats/2021-02-28-statistics/"
   },"10": {
-    "doc": "Probability Basic",
-    "title": "Random experiment",
-    "content": "Concept . Random experiment. A process (or mechanism) produce definitive but uncertain output (or outcome) (e.g. tossing a coin). Random experiments are often conducted repeatedly, so that the collective results may be subjected to statistical analysis. A fixed number of repetitions of the same experiment can be thought of as a composed experiment, in which case the individual repetitions are called trials. (Experiment - Probability Theory, 2021) . Some characteristics of a random experiment includes: . | consists of multiple trials (tossing the coin multiple times). Each trial could produce a different outcome (e.g. head or tail) | a random experiment has a set of all possible outcomes which is called Sample space (e.g. Ω={Head,Tail}\\Omega = \\{Head, Tail\\}Ω={Head,Tail}) | . Sample space (Ω[omega](\\Omega _{[omega]}(Ω[omega]​ or S)S )S) . A set of all possible outcomes associated with a Random experiment. Events. A group of outcomes. All events is a member of F\\mathcal{F}F (\\mathcal{F}) which is a set of all events. Studies and experiments are conducted to deal with the uncertainty by estimate the likelihood of a specified event (e.g. two tossings produces two heads) . Probability. Likelihood of each of the possible events, denoted as a continuous number in range [0,1][0, 1][0,1]. PPP is a function mapping from events to probabilities. ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_basic/#random-experiment",
-    "relUrl": "/docs/Probability/2021-03-02-prob_basic/#random-experiment"
+    "doc": "Overview",
+    "title": "Concepts",
+    "content": "1. Random experiment . Studies and experiments are conducted to deal with the uncertainty by estimate the likelihood of a specified event (e.g. two tossings produces two heads). Random experiment. A process (or mechanism) produce definitive but uncertain output (or outcome) (e.g. tossing a coin). Random experiments are often conducted repeatedly, so that the collective results may be subjected to statistical analysis. A fixed number of repetitions of the same experiment can be thought of as a composed experiment, in which case the individual repetitions are called trials. (Experiment - Probability Theory, 2021) . Some characteristics of a random experiment includes: . | consists of multiple trials (tossing the coin multiple times). Each trial produces one and only one outcome (e.g. head or tail) | a random experiment has a set of all possible outcomes, called Sample space, denoted as Ω\\OmegaΩ or SSS (e.g. Ω={Head,Tail}\\Omega = \\{Head, Tail\\}Ω={Head,Tail}) | . Sample space (Ω[omega](\\Omega _{[omega]}(Ω[omega]​ or S)S )S) . A set of all possible outcomes associated with a Random experiment. Each Outcome is an element of the Sample space. Sample space’s cardinality (i.e. size of a set)—represented as n(A)n(A)n(A)—could be ‘finite, countably infinite, or noncountably infinite’ (Larson &amp; Odoni, 1981). To summary, there are tree different types of Sample spaces: . | Countability | Cardinality | Discrete/Continuous | Example | . | Countable | Finite | Discrete | heads,tails{heads, tails}heads,tails in the simple toss of a coin | . | Countable | Infinite | Discrete | [1,2,3,...][1, 2, 3, ...][1,2,3,...], describing the possible number of fire alarms in a city during a year | . | Noncountable | Infinite | Continuous | 0≤x≤10,0≤y≤10{0 \\leq x \\leq 10, 0 \\leq y \\leq 10}0≤x≤10,0≤y≤10, describing the possible locations of required on-the-scene social services in a city 10 by 10 miles square. | . Events. A group of outcomes. All events is a member of F\\mathcal{F}F (\\mathcal{F}) which is a set of all events. 2. Probability . Back to aforementioned statement in the previous section: . Studies and experiments are conducted to deal with the uncertainty by estimate the likelihood of a specified event. So where does the uncertainty in the event occurence come from? . According to (Shapiro, 1999), there are 3 kinds of source leading to the random behavior in a [classification] system: . | True random component, e.g., random noise in measurement | Random component due to modeling, e.g., systems learn from sampled data | Incomplete information, e.g., unknown domain knowledge or knowledge on the phenomena | . To address these uncertain elements, we assign a Probability—a value between 0 and 1—to an event. Probability. Likelihood of each of the possible events (on a single trial), denoted as a continuous number in range [0,1][0, 1][0,1]. P\\mathbf{P}P is a function mapping from events to probabilities. Axioms of Probability: . | Axiom 1: For any event A,P(A)≥0A, \\mathbf{P}(A)\\geq 0A,P(A)≥0. | Axiom 2: P(S)=1\\mathbf{P}(S) = 1P(S)=1, SSS is the Sample space | Axiom 3: Suppose A1..nA_{1..n}A1..n​ are disjoint events: P(A1∪A2∪...)=P(A1)+P(A2)+...\\mathbf{P}(A_1 \\cup A_2 \\cup ...) = \\mathbf{P}(A_1) + \\mathbf{P}(A_2) + ...P(A1​∪A2​∪...)=P(A1​)+P(A2​)+... | . ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_overview/#concepts",
+    "relUrl": "/docs/Probability/2021-03-02-prob_overview/#concepts"
   },"11": {
-    "doc": "Probability Basic",
+    "doc": "Overview",
     "title": "References",
-    "content": ". | Experiment - Probability theory. (2021). https://en.wikipedia.org/wiki/Experiment_(probability_theory) | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_basic/#references",
-    "relUrl": "/docs/Probability/2021-03-02-prob_basic/#references"
+    "content": ". | Experiment - Probability theory. (2021). https://en.wikipedia.org/wiki/Experiment_(probability_theory)[Online; accessed 2021-07-14] LINK | Larson, R. C., &amp; Odoni, A. R. (1981). Brief Review of Probabilistic Modeling. In Urban Operations Research. Prentice-Hall. https://web.mit.edu/urban_or_book/www/book/chapter2/contents2.html[Online; accessed 2021-07-14] LINK | Shapiro, J. (1999). A Primer on Probability. https://apt.cs.manchester.ac.uk/ftp/pub/ai/jls/CS2411/prob97/[Online; accessed 2021-07-15] LINK | . ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_overview/#references",
+    "relUrl": "/docs/Probability/2021-03-02-prob_overview/#references"
   },"12": {
-    "doc": "Probability Basic",
-    "title": "Probability Basic",
-    "content": ". | Random experiment . | Concept | . | References | . ",
-    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_basic/",
-    "relUrl": "/docs/Probability/2021-03-02-prob_basic/"
+    "doc": "Overview",
+    "title": "Overview",
+    "content": ". | Concepts . | 1. Random experiment | 2. Probability | . | References | . ",
+    "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_overview/",
+    "relUrl": "/docs/Probability/2021-03-02-prob_overview/"
   },"13": {
     "doc": "Regression",
     "title": "Sampling",
@@ -126,14 +126,20 @@
     "relUrl": "/docs/personal_note/2021-07-13-learning_note/#sq4r"
   },"21": {
     "doc": "Learning Note",
-    "title": "References",
-    "content": ". | Lobdell, M. (2015). Study Less, Study Smart: How to spend less time and learn more material. CreateSpace Independent Publishing Platform. | HunSchool - Encourage critical thinking. (2021). https://www.hunschool.org/resources/questions-for-critical-thinking | . ",
-    "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/#references",
-    "relUrl": "/docs/personal_note/2021-07-13-learning_note/#references"
+    "title": "Mathematical logic",
+    "content": ". | Axiom (Axiom Wikipedia, 2021): An axiom, postulate or assumption is a statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments. The word comes from the Greek axíōma (ἀξίωμα) ‘that which is thought worthy or fit’ or ‘that which commends itself as evident. | . ",
+    "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/#mathematical-logic",
+    "relUrl": "/docs/personal_note/2021-07-13-learning_note/#mathematical-logic"
   },"22": {
     "doc": "Learning Note",
+    "title": "References",
+    "content": ". | Lobdell, M. (2015). Study Less, Study Smart: How to spend less time and learn more material. CreateSpace Independent Publishing Platform. | HunSchool - Encourage critical thinking. (2021). https://www.hunschool.org/resources/questions-for-critical-thinking LINK | Axiom Wikipedia. (2021). https://en.wikipedia.org/wiki/Axiom[Online; accessed 2021-07-14] LINK | . ",
+    "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/#references",
+    "relUrl": "/docs/personal_note/2021-07-13-learning_note/#references"
+  },"23": {
+    "doc": "Learning Note",
     "title": "Learning Note",
-    "content": ". | SQ4R | References | . ",
+    "content": ". | SQ4R | Mathematical logic | References | . ",
     "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/",
     "relUrl": "/docs/personal_note/2021-07-13-learning_note/"
   }
