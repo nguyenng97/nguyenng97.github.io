@@ -28,6 +28,10 @@ A popular technique to read learning material {% cite study_less --file learn_bo
 
 **Read, Record, Recite, Review**. The objective is to become more active in learning. Note down what you read. Recite it. Then review the noted content for better material retention.
 
+## Mathematical logic
+
+- **Axiom** {%cite axiom --file learn_books%}: An *axiom*, *postulate* or *assumption* is a statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments. The word comes from the Greek axíōma (ἀξίωμα) 'that which is thought worthy or fit' or 'that which commends itself as evident.
+
 ## References
 
 {% bibliography --file learn_books --cited %}

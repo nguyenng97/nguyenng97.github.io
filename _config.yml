@@ -42,7 +42,9 @@ plugins:
 
 # Scholar
 scholar:
-  style: apa
+  bibliography_template: bib
+  style: _bibliography/apa.csl
+  use_raw_bibtex_entry: true
 
 # Katex
 katex:
