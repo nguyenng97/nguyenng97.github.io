@@ -13,6 +13,7 @@ nav_order: 1
 1. TOC
 {:toc}
 </details>
+
 {% katexmm %}
 
 ## Concepts
@@ -33,23 +34,54 @@ Some characteristics of a random experiment includes:
 - consists of multiple trials (tossing the coin multiple times). Each trial produces one and only one outcome (e.g. head or tail)
 - a random experiment has a set of all possible outcomes, called **Sample space**, denoted as $\Omega$ or $S$ (e.g. $\Omega = \{Head, Tail\}$)
 
+***
+
+### 2. Sample space, Event
+
+> The finest-grained list of outcomes for an experiment is the sample space of the experiment {%cite uor --file learn_books.bib%}
+
 **Sample space $(\Omega _{[omega]}$ or $S )$** . A set of all possible outcomes associated with a **Random experiment**. Each **Outcome** is an element of the **Sample space**.
 
-Sample space's cardinality (i.e. size of a set)—represented as $n(A)$—could be 'finite, countably infinite, or noncountably infinite' {%cite uor --file learn_books.bib%}.
+Sample space's cardinality (i.e. size of a set)—represented as $n(A)$—could be 'finite, countably infinite, or noncountably infinite'.
 
-To summary, there are tree different types of Sample spaces:
+To summary, there are 3 different types of Sample spaces:
 
 | Countability | Cardinality | Discrete/Continuous | Example |
 |:------------:|:-----------:|:------------:|:--------|
-| Countable    | Finite      | Discrete     |${heads, tails}$ in the simple toss of a coin|
-| Countable    | Infinite    | Discrete     |$[1, 2, 3, ...]$, describing the possible number of fire alarms in a city during a year|
-| Noncountable | Infinite    | Continuous   |${0 \leq x \leq 10, 0 \leq y \leq 10}$, describing the possible locations of required on-the-scene social services in a city 10 by 10 miles square. |
+| Countable    | Finite      | Discrete     |$\{heads, tails\}$ in the simple toss of a coin|
+| Countable    | Infinite    | Discrete     |$\{1, 2, 3, ...\}$ describing the possible number of fire alarms in a city during a year|
+| Noncountable | Infinite    | Continuous   |$\{0 \leq x \leq 10, 0 \leq y \leq 10\}$, describing the possible locations of required on-the-scene social services in a city 10 by 10 miles square. |
 
-**Events**. A group of outcomes. All events is a member of $\mathcal{F}$ (`\mathcal{F}`) which is a set of all events.
+**Events**. A group of zero or more outcomes. All events is a member of $\mathcal{F}$ (`\mathcal{F}`) which is a set of all events.
 
 ***
 
-### 2. Probability
+Editing
+{: .label .label-yellow }
+
+- [ ] Key operations details
+- [ ] Algebraic details
+
+**Algebra of Events:**
+
+<dl>
+  <dt>3 key operations</dt>
+  <dd>Union</dd>
+  <dd>Intersection</dd>
+  <dd>Complement</dd>
+  <dt>7 algebraic axioms</dt>
+  <dd>Commutative law</dd>
+  <dd>Associative law</dd>
+  <dd>Distributive law</dd>
+  <dd>Complement of the complement</dd>
+  <dd>Complement of the intersection</dd>
+  <dd>Intersection of self-complement</dd>
+  <dd>Intersection with the universe of events</dd>
+</dl>
+
+***
+
+### 3. Probability
 
 Back to aforementioned statement in the [previous section](#1-random-experiment):
 
