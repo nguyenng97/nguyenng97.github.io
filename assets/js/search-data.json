@@ -7,7 +7,7 @@
   },"1": {
     "doc": "Home",
     "title": "Welcome to my blog",
-    "content": ". | Probability | Probability Advanced | Statistics | Overview | Regression | Sampling in Data Stream | Machine Learning Practice | Learning Note | . ",
+    "content": ". | Probability | Probability Advanced | Statistics | Overview | Regression | Sampling in Data Stream | Machine Learning Practice | Learning Note | Overview | Linear Algebra | . ",
     "url": "http://nguyenntt97.github.io/#welcome-to-my-blog",
     "relUrl": "/#welcome-to-my-blog"
   },"2": {
@@ -61,7 +61,7 @@
   },"10": {
     "doc": "Overview",
     "title": "Concepts",
-    "content": "1. Random experiment . Studies and experiments are conducted to deal with the uncertainty by estimate the likelihood of a specified event (e.g. two tossings produces two heads). Random experiment. A process (or mechanism) produce definitive but uncertain output (or outcome) (e.g. tossing a coin). Random experiments are often conducted repeatedly, so that the collective results may be subjected to statistical analysis. A fixed number of repetitions of the same experiment can be thought of as a composed experiment, in which case the individual repetitions are called trials. (Experiment - Probability Theory, 2021) . Some characteristics of a random experiment includes: . | consists of multiple trials (tossing the coin multiple times). Each trial produces one and only one outcome (e.g. head or tail) | a random experiment has a set of all possible outcomes, called Sample space, denoted as Ω\\OmegaΩ or SSS (e.g. Ω={Head,Tail}\\Omega = \\{Head, Tail\\}Ω={Head,Tail}) | . Sample space (Ω[omega](\\Omega _{[omega]}(Ω[omega]​ or S)S )S) . A set of all possible outcomes associated with a Random experiment. Each Outcome is an element of the Sample space. Sample space’s cardinality (i.e. size of a set)—represented as n(A)n(A)n(A)—could be ‘finite, countably infinite, or noncountably infinite’ (Larson &amp; Odoni, 1981). To summary, there are tree different types of Sample spaces: . | Countability | Cardinality | Discrete/Continuous | Example | . | Countable | Finite | Discrete | heads,tails{heads, tails}heads,tails in the simple toss of a coin | . | Countable | Infinite | Discrete | [1,2,3,...][1, 2, 3, ...][1,2,3,...], describing the possible number of fire alarms in a city during a year | . | Noncountable | Infinite | Continuous | 0≤x≤10,0≤y≤10{0 \\leq x \\leq 10, 0 \\leq y \\leq 10}0≤x≤10,0≤y≤10, describing the possible locations of required on-the-scene social services in a city 10 by 10 miles square. | . Events. A group of outcomes. All events is a member of F\\mathcal{F}F (\\mathcal{F}) which is a set of all events. 2. Probability . Back to aforementioned statement in the previous section: . Studies and experiments are conducted to deal with the uncertainty by estimate the likelihood of a specified event. So where does the uncertainty in the event occurence come from? . According to (Shapiro, 1999), there are 3 kinds of source leading to the random behavior in a [classification] system: . | True random component, e.g., random noise in measurement | Random component due to modeling, e.g., systems learn from sampled data | Incomplete information, e.g., unknown domain knowledge or knowledge on the phenomena | . To address these uncertain elements, we assign a Probability—a value between 0 and 1—to an event. Probability. Likelihood of each of the possible events (on a single trial), denoted as a continuous number in range [0,1][0, 1][0,1]. P\\mathbf{P}P is a function mapping from events to probabilities. Axioms of Probability: . | Axiom 1: For any event A,P(A)≥0A, \\mathbf{P}(A)\\geq 0A,P(A)≥0. | Axiom 2: P(S)=1\\mathbf{P}(S) = 1P(S)=1, SSS is the Sample space | Axiom 3: Suppose A1..nA_{1..n}A1..n​ are disjoint events: P(A1∪A2∪...)=P(A1)+P(A2)+...\\mathbf{P}(A_1 \\cup A_2 \\cup ...) = \\mathbf{P}(A_1) + \\mathbf{P}(A_2) + ...P(A1​∪A2​∪...)=P(A1​)+P(A2​)+... | . ",
+    "content": "1. Random experiment . Studies and experiments are conducted to deal with the uncertainty by estimate the likelihood of a specified event (e.g. two tossings produces two heads). Random experiment. A process (or mechanism) produce definitive but uncertain output (or outcome) (e.g. tossing a coin). Random experiments are often conducted repeatedly, so that the collective results may be subjected to statistical analysis. A fixed number of repetitions of the same experiment can be thought of as a composed experiment, in which case the individual repetitions are called trials. (Experiment - Probability Theory, 2021) . Some characteristics of a random experiment includes: . | consists of multiple trials (tossing the coin multiple times). Each trial produces one and only one outcome (e.g. head or tail) | a random experiment has a set of all possible outcomes, called Sample space, denoted as Ω\\OmegaΩ or SSS (e.g. Ω={Head,Tail}\\Omega = \\{Head, Tail\\}Ω={Head,Tail}) | . 2. Sample space, Event . The finest-grained list of outcomes for an experiment is the sample space of the experiment (Larson &amp; Odoni, 1981) . Sample space (Ω[omega](\\Omega _{[omega]}(Ω[omega]​ or S)S )S) . A set of all possible outcomes associated with a Random experiment. Each Outcome is an element of the Sample space. Sample space’s cardinality (i.e. size of a set)—represented as n(A)n(A)n(A)—could be ‘finite, countably infinite, or noncountably infinite’. To summary, there are 3 different types of Sample spaces: . | Countability | Cardinality | Discrete/Continuous | Example | . | Countable | Finite | Discrete | {heads,tails}\\{heads, tails\\}{heads,tails} in the simple toss of a coin | . | Countable | Infinite | Discrete | {1,2,3,...}\\{1, 2, 3, ...\\}{1,2,3,...} describing the possible number of fire alarms in a city during a year | . | Noncountable | Infinite | Continuous | {0≤x≤10,0≤y≤10}\\{0 \\leq x \\leq 10, 0 \\leq y \\leq 10\\}{0≤x≤10,0≤y≤10}, describing the possible locations of required on-the-scene social services in a city 10 by 10 miles square. | . Events. A group of zero or more outcomes. All events is a member of F\\mathcal{F}F (\\mathcal{F}) which is a set of all events. Editing . | Key operations details | Algebraic details | . Algebra of Events: . 3 key operations Union Intersection Complement 7 algebraic axioms Commutative law Associative law Distributive law Complement of the complement Complement of the intersection Intersection of self-complement Intersection with the universe of events . 3. Probability . Back to aforementioned statement in the previous section: . Studies and experiments are conducted to deal with the uncertainty by estimate the likelihood of a specified event. So where does the uncertainty in the event occurence come from? . According to (Shapiro, 1999), there are 3 kinds of source leading to the random behavior in a [classification] system: . | True random component, e.g., random noise in measurement | Random component due to modeling, e.g., systems learn from sampled data | Incomplete information, e.g., unknown domain knowledge or knowledge on the phenomena | . To address these uncertain elements, we assign a Probability—a value between 0 and 1—to an event. Probability. Likelihood of each of the possible events (on a single trial), denoted as a continuous number in range [0,1][0, 1][0,1]. P\\mathbf{P}P is a function mapping from events to probabilities. Axioms of Probability: . | Axiom 1: For any event A,P(A)≥0A, \\mathbf{P}(A)\\geq 0A,P(A)≥0. | Axiom 2: P(S)=1\\mathbf{P}(S) = 1P(S)=1, SSS is the Sample space | Axiom 3: Suppose A1..nA_{1..n}A1..n​ are disjoint events: P(A1∪A2∪...)=P(A1)+P(A2)+...\\mathbf{P}(A_1 \\cup A_2 \\cup ...) = \\mathbf{P}(A_1) + \\mathbf{P}(A_2) + ...P(A1​∪A2​∪...)=P(A1​)+P(A2​)+... | . ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_overview/#concepts",
     "relUrl": "/docs/Probability/2021-03-02-prob_overview/#concepts"
   },"11": {
@@ -73,7 +73,7 @@
   },"12": {
     "doc": "Overview",
     "title": "Overview",
-    "content": ". | Concepts . | 1. Random experiment | 2. Probability | . | References | . ",
+    "content": ". | Concepts . | 1. Random experiment | 2. Sample space, Event | 3. Probability | . | References | . ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_overview/",
     "relUrl": "/docs/Probability/2021-03-02-prob_overview/"
   },"13": {
@@ -142,5 +142,35 @@
     "content": ". | SQ4R | Mathematical logic | References | . ",
     "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/",
     "relUrl": "/docs/personal_note/2021-07-13-learning_note/"
+  },"24": {
+    "doc": "Overview",
+    "title": "Notation",
+    "content": "| Name | Description | Example | LaTeX | . | Vector | Bold, lowercase font | x=[x1x2⋮xm],x∈Rn\\boldsymbol{x}=\\begin{bmatrix} x_{1} \\\\ x_{2} \\\\ \\vdots \\\\ x_{m}\\end{bmatrix}, \\boldsymbol{x}\\in \\mathbb{R}^nx=⎣⎢⎢⎢⎢⎡​x1​x2​⋮xm​​⎦⎥⎥⎥⎥⎤​,x∈Rn | $ \\boldsymbol{x} $ | . | Matrix | Bold, uppercase font | A=[x1,1…x1,m⋮⋱⋮xn,1…xn,m]\\boldsymbol{A}=\\begin{bmatrix} x_{1,1} &amp; \\dots &amp; x_{1,m} \\\\ \\vdots &amp; \\ddots &amp; \\vdots \\\\ x_{n,1} &amp; \\dots &amp; x_{n,m} \\end{bmatrix}A=⎣⎢⎢⎡​x1,1​⋮xn,1​​…⋱…​x1,m​⋮xn,m​​⎦⎥⎥⎤​, A∈Rn×m\\boldsymbol{A}\\in \\mathbb{R}^{n\\times m}A∈Rn×m | $ \\boldsymbol{A} $ | . | Matrix Entry |   | Ai,j\\boldsymbol{A}_{i,j}Ai,j​ is the entry in the ithi^{th}ith row and jthj^{th}jth column | $ \\boldsymbol{A}_{i,j} $ | . ",
+    "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-la_overview/#notation",
+    "relUrl": "/docs/algebra/2021-07-16-la_overview/#notation"
+  },"25": {
+    "doc": "Overview",
+    "title": "Concepts",
+    "content": "Figure 1: Linear Algebra mindmap (Deisenroth et al., 2020) . Matrix . y=[x1x2⋮xm][x1x2⋮xm] \\begin{aligned} y &amp;= \\begin{bmatrix} x_{1} \\\\ x_{2} \\\\ \\vdots \\\\ x_{m} \\end{bmatrix} \\begin{bmatrix} x_{1} \\\\ x_{2} \\\\ \\vdots \\\\ x_{m} \\end{bmatrix} \\end{aligned} y​=⎣⎢⎢⎢⎢⎡​x1​x2​⋮xm​​⎦⎥⎥⎥⎥⎤​⎣⎢⎢⎢⎢⎡​x1​x2​⋮xm​​⎦⎥⎥⎥⎥⎤​​ . ",
+    "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-la_overview/#concepts",
+    "relUrl": "/docs/algebra/2021-07-16-la_overview/#concepts"
+  },"26": {
+    "doc": "Overview",
+    "title": "References",
+    "content": ". | Deisenroth, M. P., Faisal, A. A., &amp; Ong, C. S. (2020). Mathematics for Machine Learning. Cambridge University Press. https://doi.org/10.1017/9781108679930 DOI LINK | . ",
+    "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-la_overview/#references",
+    "relUrl": "/docs/algebra/2021-07-16-la_overview/#references"
+  },"27": {
+    "doc": "Overview",
+    "title": "Overview",
+    "content": ". | Notation | Concepts . | Matrix | . | References | . ",
+    "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-la_overview/",
+    "relUrl": "/docs/algebra/2021-07-16-la_overview/"
+  },"28": {
+    "doc": "Linear Algebra",
+    "title": "Linear Algebra",
+    "content": " ",
+    "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-linear_algebra/",
+    "relUrl": "/docs/algebra/2021-07-16-linear_algebra/"
   }
 }
