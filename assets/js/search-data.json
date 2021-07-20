@@ -7,7 +7,7 @@
   },"1": {
     "doc": "Home",
     "title": "Welcome to my blog",
-    "content": ". | Probability | Probability Advanced | Statistics | Overview | Regression | Sampling in Data Stream | Machine Learning Practice | Learning Note | Overview | Linear Algebra | . ",
+    "content": ". | Probability | Probability Advanced | Statistics | Overview | Regression | Sampling in Data Stream | Machine Learning Practice | Learning Note | Overview | Linear Algebra | Calculus | Integral | . ",
     "url": "http://nguyenntt97.github.io/#welcome-to-my-blog",
     "relUrl": "/#welcome-to-my-blog"
   },"2": {
@@ -151,7 +151,7 @@
   },"25": {
     "doc": "Overview",
     "title": "Concepts",
-    "content": "Figure 1: Linear Algebra mindmap (Deisenroth et al., 2020) . Matrix . y=[x1x2⋮xm][x1x2⋮xm] \\begin{aligned} y &amp;= \\begin{bmatrix} x_{1} \\\\ x_{2} \\\\ \\vdots \\\\ x_{m} \\end{bmatrix} \\begin{bmatrix} x_{1} \\\\ x_{2} \\\\ \\vdots \\\\ x_{m} \\end{bmatrix} \\end{aligned} y​=⎣⎢⎢⎢⎢⎡​x1​x2​⋮xm​​⎦⎥⎥⎥⎥⎤​⎣⎢⎢⎢⎢⎡​x1​x2​⋮xm​​⎦⎥⎥⎥⎥⎤​​ . ",
+    "content": "Figure 1: Linear Algebra mindmap (Deisenroth et al., 2020) . Vector . Matrix . y=[x1x2⋮xm][x1x2⋮xm] \\begin{aligned} y &amp;= \\begin{bmatrix} x_{1} \\\\ x_{2} \\\\ \\vdots \\\\ x_{m} \\end{bmatrix} \\begin{bmatrix} x_{1} \\\\ x_{2} \\\\ \\vdots \\\\ x_{m} \\end{bmatrix} \\end{aligned} y​=⎣⎢⎢⎢⎢⎡​x1​x2​⋮xm​​⎦⎥⎥⎥⎥⎤​⎣⎢⎢⎢⎢⎡​x1​x2​⋮xm​​⎦⎥⎥⎥⎥⎤​​ . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-la_overview/#concepts",
     "relUrl": "/docs/algebra/2021-07-16-la_overview/#concepts"
   },"26": {
@@ -163,7 +163,7 @@
   },"27": {
     "doc": "Overview",
     "title": "Overview",
-    "content": ". | Notation | Concepts . | Matrix | . | References | . ",
+    "content": ". | Notation | Concepts . | Vector | Matrix | . | References | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-la_overview/",
     "relUrl": "/docs/algebra/2021-07-16-la_overview/"
   },"28": {
@@ -172,5 +172,35 @@
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-linear_algebra/",
     "relUrl": "/docs/algebra/2021-07-16-linear_algebra/"
+  },"29": {
+    "doc": "Calculus",
+    "title": "Calculus",
+    "content": " ",
+    "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-16-calculus/",
+    "relUrl": "/docs/calculus/2021-07-16-calculus/"
+  },"30": {
+    "doc": "Integral",
+    "title": "Concepts",
+    "content": "The branch of mathematics that deals with the finding and properties of derivatives and integrals of functions, by methods originally based on the summation of infinitesimal differences. The two main types are differential calculus and integral calculus. —Oxford Dict. Limits . Definition . Suppose f(x)f(x)f(x) be a function defined on an interval that contains x=ax=ax=a: lim⁡x→af(x)=L \\lim_{x\\to a}{f(x)=L}x→alim​f(x)=L . Then LLL is the limit of f(x)f(x)f(x) as xxx approaches aaa if . ∃δ&gt;0,∀ε&gt;0:\\exist \\delta &gt; 0 , \\forall \\varepsilon &gt; 0 :∃δ&gt;0,∀ε&gt;0: ∣f(x)−L∣&lt;εwhere0&lt;∣x−a∣&lt;δ \\lvert f(x) - L\\rvert &lt; \\varepsilon \\quad where\\quad 0 &lt; \\lvert x-a \\rvert &lt; \\delta∣f(x)−L∣&lt;εwhere0&lt;∣x−a∣&lt;δ . (Dawkins, 2021) . ",
+    "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-16-calculus_overview/#concepts",
+    "relUrl": "/docs/calculus/2021-07-16-calculus_overview/#concepts"
+  },"31": {
+    "doc": "Integral",
+    "title": "Notation",
+    "content": " ",
+    "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-16-calculus_overview/#notation",
+    "relUrl": "/docs/calculus/2021-07-16-calculus_overview/#notation"
+  },"32": {
+    "doc": "Integral",
+    "title": "References",
+    "content": ". | Dawkins, P. (2021). Calculus I. https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx[Online; accessed 2021-07-18] LINK | . ",
+    "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-16-calculus_overview/#references",
+    "relUrl": "/docs/calculus/2021-07-16-calculus_overview/#references"
+  },"33": {
+    "doc": "Integral",
+    "title": "Integral",
+    "content": ". | Concepts . | Limits . | Definition | . | . | Notation | References | . ",
+    "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-16-calculus_overview/",
+    "relUrl": "/docs/calculus/2021-07-16-calculus_overview/"
   }
 }
