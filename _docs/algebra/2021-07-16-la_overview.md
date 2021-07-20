@@ -29,6 +29,8 @@ nav_order: 1
 ![Figure 1](/assets/images/linear-algebra/mind_map_ml-book.gif)
 *<b>Figure 1:</b> Linear Algebra mindmap {%cite math4ml --file la%}*
 
+### Vector
+
 ### Matrix
 
 $$
