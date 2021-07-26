@@ -14,12 +14,34 @@ nav_order: 1
 {:toc}
 </details>
 
+## Objectives
+
+{: .no_toc}
+
+> **1. Limits**
+>
+> - [x] Limit definition
+> - [ ] Limit existence/non-existence proof
+>
+> **2. Kinds of limits**
+>
+> - [ ] Infinite limits
+> - [ ] One-sided limits
+>
+> **3. Laws of limits**
+>
+> - [x] Limit laws
+>
+> **4. Continuity**
+>
+> - [ ] Continuity definition
+
 {% katexmm %}
 
 ## Concepts
 
-> The branch of mathematics that deals with the finding and properties of derivatives
-> and integrals of functions, by methods originally based on the summation of 
+> (Calculus is) the branch of mathematics that deals with the finding and properties of derivatives
+> and integrals of functions, by methods originally based on the summation of
 > infinitesimal differences.
 >
 > The two main types are differential calculus and integral calculus.
@@ -29,6 +51,7 @@ nav_order: 1
 ### Limits
 
 #### Definition
+{: .no_toc }
 
 > Suppose $f(x)$ be a function defined on an interval that contains $x=a$:
 > $$ \lim_{x\to a}{f(x)=L}$$
@@ -180,7 +203,7 @@ Let $\lim_{x\to a}{f(x)} = L$ and $\lim_{x\to a}{g(x)}=M$ exist and $c$ be a con
     $$
   </dd>
   <dd>
-    $$Suppose \quad \lim_{x\to a}{g(x)} \ne 0$$
+    $$\left(Suppose \quad \lim_{x\to a}{g(x)} \ne 0 \right)$$
   </dd>
   <dt>Power law</dt>
   <dd>
@@ -196,7 +219,7 @@ Let $\lim_{x\to a}{f(x)} = L$ and $\lim_{x\to a}{g(x)}=M$ exist and $c$ be a con
   </dd>
 </dl>
 
-## Notation
+## Continuity
 
 {% endkatexmm %}
 
