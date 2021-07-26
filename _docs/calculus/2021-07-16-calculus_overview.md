@@ -106,11 +106,11 @@ Finally, we must verify if the equation $(*)$ is correct for all $\varepsilon > 
 
 $$
 \begin{aligned}
-  \forall \varepsilon > 0,\delta = \frac{\varepsilon}{2} > 0, x\ne 2: &\quad& \\
-      &\qquad&  &\quad& \lvert x-2 \rvert &< \frac{\varepsilon}{2} \\
-  \iff&& 0  &< 2&\lvert x-2\rvert &< \frac{2\varepsilon}{2}\\
-  \iff&& 0  &<  &\lvert 2(x - 3) - 1\rvert &< \varepsilon\\
-  \iff&& 0  &<  &\lvert f(x)-1 \rvert &< \varepsilon
+  \forall \varepsilon > 0,\delta = \frac{\varepsilon}{2} > 0, x\ne 2: &&&& \\
+  &\qquad& &&& \left|x-2\right|           &&< \frac{\varepsilon}{2} \\
+  \iff&&   && 0 &<\left|2(x-2)\right|     &&< \varepsilon\\
+  \iff&&   && 0 &<\left|(2x - 3)-1\right| &&< \varepsilon\\
+  \iff&&   && 0 &<\left|f(x)-1\right|     &&< \varepsilon
 \end{aligned}
 $$
 
@@ -139,7 +139,62 @@ $$
   <dd>if $\forall \varepsilon > 0, \exist \delta > 0: \lvert f(x) - L\rvert <\varepsilon \quad where\quad 0 < a - x < \delta$</dd>
 </dl>
 
+### Infinite limits
+
+<dl>
+  <dt>Positive infinity</dt>
+  <dd>$\lim_{x\to a^-}{f(x)} = \infty$</dd>
+  <dd>if $\forall M>0, \exists \delta>0: f(x)>M \quad where\quad 0 < \left|x-a\right|< \delta$</dd>
+  <dt>Negative infinity</dt>
+  <dd>$\lim_{x\to a^+}{f(x)} = -\infty$</dd>
+  <dd>if $\forall N < 0, \exist \delta>0: f(x) < N \quad where\quad 0 < \left|x-a\right|<\delta$</dd>
+</dl>
+
 ### Limit laws
+
+Let $\lim_{x\to a}{f(x)} = L$ and $\lim_{x\to a}{g(x)}=M$ exist and $c$ be a constant.
+
+<dl>
+  <dt>Const. mul. law</dt>
+  <dd>
+    $$
+    \lim_{x\to a}{cf(x)} = c\lim_{x\to a}{f(x)}
+    $$
+  </dd>
+  <dt>Sum/Diff law</dt>
+  <dd>
+    $$
+    \lim_{x\to a}{\left[f(x)\pm g(x)\right]} = \lim_{x\to a}{f(x)}\pm\lim_{x\to a}{g(x)}
+    $$
+  </dd>
+  <dt>Product law</dt>
+  <dd>
+    $$
+    \lim_{x\to a}{\left[f(x)\cdot g(x)\right]} = \lim_{x\to a}{f(x)}\cdot\lim_{x\to a}{g(x)}
+    $$
+  </dd>
+  <dt>Quotient law</dt>
+  <dd>
+    $$
+    \lim_{x\to a}{\left[\frac{f(x)}{g(x)}\right]} = \frac{\lim_{x\to a}{f(x)}}{\lim_{x\to a}{g(x)}}
+    $$
+  </dd>
+  <dd>
+    $$Suppose \quad \lim_{x\to a}{g(x)} \ne 0$$
+  </dd>
+  <dt>Power law</dt>
+  <dd>
+    $$
+    \lim_{x\to a}{\left[f(x)\right]^n} = \left[\lim_{x\to a}{f(x)}\right]^n
+    $$
+  </dd>
+  <dt>Root law</dt>
+  <dd>
+    $$
+    \lim_{x\to a}{\sqrt[n]{f(x)}} = \sqrt[n]{\lim_{x\to a}{f(x)}}
+    $$
+  </dd>
+</dl>
 
 ## Notation
 
@@ -147,4 +202,4 @@ $$
 
 ## References
 
-{% bibliography --file calculus --cited %}
+{% bibliography --file calculus %}
