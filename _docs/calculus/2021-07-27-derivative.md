@@ -1,12 +1,14 @@
 ---
 layout: default
-title: "Derivative"
+title: "Derivatives"
 parent: "Calculus"
 categories: calculus derivative
+has_children: true
+has_toc: false
 nav_order: 2
 ---
 <details open markdown="block">
-  <summary>
+  <summary> 
     Table of contents
   </summary>
   {: .text-delta }
@@ -15,33 +17,29 @@ nav_order: 2
 </details>
 
 ## Objectives
-
 {: .no_toc}
 
-> **1. Derivative**
+> **Derivatives**
 >
 > - [ ] Definition
 > - [ ] Interpretation
->
-> **2. Derivative Formulas**
->
-> - [ ] Trig functions
-> - [ ] Exponential and Logarithm functions
-> - [ ] Hyperbolic functions
->
-> **3. Laws of Derivation**
->
-> - [ ] Deriviation laws
-> - [ ] Chain rule
 
 {% katexmm %}
 
-## Derivative
+## Derivatives
+
+**Differentiation** is a process of taking **derivative**.
 
 > The **derivative** of $f(x)$ with respect to x is the function $f^\prime(x)$:
 >
 > $$ f^\prime(x) = \lim_{h\to 0}{\frac{f(x+h) - f(x)}{h}} $$
-> $$ (f^\prime \text{called 'f prime of x'}) $$
+> $$ (f^\prime \quad \text{called} \quad f \quad \text{prime of} \quad x) $$
+
+<details>
+  <summary>View more about the origin of the term</summary>
+  {% capture my_include %}{% include debates/derivative_origin.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+</details>
 
 There are 2 major interpretations for a derivative of a function:
 
@@ -61,6 +59,12 @@ To understand a tangent line, the secant line concept has to come first.
 >
 > {%cite wiki_sec --file calculus%}
 
+Then,
+
+> A tangent line is a line that intersects a curve at two infinitely close points
+>
+> ― **Gottfried Wilhelm Leibniz**
+
 ***
 
 If we draw a secant line at $\left(a, f(a)\right)$, the slope of this line is:
@@ -69,15 +73,7 @@ $$m_{sec} = Q = \frac{f(x) - f(a)}{x - a}$$
 This equation forms a *difference quotient*. Suppose $\forall h\ne 0: x = a + h$, the aforementioned equation can also be expressed as:
 $$Q = \frac{f(a + h) - f(a)}{h}$$
 
-***
-
-> A tangent line is a line that intersects a curve at two infinitely close points
->
-> ― **Gottfried Wilhelm Leibniz**
-
-***
-
-According to the above properties, one could infer the slope $m_{tangent}$ of the tangent line of $f(x)$ at $x=a$ is:
+Also, from the above properties, one could infer the slope $m_{tangent}$ of the tangent line of $f(x)$ at $x=a$ is:
 
 $$
 \begin{aligned}
@@ -97,8 +93,20 @@ $$
 \end{aligned}
 $$
 
+![png](/assets/images/derivative_files/derivative_2_0.png)
+*<b>Figure 2:</b> Examples of derivatives*
+
+<details>
+    <summary>Code for Fig. 2</summary>
+    {% capture my_include %}{% include nb/derivative.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+</details>
+
 {% endkatexmm %}
 
 ## References
 
 {% bibliography --file calculus --cited %}
+
+[fig3_trig_function]: /assets/images/calculus/trig_functions.jpg "Trigometric functions"
+[trig_review]: https://tutorial.math.lamar.edu/Classes/CalcI/TrigFcns.aspx
