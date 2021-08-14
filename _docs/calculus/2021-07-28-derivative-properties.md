@@ -40,7 +40,7 @@ nav_order: 1
 ## Basic Rules
 
 <dl>
-  <dt>Const. mul. law</dt>
+  <dt>Constant law</dt>
   <dd>
     $$
     \left(cf(x)\right)^\prime=cf^\prime\left(x\right)
@@ -101,8 +101,9 @@ nav_order: 1
 
 Suppose there are two functions $f$ and $g$, both are differentiable:
 
-1. If there is a function $F: F(x) = g(f(x))$, then $F$ is called a *composite* function
-2. The composite function F is denoted as $$g\circ f$$
+1. If there is a function $h: h(x) = g(f(x))$, then $h$ is called a *composite* function
+2. The composite function $h$ is denoted as: $$h=g\circ f \quad \text{or} \quad (g\circ f)(x) = g(f(x))$$
+3. The derivative of the composite function: $$h^\prime(x) = g^\prime(f(x))f^\prime(x) \quad\text{or}\quad \frac{dh}{dx} = \frac{dh}{df}*\frac{df}{dx}$$
 
 {% endkatexmm %}
 
