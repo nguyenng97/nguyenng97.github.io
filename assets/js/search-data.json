@@ -163,7 +163,7 @@
   },"27": {
     "doc": "Linear Algebra",
     "title": "References",
-    "content": ". | Deisenroth, M. P., Faisal, A. A., &amp; Ong, C. S. (2020). Mathematics for Machine Learning. Cambridge University Press. https://doi.org/10.1017/9781108679930 DOI LINK | Mathematical objects. (2021). https://dynref.engr.illinois.edu/rvn.html[Online; accessed 2021-07-18] LINK | Petulla, S. (2021). Linear algebra cheatsheet. https://observablehq.com/@petulla/explorable-linear-algebra-cheatsheet[Online; accessed 2021-08-13] LINK | Do, Z. K. &amp; C. (2015). Linear Algebra Review and Reference. http://cs229.stanford.edu/section/cs229-linalg.pdf[Online; accessed 2021-08-13] LINK | Computational Linear Algebra for Coders. (2021). https://github.com/fastai/numerical-linear-algebra[Online; accessed 2021-08-13] LINK | Immersive Linear Algebra. (2021). http://immersivemath.com/ila[Online; accessed 2021-08-13] LINK | Strang, G. (2009). Introduction to Linear Algebra (Fourth). Wellesley-Cambridge Press. | . ",
+    "content": ". | Deisenroth, M. P., Faisal, A. A., &amp; Ong, C. S. (2020). Mathematics for Machine Learning. Cambridge University Press. https://doi.org/10.1017/9781108679930 DOI LINK | Mathematical objects. (2021). https://dynref.engr.illinois.edu/rvn.html[Online; accessed 2021-07-18] LINK | Petulla, S. (2021). Linear algebra cheatsheet. https://observablehq.com/@petulla/explorable-linear-algebra-cheatsheet[Online; accessed 2021-08-13] LINK | Do, Z. K. &amp; C. (2015). Linear Algebra Review and Reference. http://cs229.stanford.edu/section/cs229-linalg.pdf[Online; accessed 2021-08-13] LINK | Computational Linear Algebra for Coders. (2021). https://github.com/fastai/numerical-linear-algebra[Online; accessed 2021-08-13] LINK | Linear Algebra for Deep Learning. (2021). https://www.quantstart.com/articles/scalars-vectors-matrices-and-tensors-linear-algebra-for-deep-learning-part-1/[Online; accessed 2021-08-13] LINK | Immersive Linear Algebra. (2021). http://immersivemath.com/ila[Online; accessed 2021-08-13] LINK | Strang, G. (2009). Introduction to Linear Algebra (Fourth). Wellesley-Cambridge Press. | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-linear_algebra/#references",
     "relUrl": "/docs/algebra/2021-07-16-linear_algebra/#references"
   },"28": {
@@ -181,7 +181,7 @@
   },"30": {
     "doc": "Vectors",
     "title": "Objectives",
-    "content": "Check-list for progress of sub-content in this note: . 1. Concepts . | Vector definition | Zero vector | Basis vector | Unit vector | . 2. Vector properties . | Norms | Length | Maginitude | . 3. Vector operations . | Transpose | Vector arithmetics | Vec2Vec products: dot - cross - outer product | . ",
+    "content": "Check-list for progress of sub-content in this note: . 1. Concepts . | Vector definition | Zero vector | Basis vector | Unit vector | . 2. Vector properties . | Norms | Length | Maginitude | . 3. Vector operations . | Transpose | Vector arithmetics | Vec2Vec products: dot - cross - outer product | Vec2Vec intuitions | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-vectors/#objectives",
     "relUrl": "/docs/algebra/2021-07-16-vectors/#objectives"
   },"31": {
@@ -211,7 +211,7 @@
   },"35": {
     "doc": "Vectors",
     "title": "References",
-    "content": ". | Deisenroth, M. P., Faisal, A. A., &amp; Ong, C. S. (2020). Mathematics for Machine Learning. Cambridge University Press. https://doi.org/10.1017/9781108679930 DOI LINK | Mathematical objects. (2021). https://dynref.engr.illinois.edu/rvn.html[Online; accessed 2021-07-18] LINK | Petulla, S. (2021). Linear algebra cheatsheet. https://observablehq.com/@petulla/explorable-linear-algebra-cheatsheet[Online; accessed 2021-08-13] LINK | Do, Z. K. &amp; C. (2015). Linear Algebra Review and Reference. http://cs229.stanford.edu/section/cs229-linalg.pdf[Online; accessed 2021-08-13] LINK | Computational Linear Algebra for Coders. (2021). https://github.com/fastai/numerical-linear-algebra[Online; accessed 2021-08-13] LINK | Immersive Linear Algebra. (2021). http://immersivemath.com/ila[Online; accessed 2021-08-13] LINK | Strang, G. (2009). Introduction to Linear Algebra (Fourth). Wellesley-Cambridge Press. | . ",
+    "content": ". | Deisenroth, M. P., Faisal, A. A., &amp; Ong, C. S. (2020). Mathematics for Machine Learning. Cambridge University Press. https://doi.org/10.1017/9781108679930 DOI LINK | Mathematical objects. (2021). https://dynref.engr.illinois.edu/rvn.html[Online; accessed 2021-07-18] LINK | Petulla, S. (2021). Linear algebra cheatsheet. https://observablehq.com/@petulla/explorable-linear-algebra-cheatsheet[Online; accessed 2021-08-13] LINK | Do, Z. K. &amp; C. (2015). Linear Algebra Review and Reference. http://cs229.stanford.edu/section/cs229-linalg.pdf[Online; accessed 2021-08-13] LINK | Computational Linear Algebra for Coders. (2021). https://github.com/fastai/numerical-linear-algebra[Online; accessed 2021-08-13] LINK | Linear Algebra for Deep Learning. (2021). https://www.quantstart.com/articles/scalars-vectors-matrices-and-tensors-linear-algebra-for-deep-learning-part-1/[Online; accessed 2021-08-13] LINK | Immersive Linear Algebra. (2021). http://immersivemath.com/ila[Online; accessed 2021-08-13] LINK | Strang, G. (2009). Introduction to Linear Algebra (Fourth). Wellesley-Cambridge Press. | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-vectors/#references",
     "relUrl": "/docs/algebra/2021-07-16-vectors/#references"
   },"36": {
@@ -337,20 +337,44 @@
   },"56": {
     "doc": "Matrix",
     "title": "Matrix",
-    "content": ". | Matrix Definition | References | . ",
-    "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/",
-    "relUrl": "/docs/algebra/2021-08-15-matrices/"
+    "content": " ",
+    "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/#matrix",
+    "relUrl": "/docs/algebra/2021-08-15-matrices/#matrix"
   },"57": {
     "doc": "Matrix",
-    "title": "Matrix Definition",
-    "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/#matrix-definition",
-    "relUrl": "/docs/algebra/2021-08-15-matrices/#matrix-definition"
+    "title": "Objectives",
+    "content": "1. Concepts . | Matrix definition: Matrices, Tensors, and their applications | Zero Matrix | Identity Matrix | . 2. Operations . | Transpose | Inverse | Matrix Arithmetics | Matrix-Tensor products | . ",
+    "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/#objectives",
+    "relUrl": "/docs/algebra/2021-08-15-matrices/#objectives"
   },"58": {
     "doc": "Matrix",
+    "title": "Introduction",
+    "content": "A matrix, A∈Rn×m\\boldsymbol{A} \\isin \\mathbb{R}^{n\\times m}A∈Rn×m is a two-dimensional array of scalars: [a1,1a1,2…a1,ma2,1a2,2…a2,m⋮⋮⋮⋮an,1an,2…an,m] \\begin{bmatrix} a_{1,1} &amp; a_{1,2} &amp; \\dots &amp; a_{1,m} \\\\ a_{2,1} &amp; a_{2,2} &amp; \\dots &amp; a_{2,m} \\\\ \\vdots &amp; \\vdots &amp; \\vdots &amp; \\vdots \\\\ a_{n,1} &amp; a_{n,2} &amp; \\dots &amp; a_{n,m} \\end{bmatrix} ⎣⎢⎢⎢⎢⎡​a1,1​a2,1​⋮an,1​​a1,2​a2,2​⋮an,2​​……⋮…​a1,m​a2,m​⋮an,m​​⎦⎥⎥⎥⎥⎤​ . Tensors . Both of Vector and Matrix could be generalized as a Tensor, which is an algebraic object possessing an order or rank, which is the dimension of the array (Linear Algebra for Deep Learning, 2021): . | Tensor object | Order (Rank) | Sets | Represent of | . | Scalars | 0th order | N,Z,Q,R,etc.\\mathbb{N}, \\mathbb{Z}, \\mathbb{Q},\\mathbb{R},\\text{etc.}N,Z,Q,R,etc. | Magnitude | . | Vectors | 1st order | Rn,n∈N\\mathbb{R}^n, \\quad n\\isin\\mathbb{N}Rn,n∈N | Direction and Magnitude | . | Matrices | 2nd order | Rn×m,n,m∈N\\mathbb{R}^{n\\times m}, \\quad n,m\\isin\\mathbb{N}Rn×m,n,m∈N | Linear map | . Matrix intuition . Updating . Matrices are used as an encoder for geometric operations (e.g. rotations, reflections, and transformations, etc.) . ",
+    "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/#introduction",
+    "relUrl": "/docs/algebra/2021-08-15-matrices/#introduction"
+  },"59": {
+    "doc": "Matrix",
+    "title": "Special matrices",
+    "content": "TODO . ",
+    "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/#special-matrices",
+    "relUrl": "/docs/algebra/2021-08-15-matrices/#special-matrices"
+  },"60": {
+    "doc": "Matrix",
+    "title": "Matrix-Tensor products",
+    "content": "(Computational Linear Algebra for Coders, 2021) . ",
+    "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/#matrix-tensor-products",
+    "relUrl": "/docs/algebra/2021-08-15-matrices/#matrix-tensor-products"
+  },"61": {
+    "doc": "Matrix",
     "title": "References",
-    "content": ". ",
+    "content": ". | Linear Algebra for Deep Learning. (2021). https://www.quantstart.com/articles/scalars-vectors-matrices-and-tensors-linear-algebra-for-deep-learning-part-1/[Online; accessed 2021-08-13] LINK | Computational Linear Algebra for Coders. (2021). https://github.com/fastai/numerical-linear-algebra[Online; accessed 2021-08-13] LINK | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/#references",
     "relUrl": "/docs/algebra/2021-08-15-matrices/#references"
+  },"62": {
+    "doc": "Matrix",
+    "title": "Matrix",
+    "content": ". | Introduction | Special matrices | Matrix-Tensor products | References | . ",
+    "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/",
+    "relUrl": "/docs/algebra/2021-08-15-matrices/"
   }
 }
