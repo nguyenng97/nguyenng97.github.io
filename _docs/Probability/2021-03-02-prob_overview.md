@@ -110,7 +110,6 @@ To address these uncertain elements, we assign a *Probability*—a value between
 
 {% endkatexmm %}
 
-
 ## References
 
 {% bibliography --file learn_books --cited %}
