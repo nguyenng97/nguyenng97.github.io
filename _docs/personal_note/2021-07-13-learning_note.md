@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Learning Note
-nav_order: 0
+nav_order: 1
 has_children: false
 ---
 

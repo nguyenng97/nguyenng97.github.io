@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Matrix"
+title: "Linear Equations System"
 parent: "Linear Algebra"
 categories: linear_algebra
-nav_order: 2
+nav_order: 5
 ---
 <details open markdown="block">
   <summary>
@@ -126,7 +126,7 @@ Suppose there is a matrix $\boldsymbol{A} \isin \mathbb{R}^{m\times n}$:
 >
 > Hence, both ranks are collectively referred as the **Rank** of $\boldsymbol{A}$, denoted as $rank(\boldsymbol{A})$
 
-Properties of $\boldsymbol{A}$'s rank are:
+Properties $\boldsymbol{A}$'s rank is:
 
 1. $$rank(\boldsymbol{A}) \leq \min{(m,n)}$$
 2. $$\boldsymbol{A} \quad \text{is full rank} \iff rank(\boldsymbol{A}) = \min{(m, n)}$$
