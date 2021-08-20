@@ -331,13 +331,13 @@
   },"55": {
     "doc": "Differentiation Formulas",
     "title": "Objectives",
-    "content": "Differentiation Formulas . | Trig functions | Exponential and Logarithm functions | Hyperbolic functions | . ",
+    "content": "Differentiation Formulas . | Trig functions | Exponential functions | Logarithm functions | Hyperbolic functions | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-29-derivative-formulas/#objectives",
     "relUrl": "/docs/calculus/2021-07-29-derivative-formulas/#objectives"
   },"56": {
     "doc": "Differentiation Formulas",
     "title": "Differentiation Formulas",
-    "content": "Trig Functions . Below are popular six trig functions: . cos⁡xsin⁡xtan⁡x=sin⁡xcos⁡xcot⁡x=cos⁡xsin⁡xsec⁡x=1cos⁡xcsc⁡x=1sin⁡x \\begin{aligned} \\cos{x} &amp; \\quad&amp;&amp; \\sin{x}&amp; \\\\ \\tan{x} &amp;=\\frac{\\sin{x}}{\\cos{x}} \\quad&amp;&amp; \\cot{x}&amp;=\\frac{\\cos{x}}{\\sin{x}} \\\\ \\sec{x} &amp;=\\frac{1}{\\cos{x}} \\quad&amp;&amp; \\csc{x}&amp;=\\frac{1}{\\sin{x}} \\end{aligned} cosxtanxsecx​=cosxsinx​=cosx1​​​sinxcotxcscx​=sinxcosx​=sinx1​​ . More reviews could be found here . Figure 3: Trigonometric functions (Wikipedia: Trigonometric Functions, 2021) . |   | Function fff | Derivative f′f^\\primef′ | . | sin | f(x)=sin(x)f(x) = sin(x)f(x)=sin(x) | f′(x)=cos(x)f^\\prime(x)=cos(x)f′(x)=cos(x) | . | cos | f(x)=cos(x)f(x) = cos(x)f(x)=cos(x) | f′(x)=−sin(x)f^\\prime(x)=-sin(x)f′(x)=−sin(x) | . | tan | f(x)=tan(x)f(x) = tan(x)f(x)=tan(x) | f′(x)=1cos2(x)=sec2(x)f^\\prime(x)=\\frac{1}{cos^2(x)}=sec^2(x)f′(x)=cos2(x)1​=sec2(x) | . | cot | f(x)=cot(x)f(x) = cot(x)f(x)=cot(x) | f′(x)=−1sin2(x)=−csc2(x)f^\\prime(x)=-\\frac{1}{sin^2(x)}=-csc^2(x)f′(x)=−sin2(x)1​=−csc2(x) | . ",
+    "content": "Trig Functions . WIP . Below are popular six trig functions: . cos⁡xsin⁡xtan⁡x=sin⁡xcos⁡xcot⁡x=cos⁡xsin⁡xsec⁡x=1cos⁡xcsc⁡x=1sin⁡x \\begin{aligned} \\cos{x} &amp; \\quad&amp;&amp; \\sin{x}&amp; \\\\ \\tan{x} &amp;=\\frac{\\sin{x}}{\\cos{x}} \\quad&amp;&amp; \\cot{x}&amp;=\\frac{\\cos{x}}{\\sin{x}} \\\\ \\sec{x} &amp;=\\frac{1}{\\cos{x}} \\quad&amp;&amp; \\csc{x}&amp;=\\frac{1}{\\sin{x}} \\end{aligned} cosxtanxsecx​=cosxsinx​=cosx1​​​sinxcotxcscx​=sinxcosx​=sinx1​​ . More reviews could be found here . Figure 3: Trigonometric functions (Wikipedia: Trigonometric Functions, 2021) . |   | Function fff | Derivative f′f^\\primef′ | . | sin | f(x)=sin(x)f(x) = sin(x)f(x)=sin(x) | f′(x)=cos(x)f^\\prime(x)=cos(x)f′(x)=cos(x) | . | cos | f(x)=cos(x)f(x) = cos(x)f(x)=cos(x) | f′(x)=−sin(x)f^\\prime(x)=-sin(x)f′(x)=−sin(x) | . | tan | f(x)=tan(x)f(x) = tan(x)f(x)=tan(x) | f′(x)=1cos2(x)=sec2(x)f^\\prime(x)=\\frac{1}{cos^2(x)}=sec^2(x)f′(x)=cos2(x)1​=sec2(x) | . | cot | f(x)=cot(x)f(x) = cot(x)f(x)=cot(x) | f′(x)=−1sin2(x)=−csc2(x)f^\\prime(x)=-\\frac{1}{sin^2(x)}=-csc^2(x)f′(x)=−sin2(x)1​=−csc2(x) | . Exponential functions . WIP . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-29-derivative-formulas/#differentiation-formulas",
     "relUrl": "/docs/calculus/2021-07-29-derivative-formulas/#differentiation-formulas"
   },"57": {
@@ -349,7 +349,7 @@
   },"58": {
     "doc": "Differentiation Formulas",
     "title": "Differentiation Formulas",
-    "content": ". | Differentiation Formulas | References | . ",
+    "content": ". | Differentiation Formulas . | Trig Functions | Exponential functions | . | References | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-29-derivative-formulas/",
     "relUrl": "/docs/calculus/2021-07-29-derivative-formulas/"
   },"59": {
