@@ -21,7 +21,8 @@ nav_order: 2
 > **Differentiation Formulas**
 >
 > - [ ] Trig functions
-> - [ ] Exponential and Logarithm functions
+> - [ ] Exponential functions
+> - [ ] Logarithm functions
 > - [ ] Hyperbolic functions
 
 {% katexmm %}
@@ -29,7 +30,9 @@ nav_order: 2
 ## Differentiation Formulas
 
 ### Trig Functions
-{: .no_toc}
+
+WIP
+{: .label .label-yellow }
 
 Below are popular six trig functions:
 
@@ -55,6 +58,12 @@ More reviews could be found [here][trig_review]
 |cot |$f(x) = cot(x)$|$f^\prime(x)=-\frac{1}{sin^2(x)}=-csc^2(x)$|
 
 {% endkatexmm %}
+
+### Exponential functions
+
+WIP
+{: .label .label-yellow}
+
 
 ## References
 
