@@ -6,388 +6,388 @@
     "relUrl": "/"
   },"1": {
     "doc": "Home",
-    "title": "Welcome to my blog",
-    "content": ". | Probability | Probability Advanced | Statistics | Overview | Regression | Sampling in Data Stream | Home | Machine Learning Practice | Learning Note | Linear Algebra | Vectors | Calculus | Limits | Derivatives | Differentiation Rules | Differentiation Formulas | Matrix | Linear Equations System | . ",
-    "url": "http://nguyenntt97.github.io/#welcome-to-my-blog",
-    "relUrl": "/#welcome-to-my-blog"
+    "title": "ML Noteblog",
+    "content": "A digital notebook includes fully cited summary notes and cheatsheets from books, lectures, and tech blogs in Data Science, Mathematics, and Sofware Engineering. ",
+    "url": "http://nguyenntt97.github.io/#ml-noteblog",
+    "relUrl": "/#ml-noteblog"
   },"2": {
+    "doc": "Home",
+    "title": "Purpose statement",
+    "content": "(To be updated) . ",
+    "url": "http://nguyenntt97.github.io/#purpose-statement",
+    "relUrl": "/#purpose-statement"
+  },"3": {
+    "doc": "Home",
+    "title": "What to expect",
+    "content": "(To be updated) . ",
+    "url": "http://nguyenntt97.github.io/#what-to-expect",
+    "relUrl": "/#what-to-expect"
+  },"4": {
+    "doc": "Home",
+    "title": "Content Disclaimer",
+    "content": "(To be updated) . ",
+    "url": "http://nguyenntt97.github.io/#content-disclaimer",
+    "relUrl": "/#content-disclaimer"
+  },"5": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://nguyenntt97.github.io/",
     "relUrl": "/"
-  },"3": {
+  },"6": {
     "doc": "Probability",
     "title": "Probability",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-Probability/",
     "relUrl": "/docs/Probability/2021-02-28-Probability/"
-  },"4": {
+  },"7": {
     "doc": "Probability Advanced",
     "title": "Notation",
     "content": "Test: curl in this example . ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_distro/#notation",
     "relUrl": "/docs/Probability/2021-02-28-prob_distro/#notation"
-  },"5": {
+  },"8": {
     "doc": "Probability Advanced",
     "title": "Probability",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_distro/#probability",
     "relUrl": "/docs/Probability/2021-02-28-prob_distro/#probability"
-  },"6": {
+  },"9": {
     "doc": "Probability Advanced",
     "title": "Expectation, Variance",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_distro/#expectation-variance",
     "relUrl": "/docs/Probability/2021-02-28-prob_distro/#expectation-variance"
-  },"7": {
+  },"10": {
     "doc": "Probability Advanced",
     "title": "References",
     "content": "c=±a2+b2 c = \\pm\\sqrt{a^2 + b^2} c=±a2+b2 . ​ . This is a mixed environment where you can have normal text and c=±a2+b2c = \\pm\\sqrt{a^2 + b^2}c=±a2+b2 . ​ fenced math. ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_distro/#references",
     "relUrl": "/docs/Probability/2021-02-28-prob_distro/#references"
-  },"8": {
+  },"11": {
     "doc": "Probability Advanced",
     "title": "Probability Advanced",
     "content": ". | Notation | Probability | Expectation, Variance | References | . ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-02-28-prob_distro/",
     "relUrl": "/docs/Probability/2021-02-28-prob_distro/"
-  },"9": {
+  },"12": {
     "doc": "Statistics",
     "title": "Statistics",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/stats/2021-02-28-statistics/",
     "relUrl": "/docs/stats/2021-02-28-statistics/"
-  },"10": {
+  },"13": {
     "doc": "Overview",
     "title": "Concepts",
     "content": "1. Random experiment . Studies and experiments are conducted to deal with the uncertainty by estimate the likelihood of a specified event (e.g. two tossings produces two heads). Random experiment. A process (or mechanism) produce definitive but uncertain output (or outcome) (e.g. tossing a coin). Random experiments are often conducted repeatedly, so that the collective results may be subjected to statistical analysis. A fixed number of repetitions of the same experiment can be thought of as a composed experiment, in which case the individual repetitions are called trials. (Experiment - Probability Theory, 2021) . Some characteristics of a random experiment includes: . | consists of multiple trials (tossing the coin multiple times). Each trial produces one and only one outcome (e.g. head or tail) | a random experiment has a set of all possible outcomes, called Sample space, denoted as Ω\\OmegaΩ or SSS (e.g. Ω={Head,Tail}\\Omega = \\{Head, Tail\\}Ω={Head,Tail}) | . 2. Sample space, Event . The finest-grained list of outcomes for an experiment is the sample space of the experiment (Larson &amp; Odoni, 1981) . Sample space (Ω[omega](\\Omega _{[omega]}(Ω[omega]​ or S)S )S) . A set of all possible outcomes associated with a Random experiment. Each Outcome is an element of the Sample space. Sample space’s cardinality (i.e. size of a set)—represented as n(A)n(A)n(A)—could be ‘finite, countably infinite, or noncountably infinite’. To summary, there are 3 different types of Sample spaces: . | Countability | Cardinality | Discrete/Continuous | Example | . | Countable | Finite | Discrete | {heads,tails}\\{heads, tails\\}{heads,tails} in the simple toss of a coin | . | Countable | Infinite | Discrete | {1,2,3,...}\\{1, 2, 3, ...\\}{1,2,3,...} describing the possible number of fire alarms in a city during a year | . | Noncountable | Infinite | Continuous | {0≤x≤10,0≤y≤10}\\{0 \\leq x \\leq 10, 0 \\leq y \\leq 10\\}{0≤x≤10,0≤y≤10}, describing the possible locations of required on-the-scene social services in a city 10 by 10 miles square. | . Events. A group of zero or more outcomes. All events is a member of F\\mathcal{F}F (\\mathcal{F}) which is a set of all events. Editing . | Key operations details | Algebraic details | . Algebra of Events: . 3 key operations Union Intersection Complement 7 algebraic axioms Commutative law Associative law Distributive law Complement of the complement Complement of the intersection Intersection of self-complement Intersection with the universe of events . 3. Probability . Back to aforementioned statement in the previous section: . Studies and experiments are conducted to deal with the uncertainty by estimate the likelihood of a specified event. So where does the uncertainty in the event occurence come from? . According to (Shapiro, 1999), there are 3 kinds of source leading to the random behavior in a [classification] system: . | True random component, e.g., random noise in measurement | Random component due to modeling, e.g., systems learn from sampled data | Incomplete information, e.g., unknown domain knowledge or knowledge on the phenomena | . To address these uncertain elements, we assign a Probability—a value between 0 and 1—to an event. Probability. Likelihood of each of the possible events (on a single trial), denoted as a continuous number in range [0,1][0, 1][0,1]. P\\mathbf{P}P is a function mapping from events to probabilities. Axioms of Probability: . | Axiom 1: For any event A,P(A)≥0A, \\mathbf{P}(A)\\geq 0A,P(A)≥0. | Axiom 2: P(S)=1\\mathbf{P}(S) = 1P(S)=1, SSS is the Sample space | Axiom 3: Suppose A1..nA_{1..n}A1..n​ are disjoint events: P(A1∪A2∪...)=P(A1)+P(A2)+...\\mathbf{P}(A_1 \\cup A_2 \\cup ...) = \\mathbf{P}(A_1) + \\mathbf{P}(A_2) + ...P(A1​∪A2​∪...)=P(A1​)+P(A2​)+... | . ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_overview/#concepts",
     "relUrl": "/docs/Probability/2021-03-02-prob_overview/#concepts"
-  },"11": {
+  },"14": {
     "doc": "Overview",
     "title": "References",
     "content": ". | Experiment - Probability theory. (2021). https://en.wikipedia.org/wiki/Experiment_(probability_theory)[Online; accessed 2021-07-14] LINK | Larson, R. C., &amp; Odoni, A. R. (1981). Brief Review of Probabilistic Modeling. In Urban Operations Research. Prentice-Hall. https://web.mit.edu/urban_or_book/www/book/chapter2/contents2.html[Online; accessed 2021-07-14] LINK | Shapiro, J. (1999). A Primer on Probability. https://apt.cs.manchester.ac.uk/ftp/pub/ai/jls/CS2411/prob97/[Online; accessed 2021-07-15] LINK | . ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_overview/#references",
     "relUrl": "/docs/Probability/2021-03-02-prob_overview/#references"
-  },"12": {
+  },"15": {
     "doc": "Overview",
     "title": "Overview",
     "content": ". | Concepts . | 1. Random experiment | 2. Sample space, Event | 3. Probability | . | References | . ",
     "url": "http://nguyenntt97.github.io/docs/Probability/2021-03-02-prob_overview/",
     "relUrl": "/docs/Probability/2021-03-02-prob_overview/"
-  },"13": {
+  },"16": {
     "doc": "Regression",
     "title": "Sampling",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/ml/2021-06-03-regression/#sampling",
     "relUrl": "/docs/ml/2021-06-03-regression/#sampling"
-  },"14": {
+  },"17": {
     "doc": "Regression",
     "title": "References",
     "content": ". | . | Shafer, Zhang - Introductory_Statistics | . | . | [] | . | . ",
     "url": "http://nguyenntt97.github.io/docs/ml/2021-06-03-regression/#references",
     "relUrl": "/docs/ml/2021-06-03-regression/#references"
-  },"15": {
+  },"18": {
     "doc": "Regression",
     "title": "Regression",
     "content": ". | Sampling | References | . ",
     "url": "http://nguyenntt97.github.io/docs/ml/2021-06-03-regression/",
     "relUrl": "/docs/ml/2021-06-03-regression/"
-  },"16": {
+  },"19": {
     "doc": "Sampling in Data Stream",
     "title": "Sampling",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/stats/2021-06-03-sampling/#sampling",
     "relUrl": "/docs/stats/2021-06-03-sampling/#sampling"
-  },"17": {
+  },"20": {
     "doc": "Sampling in Data Stream",
     "title": "References",
     "content": ". | . | Shafer, Zhang - Introductory_Statistics | . | . | [] | . | . ",
     "url": "http://nguyenntt97.github.io/docs/stats/2021-06-03-sampling/#references",
     "relUrl": "/docs/stats/2021-06-03-sampling/#references"
-  },"18": {
+  },"21": {
     "doc": "Sampling in Data Stream",
     "title": "Sampling in Data Stream",
     "content": ". | Sampling | References | . ",
     "url": "http://nguyenntt97.github.io/docs/stats/2021-06-03-sampling/",
     "relUrl": "/docs/stats/2021-06-03-sampling/"
-  },"19": {
-    "doc": "Home",
-    "title": "A public personal note of a software engineer",
-    "content": ". Welcome dear readers, . Content Disclaimer . ",
-    "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-01-site_disclaimer/#a-public-personal-note-of-a-software-engineer",
-    "relUrl": "/docs/personal_note/2021-07-01-site_disclaimer/#a-public-personal-note-of-a-software-engineer"
-  },"20": {
-    "doc": "Home",
-    "title": "Home",
-    "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-01-site_disclaimer/",
-    "relUrl": "/docs/personal_note/2021-07-01-site_disclaimer/"
-  },"21": {
+  },"22": {
     "doc": "Machine Learning Practice",
     "title": "Machine Learning Practice",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/ml/2021-07-03-ml/",
     "relUrl": "/docs/ml/2021-07-03-ml/"
-  },"22": {
+  },"23": {
     "doc": "Learning Note",
     "title": "SQ4R",
     "content": "A popular technique to read learning material (Lobdell, 2015). SQ4R stands for: . | S: Survey | Q: Question | 4R: Read, Record, Recite, Review | . Survey Skim through the entire section, chapter. Read section overview, headings, pictures, graphs for a big picture. Question Be skeptical of what you read. Questioning the facts mentioned in book creates a cue to process the information the next time you read. ‘Critical thinking skills encourage students to move beyond knowing information and get to the heart of what they really think and believe’ (HunSchool - Encourage Critical Thinking, 2021). Read, Record, Recite, Review. The objective is to become more active in learning. Note down what you read. Recite it. Then review the noted content for better material retention. ",
     "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/#sq4r",
     "relUrl": "/docs/personal_note/2021-07-13-learning_note/#sq4r"
-  },"23": {
+  },"24": {
     "doc": "Learning Note",
     "title": "Mathematical logic",
     "content": ". | Axiom (Axiom Wikipedia, 2021): An axiom, postulate or assumption is a statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments. The word comes from the Greek axíōma (ἀξίωμα) ‘that which is thought worthy or fit’ or ‘that which commends itself as evident. | . ",
     "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/#mathematical-logic",
     "relUrl": "/docs/personal_note/2021-07-13-learning_note/#mathematical-logic"
-  },"24": {
+  },"25": {
     "doc": "Learning Note",
     "title": "References",
     "content": ". | Lobdell, M. (2015). Study Less, Study Smart: How to spend less time and learn more material. CreateSpace Independent Publishing Platform. | HunSchool - Encourage critical thinking. (2021). https://www.hunschool.org/resources/questions-for-critical-thinking LINK | Axiom Wikipedia. (2021). https://en.wikipedia.org/wiki/Axiom[Online; accessed 2021-07-14] LINK | . ",
     "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/#references",
     "relUrl": "/docs/personal_note/2021-07-13-learning_note/#references"
-  },"25": {
+  },"26": {
     "doc": "Learning Note",
     "title": "Learning Note",
     "content": ". | SQ4R | Mathematical logic | References | . ",
     "url": "http://nguyenntt97.github.io/docs/personal_note/2021-07-13-learning_note/",
     "relUrl": "/docs/personal_note/2021-07-13-learning_note/"
-  },"26": {
+  },"27": {
     "doc": "Linear Algebra",
     "title": "Overview",
     "content": "Figure 1: Linear Algebra mindmap (Deisenroth et al., 2020) . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-linear_algebra/#overview",
     "relUrl": "/docs/algebra/2021-07-16-linear_algebra/#overview"
-  },"27": {
+  },"28": {
     "doc": "Linear Algebra",
     "title": "Notation",
     "content": "| Name | Description | Example | LaTeX | . | Vector | Bold, lowercase font | x=[x1x2⋮xm],x∈Rn\\boldsymbol{x}=\\begin{bmatrix} x_{1} \\\\ x_{2} \\\\ \\vdots \\\\ x_{m}\\end{bmatrix}, \\boldsymbol{x}\\in \\mathbb{R}^nx=⎣⎢⎢⎢⎢⎡​x1​x2​⋮xm​​⎦⎥⎥⎥⎥⎤​,x∈Rn | $ \\boldsymbol{x} $ | . | Matrix | Bold, uppercase font | A=[a1,1…a1,m⋮⋱⋮an,1…an,m]\\boldsymbol{A}=\\begin{bmatrix} a_{1,1} &amp; \\dots &amp; a_{1,m} \\\\ \\vdots &amp; \\ddots &amp; \\vdots \\\\ a_{n,1} &amp; \\dots &amp; a_{n,m} \\end{bmatrix}A=⎣⎢⎢⎡​a1,1​⋮an,1​​…⋱…​a1,m​⋮an,m​​⎦⎥⎥⎤​, A∈Rn×m\\boldsymbol{A}\\in \\mathbb{R}^{n\\times m}A∈Rn×m | $ \\boldsymbol{A} $ | . | Matrix Entry |   | Ai,j\\boldsymbol{A}_{i,j}Ai,j​ is the entry in the ithi^{th}ith row and jthj^{th}jth column | $ \\boldsymbol{A}_{i,j} $ | . | Matrix Row | iiith row of A\\boldsymbol{A}A is denoted as aiTa_i^TaiT​ or Ai,:A_{i,:}Ai,:​ | A=[—a1T—⋮—anT—]\\begin{aligned}\\boldsymbol{A}=\\begin{bmatrix}\\text{---} &amp; a_1^T &amp; \\text{---} \\\\ &amp; \\vdots &amp; \\\\ \\text{---} &amp; a_n^T &amp; \\text{---}\\end{bmatrix}\\end{aligned}A=⎣⎢⎢⎡​——​a1T​⋮anT​​——​⎦⎥⎥⎤​​ |   | . | Matrix Column | jjjth column of AAA is denoted as aja_jaj​ or A:,jA_{:,j}A:,j​ | A=[∣∣∣a1…an∣∣∣]\\begin{aligned}\\boldsymbol{A}=\\begin{bmatrix} \\mid &amp; \\mid &amp; \\mid \\\\ a_1 &amp; \\dots &amp; a_n \\\\ \\mid &amp; \\mid &amp; \\mid \\end{bmatrix}\\end{aligned}A=⎣⎢⎡​∣a1​∣​∣…∣​∣an​∣​⎦⎥⎤​​ |   | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-linear_algebra/#notation",
     "relUrl": "/docs/algebra/2021-07-16-linear_algebra/#notation"
-  },"28": {
+  },"29": {
     "doc": "Linear Algebra",
     "title": "Vector",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-linear_algebra/#vector",
     "relUrl": "/docs/algebra/2021-07-16-linear_algebra/#vector"
-  },"29": {
+  },"30": {
     "doc": "Linear Algebra",
     "title": "References",
     "content": ". | Deisenroth, M. P., Faisal, A. A., &amp; Ong, C. S. (2020). Mathematics for Machine Learning. Cambridge University Press. https://doi.org/10.1017/9781108679930 DOI LINK | Mathematical objects. (2021). https://dynref.engr.illinois.edu/rvn.html[Online; accessed 2021-07-18] LINK | Petulla, S. (2021). Linear algebra cheatsheet. https://observablehq.com/@petulla/explorable-linear-algebra-cheatsheet[Online; accessed 2021-08-13] LINK | Kolter, Z., &amp; Do, C. (2015). Linear Algebra Review and Reference. http://cs229.stanford.edu/section/cs229-linalg.pdf[Online; accessed 2021-08-13] LINK | Computational Linear Algebra for Coders. (2021). https://github.com/fastai/numerical-linear-algebra[Online; accessed 2021-08-13] LINK | Linear Algebra for Deep Learning. (2021). https://www.quantstart.com/articles/scalars-vectors-matrices-and-tensors-linear-algebra-for-deep-learning-part-1/[Online; accessed 2021-08-13] LINK | Immersive Linear Algebra. (2021). http://immersivemath.com/ila[Online; accessed 2021-08-13] LINK | Strang, G. (2009). Introduction to Linear Algebra (Fourth). Wellesley-Cambridge Press. | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-linear_algebra/#references",
     "relUrl": "/docs/algebra/2021-07-16-linear_algebra/#references"
-  },"30": {
+  },"31": {
     "doc": "Linear Algebra",
     "title": "Linear Algebra",
     "content": ". | Overview | Notation | Vector | References | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-linear_algebra/",
     "relUrl": "/docs/algebra/2021-07-16-linear_algebra/"
-  },"31": {
+  },"32": {
     "doc": "Vectors",
     "title": "Vector",
-    "content": ". | Vector Definition | Vector Properties . | Linear Independence | Norms | . | Vector Arithmetic | Vector - Vector Products | References | . ",
+    "content": ". | Vector Definition | Vector Properties . | Orthogonal | Normalized | Linear Independence | Norms | . | Vector Arithmetic | Vector - Vector Products | References | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-vectors/#vector",
     "relUrl": "/docs/algebra/2021-07-16-vectors/#vector"
-  },"32": {
+  },"33": {
     "doc": "Vectors",
     "title": "Objectives",
     "content": "Check-list for progress of sub-content in this note: . 1. Concepts . | Vector definition | Zero vector | Basis vector | Unit vector | . 2. Vector properties . | Norms | Length | Maginitude | . 3. Vector operations . | Transpose | Vector arithmetics | Vec2Vec products: dot - cross - outer product | Vec2Vec intuitions | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-vectors/#objectives",
     "relUrl": "/docs/algebra/2021-07-16-vectors/#objectives"
-  },"33": {
+  },"34": {
     "doc": "Vectors",
     "title": "Vector Definition",
     "content": "In Euclidean space AAA and BBB be two points, a directed line segment from AAA to BBB was called AB→\\overrightarrow{AB}AB . A vector is an equivalance class of all of the directed segments with the same magnitude and direction as the directed line segment described above. (Immersive Linear Algebra, 2021) . In other words, a vector is defined by: . | Magnitude (i.e. the line segment’s length, denoted as ∥AB→∥\\left\\lVert\\overrightarrow{AB}\\right\\rVert∥∥∥∥​AB . ∥∥∥∥​) | Direction (i.e. the direction from AAA to BBB) | . Special kinds of vectors: . | Zero vector (Null vector): Denoted as 0\\boldsymbol{0}0, ∥0∥=0\\lVert\\boldsymbol{0}\\rVert=0∥0∥=0 | Basis vector | Unit vector | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-vectors/#vector-definition",
     "relUrl": "/docs/algebra/2021-07-16-vectors/#vector-definition"
-  },"34": {
+  },"35": {
     "doc": "Vectors",
     "title": "Vector Properties",
-    "content": "Linear Independence . A set of vector x1,…,xn⊂Rm{\\boldsymbol{x}_1,\\dots,\\boldsymbol{x}_n} \\subset \\mathbb{R}^mx1​,…,xn​⊂Rm is linearly independent if no vector can be represented as a linear combination of the remaining vectors. Norms . A norm, which is a scalar, is an informal measure of the length (or magnitude) of a vector. A norm is a function ∥.∥:Rn→R\\lVert.\\rVert: \\mathbb{R}^n\\rightarrow\\mathbb{R}∥.∥:Rn→R that satisfies: . | Definiteness: ∥x∥=0  ⟺  x=0 \\lVert \\boldsymbol{x}\\rVert = 0 \\iff x = 0 ∥x∥=0⟺x=0 | Homogeneity: ∥cx∥=∣c∣∥x∥ \\lVert c\\boldsymbol{x}\\rVert = \\lvert c\\rvert\\lVert\\boldsymbol{x}\\rVert∥cx∥=∣c∣∥x∥ | Triangle inequality: f(x+y)≤f(x)+f(y),∀x,y∈Rn f(x+y) \\leq f(x) + f(y), \\quad \\forall x,y \\isin \\mathbb{R}^n f(x+y)≤f(x)+f(y),∀x,y∈Rn | Non-negativity: f(x)≥0,∀x∈Rn f(x) \\geq 0, \\quad \\forall x \\isin \\mathbb{R}^n f(x)≥0,∀x∈Rn | . | Norms | Example | . | 1-norm | x∈Rn,∥x∥1=∣x1∣+⋯+∣xn∣\\boldsymbol{x}\\isin\\mathbb{R}^n, \\quad\\lVert\\boldsymbol{x}\\rVert_1=\\lvert x_1\\rvert + \\dots + \\lvert x_n\\rvertx∈Rn,∥x∥1​=∣x1​∣+⋯+∣xn​∣ | . | 2-norm | x∈Rn,∥x∥2=(x12+⋯+xn2)1/2\\boldsymbol{x}\\isin\\mathbb{R}^n, \\quad\\lVert\\boldsymbol{x}\\rVert_2=(x_1^2 + \\dots + x_n^2)^{1/2}x∈Rn,∥x∥2​=(x12​+⋯+xn2​)1/2 | . | p-norm | x∈Rn,∥x∥p=(∑i=1n∣xi∣p)1/p\\boldsymbol{x}\\isin\\mathbb{R}^n, \\quad\\lVert\\boldsymbol{x}\\rVert_p=\\left(\\sum^{n}_{i=1}{\\lvert x_i\\rvert^p}\\right)^{1/p}x∈Rn,∥x∥p​=(∑i=1n​∣xi​∣p)1/p | . ",
+    "content": "Orthogonal . (Reading: /ɔrˈθɒg ə nl/) . Suppose there are 2 vectors x,y∈Rn\\boldsymbol{x}, \\boldsymbol{y} \\isin \\mathbb{R}^nx,y∈Rn. x\\boldsymbol{x}x and y\\boldsymbol{y}y are orthogonal if xTy=0\\boldsymbol{x}^T\\boldsymbol{y}=0xTy=0 . Normalized . A vector x∈Rn\\boldsymbol{x} \\isin \\mathbb{R}^nx∈Rn is normalized if ∥x∥2=1\\lVert x\\rVert_2 = 1∥x∥2​=1 . Linear Independence . A set of vector x1,…,xn⊂Rm{\\boldsymbol{x}_1,\\dots,\\boldsymbol{x}_n} \\subset \\mathbb{R}^mx1​,…,xn​⊂Rm is linearly independent if no vector can be represented as a linear combination of the remaining vectors. Norms . A norm, which is a scalar, is an informal measure of the length (or magnitude) of a vector. A norm is a function ∥.∥:Rn→R\\lVert.\\rVert: \\mathbb{R}^n\\rightarrow\\mathbb{R}∥.∥:Rn→R that satisfies: . | Definiteness: ∥x∥=0  ⟺  x=0 \\lVert \\boldsymbol{x}\\rVert = 0 \\iff x = 0 ∥x∥=0⟺x=0 | Homogeneity: ∥cx∥=∣c∣∥x∥ \\lVert c\\boldsymbol{x}\\rVert = \\lvert c\\rvert\\lVert\\boldsymbol{x}\\rVert∥cx∥=∣c∣∥x∥ | Triangle inequality: f(x+y)≤f(x)+f(y),∀x,y∈Rn f(x+y) \\leq f(x) + f(y), \\quad \\forall x,y \\isin \\mathbb{R}^n f(x+y)≤f(x)+f(y),∀x,y∈Rn | Non-negativity: f(x)≥0,∀x∈Rn f(x) \\geq 0, \\quad \\forall x \\isin \\mathbb{R}^n f(x)≥0,∀x∈Rn | . | Norms | Example | . | 1-norm | x∈Rn,∥x∥1=∣x1∣+⋯+∣xn∣\\boldsymbol{x}\\isin\\mathbb{R}^n, \\quad\\lVert\\boldsymbol{x}\\rVert_1=\\lvert x_1\\rvert + \\dots + \\lvert x_n\\rvertx∈Rn,∥x∥1​=∣x1​∣+⋯+∣xn​∣ | . | 2-norm | x∈Rn,∥x∥2=(x12+⋯+xn2)1/2\\boldsymbol{x}\\isin\\mathbb{R}^n, \\quad\\lVert\\boldsymbol{x}\\rVert_2=(x_1^2 + \\dots + x_n^2)^{1/2}x∈Rn,∥x∥2​=(x12​+⋯+xn2​)1/2 | . | p-norm | x∈Rn,∥x∥p=(∑i=1n∣xi∣p)1/p\\boldsymbol{x}\\isin\\mathbb{R}^n, \\quad\\lVert\\boldsymbol{x}\\rVert_p=\\left(\\sum^{n}_{i=1}{\\lvert x_i\\rvert^p}\\right)^{1/p}x∈Rn,∥x∥p​=(∑i=1n​∣xi​∣p)1/p | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-vectors/#vector-properties",
     "relUrl": "/docs/algebra/2021-07-16-vectors/#vector-properties"
-  },"35": {
+  },"36": {
     "doc": "Vectors",
     "title": "Vector Arithmetic",
     "content": "Vector addition u+v=[u1+v1⋮un+vn],∀u,v∈Rn \\boldsymbol{u} + \\boldsymbol{v} = \\begin{bmatrix}u_1+v_1 \\\\ \\vdots \\\\ u_n + v_n\\end{bmatrix},\\quad \\forall \\boldsymbol{u},\\boldsymbol{v}\\isin\\mathbb{R}^n u+v=⎣⎢⎢⎡​u1​+v1​⋮un​+vn​​⎦⎥⎥⎤​,∀u,v∈Rn Vector Subtraction u−v=[u1−v1⋮un−vn],∀u,v∈Rn \\boldsymbol{u} - \\boldsymbol{v} = \\begin{bmatrix}u_1-v_1 \\\\ \\vdots \\\\ u_n-v_n\\end{bmatrix},\\quad \\forall \\boldsymbol{u},\\boldsymbol{v}\\isin\\mathbb{R}^n u−v=⎣⎢⎢⎡​u1​−v1​⋮un​−vn​​⎦⎥⎥⎤​,∀u,v∈Rn Scala Multiplication ku=[ku1⋮kun],∀u,v∈Rn k\\boldsymbol{u} = \\begin{bmatrix}ku_1 \\\\ \\vdots \\\\ ku_n\\end{bmatrix},\\quad \\forall \\boldsymbol{u},\\boldsymbol{v}\\isin\\mathbb{R}^n ku=⎣⎢⎢⎡​ku1​⋮kun​​⎦⎥⎥⎤​,∀u,v∈Rn . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-vectors/#vector-arithmetic",
     "relUrl": "/docs/algebra/2021-07-16-vectors/#vector-arithmetic"
-  },"36": {
+  },"37": {
     "doc": "Vectors",
     "title": "Vector - Vector Products",
     "content": "Suppose there are two vectors x,y∈Rn\\boldsymbol{x},\\boldsymbol{y}\\isin\\mathbb{R}^nx,y∈Rn, multiplying these two vectors refers to three different operations: . Dot product Notation: x⋅y \\boldsymbol{x}\\cdot\\boldsymbol{y} x⋅y Definition: x⋅y=xTy=[x1…xn]⋅[y1⋮yn]=∑i=1nxiyi=∥x∥∥y∥cos⁡θ \\begin{aligned} \\boldsymbol{x}\\cdot\\boldsymbol{y} &amp;= \\boldsymbol{x}^T\\boldsymbol{y} \\\\ &amp;=\\begin{bmatrix}x_1 &amp; \\dots &amp; x_n\\end{bmatrix}\\cdot\\begin{bmatrix}y_1 \\\\ \\vdots \\\\ y_n\\end{bmatrix}\\\\ &amp;=\\sum_{i=1}^{n}{x_iy_i} \\\\ &amp;= \\left\\lVert\\boldsymbol{x}\\right\\rVert\\left\\lVert\\boldsymbol{y}\\right\\rVert\\cos{\\theta} \\end{aligned} x⋅y​=xTy=[x1​​…​xn​​]⋅⎣⎢⎢⎡​y1​⋮yn​​⎦⎥⎥⎤​=i=1∑n​xi​yi​=∥x∥∥y∥cosθ​ Cross product Notation: x×y\\boldsymbol{x}\\times\\boldsymbol{y}x×y Definition: x×y=[x1⋮xn]×[y1⋮yn] \\boldsymbol{x}\\times\\boldsymbol{y} = \\begin{bmatrix}x_1\\\\ \\vdots \\\\ x_n\\end{bmatrix}\\times\\begin{bmatrix}y_1\\\\ \\vdots \\\\ y_n \\end{bmatrix} x×y=⎣⎢⎢⎡​x1​⋮xn​​⎦⎥⎥⎤​×⎣⎢⎢⎡​y1​⋮yn​​⎦⎥⎥⎤​ Outer product Notation: x⊗y \\boldsymbol{x}\\otimes\\boldsymbol{y} x⊗y Definition: x⊗y=xyT=[x1⋮xn]⊗[y1…yn]=[x1y1…x1yn⋮⋱⋮xny1…xnyn] \\begin{aligned} \\boldsymbol{x}\\otimes\\boldsymbol{y} &amp;= \\boldsymbol{x}\\boldsymbol{y}^T \\\\ &amp;=\\begin{bmatrix}x_1\\\\ \\vdots \\\\ x_n\\end{bmatrix}\\otimes\\begin{bmatrix}y_1 &amp; \\dots &amp; y_n\\end{bmatrix}\\\\ &amp;=\\begin{bmatrix}x_1y_1 &amp; \\dots &amp; x_1y_n\\\\ \\vdots &amp; \\ddots &amp; \\vdots \\\\ x_ny_1 &amp; \\dots &amp; x_ny_n \\end{bmatrix} \\end{aligned} x⊗y​=xyT=⎣⎢⎢⎡​x1​⋮xn​​⎦⎥⎥⎤​⊗[y1​​…​yn​​]=⎣⎢⎢⎡​x1​y1​⋮xn​y1​​…⋱…​x1​yn​⋮xn​yn​​⎦⎥⎥⎤​​ ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-vectors/#vector---vector-products",
     "relUrl": "/docs/algebra/2021-07-16-vectors/#vector---vector-products"
-  },"37": {
+  },"38": {
     "doc": "Vectors",
     "title": "References",
     "content": ". | Deisenroth, M. P., Faisal, A. A., &amp; Ong, C. S. (2020). Mathematics for Machine Learning. Cambridge University Press. https://doi.org/10.1017/9781108679930 DOI LINK | Mathematical objects. (2021). https://dynref.engr.illinois.edu/rvn.html[Online; accessed 2021-07-18] LINK | Petulla, S. (2021). Linear algebra cheatsheet. https://observablehq.com/@petulla/explorable-linear-algebra-cheatsheet[Online; accessed 2021-08-13] LINK | Kolter, Z., &amp; Do, C. (2015). Linear Algebra Review and Reference. http://cs229.stanford.edu/section/cs229-linalg.pdf[Online; accessed 2021-08-13] LINK | Computational Linear Algebra for Coders. (2021). https://github.com/fastai/numerical-linear-algebra[Online; accessed 2021-08-13] LINK | Linear Algebra for Deep Learning. (2021). https://www.quantstart.com/articles/scalars-vectors-matrices-and-tensors-linear-algebra-for-deep-learning-part-1/[Online; accessed 2021-08-13] LINK | Immersive Linear Algebra. (2021). http://immersivemath.com/ila[Online; accessed 2021-08-13] LINK | Strang, G. (2009). Introduction to Linear Algebra (Fourth). Wellesley-Cambridge Press. | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-vectors/#references",
     "relUrl": "/docs/algebra/2021-07-16-vectors/#references"
-  },"38": {
+  },"39": {
     "doc": "Vectors",
     "title": "Vectors",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-07-16-vectors/",
     "relUrl": "/docs/algebra/2021-07-16-vectors/"
-  },"39": {
+  },"40": {
     "doc": "Calculus",
     "title": "Calculus",
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-16-calculus/",
     "relUrl": "/docs/calculus/2021-07-16-calculus/"
-  },"40": {
+  },"41": {
     "doc": "Limits",
     "title": "Objectives",
     "content": "1. Limits . | Limit definition | Limit existence/non-existence proof | . 2. Kinds of limits . | Infinite limits | One-sided limits | . 3. Laws of limits . | Limit laws | . 4. Continuity . | Continuity definition | Kinds of Discontinuity | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-16-limits/#objectives",
     "relUrl": "/docs/calculus/2021-07-16-limits/#objectives"
-  },"41": {
+  },"42": {
     "doc": "Limits",
     "title": "Concepts",
     "content": "(Calculus is) the branch of mathematics that deals with the finding and properties of derivatives and integrals of functions, by methods originally based on the summation of infinitesimal differences. The two main types are differential calculus and integral calculus. —Oxford Dict. Limits . Definition . Suppose f(x)f(x)f(x) be a function defined on an interval that contains x=ax=ax=a: lim⁡x→af(x)=L \\lim_{x\\to a}{f(x)=L}x→alim​f(x)=L . (or LLL is the limit of f(x)f(x)f(x) as xxx approaches aaa) iff . ∃δ&gt;0,∀ε&gt;0:\\exist \\delta &gt; 0 , \\forall \\varepsilon &gt; 0 :∃δ&gt;0,∀ε&gt;0: ∣f(x)−L∣&lt;εwhere0&lt;∣x−a∣&lt;δ \\lvert f(x) - L\\rvert &lt; \\varepsilon \\quad where\\quad 0 &lt; \\lvert x-a \\rvert &lt; \\delta∣f(x)−L∣&lt;εwhere0&lt;∣x−a∣&lt;δ . (Dawkins, 2021) . To prove a limit of f(x)f(x)f(x) at x=ax=ax=a is LLL: . | Verify if the limit of f(x)f(x)f(x) at x=ax=ax=a exists. | If YES: . | We need to prove: ∀ε&gt;0,∃δ&gt;0:∣f(x)−L∣&lt;εwhere0&lt;∣x−a∣&lt;δ\\forall \\varepsilon &gt; 0, \\exists \\delta &gt; 0: \\lvert f(x) - L\\rvert &lt; \\varepsilon \\quad where\\quad 0 &lt; \\lvert x-a \\rvert &lt; \\delta∀ε&gt;0,∃δ&gt;0:∣f(x)−L∣&lt;εwhere0&lt;∣x−a∣&lt;δ One way to do this is to define a process to find a δ&gt;0\\delta &gt; 0δ&gt;0 for every ε&gt;0\\varepsilon &gt; 0ε&gt;0 that meets aforementioned requirement. | With the process (i.e. δ=g(ε)\\delta=g(\\varepsilon)δ=g(ε)) found in Step 2.1, prove that: ∣f(x)−L∣&lt;εwhere0&lt;∣x−a∣&lt;g(ε)\\lvert f(x) - L\\rvert &lt; \\varepsilon \\quad where\\quad 0 &lt; \\lvert x-a \\rvert &lt; g(\\varepsilon)∣f(x)−L∣&lt;εwhere0&lt;∣x−a∣&lt;g(ε) | Conclusion. | . | If NO: . | Conclusion (Limit DNE). | . | . To reason how a limit of f(x)f(x)f(x) does not exist, prove the negation of the Limit’s definition: ∃ε&gt;0,∀δ&gt;0:0&lt;∣x−a∣&lt;δ⇒∣f(x)−L∣≥ε \\exists \\varepsilon &gt; 0, \\forall \\delta &gt; 0: 0 &lt; \\lvert x-a\\rvert &lt; \\delta \\Rightarrow \\lvert f(x) - L \\rvert \\geq \\varepsilon ∃ε&gt;0,∀δ&gt;0:0&lt;∣x−a∣&lt;δ⇒∣f(x)−L∣≥ε . Example 1: Limit exists Prove the following limit: . lim⁡x→22x−3=1\\lim_{x\\to 2}{2x - 3} = 1x→2lim​2x−3=1 . Toggle solution Assume that the limit of f(x)=2x−3f(x) = 2x-3f(x)=2x−3 exists and ∀ε&gt;0,∃δ&gt;0\\forall \\varepsilon &gt; 0, \\exist\\delta &gt; 0∀ε&gt;0,∃δ&gt;0: 0&lt;∣x−2∣&lt;δ  ⟹  ∣f(x)−1∣&lt;ε(∗) 0 &lt;\\lvert x-2\\rvert &lt; \\delta \\implies \\lvert f(x) - 1 \\rvert &lt; \\varepsilon\\qquad (*) 0&lt;∣x−2∣&lt;δ⟹∣f(x)−1∣&lt;ε(∗) From the *right* side of the inequation, we have: ∣f(x)−1∣&lt;ε  ⟺  ∣(2x−3)−1∣&lt;ε  ⟺  ∣2(x−2)∣&lt;ε  ⟺  ∣x−2∣&lt;ε2(∗∗) \\begin{aligned} &amp;\\qquad&amp; \\lvert f(x)-1\\rvert &amp;&lt; \\varepsilon\\\\ \\iff&amp;&amp; \\lvert (2x-3)-1\\rvert &amp;&lt; \\varepsilon\\\\ \\iff&amp;&amp; \\lvert 2(x - 2)\\rvert &amp;&lt; \\varepsilon\\\\ \\iff&amp;&amp; \\lvert x-2\\rvert &amp;&lt; \\frac{\\varepsilon}{2}\\qquad (**) \\end{aligned} ⟺⟺⟺​​∣f(x)−1∣∣(2x−3)−1∣∣2(x−2)∣∣x−2∣​&lt;ε&lt;ε&lt;ε&lt;2ε​(∗∗)​ Also the *left* side of the inequation shows that: 0&lt;∣x−2∣&lt;δ(∗∗∗) 0 &lt;\\lvert x-2\\rvert &lt; \\delta \\qquad (***) 0&lt;∣x−2∣&lt;δ(∗∗∗) In order for (∗)(*)(∗) to be TRUE, the inequation below must be correct: 0&lt;∣x−2∣&lt;δ  ⟹  ∣x−2∣&lt;ε2 0 &lt;\\lvert x-2\\rvert &lt; \\delta\\implies \\lvert x-2\\rvert &lt;\\frac{\\varepsilon}{2} 0&lt;∣x−2∣&lt;δ⟹∣x−2∣&lt;2ε​ In other words, 0&lt;∣x−2∣&lt;δ≤ε20 &lt; \\lvert x-2\\rvert &lt; \\delta \\leq \\frac{\\varepsilon}{2}0&lt;∣x−2∣&lt;δ≤2ε​. Choose δ=ε2\\delta = \\frac{\\varepsilon}{2}δ=2ε​, which is one of the solution of the inequation, as the δ\\deltaδ solution for all ε&gt;0\\varepsilon &gt; 0ε&gt;0 of the inequation (∗)(*)(∗). Finally, we must verify if the equation (∗)(*)(∗) is correct for all ε&gt;0\\varepsilon &gt; 0ε&gt;0 with δ=ε2\\delta = \\frac{\\varepsilon}{2}δ=2ε​. ∀ε&gt;0,δ=ε2&gt;0,x≠2:∣x−2∣&lt;ε2  ⟺  0&lt;∣2(x−2)∣&lt;ε  ⟺  0&lt;∣(2x−3)−1∣&lt;ε  ⟺  0&lt;∣f(x)−1∣&lt;ε \\begin{aligned} \\forall \\varepsilon &gt; 0,\\delta = \\frac{\\varepsilon}{2} &gt; 0, x\\ne 2: &amp;&amp;&amp;&amp; \\\\ &amp;\\qquad&amp; &amp;&amp;&amp; \\left|x-2\\right| &amp;&amp;&lt; \\frac{\\varepsilon}{2} \\\\ \\iff&amp;&amp; &amp;&amp; 0 &amp;&lt;\\left|2(x-2)\\right| &amp;&amp;&lt; \\varepsilon\\\\ \\iff&amp;&amp; &amp;&amp; 0 &amp;&lt;\\left|(2x - 3)-1\\right| &amp;&amp;&lt; \\varepsilon\\\\ \\iff&amp;&amp; &amp;&amp; 0 &amp;&lt;\\left|f(x)-1\\right| &amp;&amp;&lt; \\varepsilon \\end{aligned} ∀ε&gt;0,δ=2ε​&gt;0,x​=2:⟺⟺⟺​​​​000​∣x−2∣&lt;∣2(x−2)∣&lt;∣(2x−3)−1∣&lt;∣f(x)−1∣​​&lt;2ε​&lt;ε&lt;ε&lt;ε​ . Figure 1: Prove lim⁡x→25x−4=6\\lim_{x\\to 2}{5x-4} = 6limx→2​5x−4=6 (Dawkins, 2021) . Code for Fig. 1 import warnings warnings.filterwarnings('ignore') import logging logging.basicConfig( format='%(asctime)s %(levelname)-8s %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S') import tensorflow as tf from matplotlib import pyplot as plt . import numpy as np class CartesCoordinator: \"\"\" Collection of utils for vector operation samples and exercise \"\"\" def draw_coord(ax, xlim=(-5,5), ylim=(-5,5), tick_freq=1): xmin, xmax = xlim ymin, ymax = ylim ax.set(xlim=(xmin-1, xmax+1), ylim=(ymin-1, ymax+1), aspect='equal') # Employ bottom, left spines as x,y axes ax.spines['bottom'].set_position('zero') ax.spines['left'].set_position('zero') # Remove top, right spines ax.spines['top'].set_visible(False) ax.spines['right'].set_visible(False) # Set x,y label on axes ax.set_xlabel('x', size=14, labelpad=-24, x=1.03) ax.set_ylabel('y', size=14, labelpad=-24, y=1.03, rotation=0) x_ticks = np.arange(xmin-1, xmax+1, tick_freq) y_ticks = np.arange(ymin-1, ymax+1, tick_freq) # Draw major and minor grid lines ax.grid(which='both', color='grey', linewidth=1, linestyle='-', alpha=0.2) ax.set_xticks(x_ticks[x_ticks != 0]) ax.set_xticklabels(x_ticks[x_ticks != 0]) ax.set_yticks(y_ticks[y_ticks != 0]) # Arrows for axes arrow_fmt = dict(markersize=4, color='black', clip_on=False) ax.plot(1, 0, marker='&gt;', transform=ax.get_yaxis_transform(),**arrow_fmt) ax.plot(0, 1, marker='^', transform=ax.get_xaxis_transform(),**arrow_fmt) class LimitVisualization: def draw_f(ax, f, func_name, x_lim, y_lim): X = tf.range(x_lim[0] - 1, x_lim[1] + 1, delta=0.01) X = tf.boolean_mask(X, tf.less(f(X), y_lim[1])) Y = f(X) # Draw f(x) ax.plot(X, Y, '-') ax.text(X[-1], Y[-1], func_name, fontsize=15) def draw_delta_boundary(ax, a, f, delta, domain): root = tf.constant(0, dtype=tf.float32) x1 = (a + delta) x2 = (a - delta) y_a = f(a) ax.axvspan(x1, x2, alpha=0.2, color='r', fill='w') ax.scatter(a, 0, color='darkred') ax.plot(tf.stack([a, a]), tf.stack([root, y_a]), 'r--') # Draw a +- \\delta ax.annotate(s='', xy=(a - delta, -1), xytext=(a + delta, -1), arrowprops=dict( arrowstyle='&lt;-&gt;', linewidth=1)) ax.scatter(x1, 0, color='darkred') ax.annotate('a + δ', (x1, 0), xycoords='data', xytext=(x1 + 0.2, -1), fontweight='bold', horizontalalignment='left', verticalalignment='top', color='darkred', fontsize=15) ax.scatter(x2, 0, color='darkred') ax.annotate('a - δ', (x2, 0), xycoords='data', xytext=(x2 - 0.2, -1), fontweight='bold', horizontalalignment='right', verticalalignment='top', color='darkred', fontsize=15) def draw_eps_boundary(ax, a, f, eps, domain): root = tf.constant(0, dtype=tf.float32) y_a = f(a) ax.axhspan(y_a + eps, y_a - eps, alpha=0.2) ax.scatter(0, y_a, color='navy') ax.annotate('L', (0, y_a + eps), xycoords='data', xytext=(-1.5, y_a), weight='bold', horizontalalignment='right', verticalalignment='bottom', color='navy', fontsize=16) ax.plot(tf.stack([root, a]), tf.stack([y_a, y_a]), 'r--') ax.scatter(a, y_a, color='navy') # draw L +- ε ax.annotate(s='', xy=(-0.9, y_a + eps), xytext=(-0.9, y_a - eps), arrowprops= dict( arrowstyle='&lt;-&gt;', linewidth=2)) ax.scatter(0, y_a + eps, color='navy') ax.annotate('L + ε', (0, y_a + eps), xycoords='data', xytext=(-1, y_a + eps + 0.4), weight='bold', horizontalalignment='right', verticalalignment='bottom', color='navy', fontsize=16) ax.scatter(0, y_a - eps, color='navy') ax.annotate('L - ε', (0, y_a - eps), xycoords='data', xytext=(-1, y_a - eps - 0.4), weight='bold', horizontalalignment='right', verticalalignment='top', color='navy', fontsize=16) def draw_limit_exist(ax, domain, f, a): delta = tf.minimum(eps/5, 1) y_a = f(a) ax.scatter(a, y_a) ax.text(a + 0.5, y_a - 0.5, f'({a},{y_a})',fontsize=12, color='r') # Plot (y_a +- eps) range root = tf.constant(0, dtype=tf.float32) a1 = (a + delta)[0] a2 = (a - delta)[0] ax.plot(tf.stack([root, a]), tf.stack([y_a, y_a]), 'r--') ax.plot(tf.stack([root, a1]), tf.stack([f(a1), f(a1)]), 'm--') ax.plot(tf.stack([root, a2]), tf.stack([f(a2), f(a2)]), 'm--') # Plot (x_a +- delta) range ax.plot(tf.stack([a, a]), tf.stack([root, y_a]), 'r--') ax.plot(tf.stack([a1, a1]), tf.stack([root, f(a1)]), 'g--') ax.plot(tf.stack([a2, a2]), tf.stack([root, f(a2)]), 'g--') ax.axvspan(a1, a2, alpha=0.2, color='r', fill='w') # Draw a +- \\delta ax.annotate('a + δ', (a1, 0), xycoords='data', xytext=(a1 + 0.2, -1), horizontalalignment='left', verticalalignment='top', color='r', fontsize=13, arrowprops=dict( facecolor='black', width=1, shrink=0.2)) ax.annotate('a - δ', (a2, 0), xycoords='data', xytext=(a2 - 0.2, -1), horizontalalignment='right', verticalalignment='top', color='r', fontsize=13, arrowprops=dict( facecolor='black', width=1, shrink=0.2)) . tf.random.set_seed(32) x_domain = (-2, 2) y_domain = (-1, 3) fig, ax = plt.subplots(1, 2,figsize=(15,10)) f = lambda x: (2*x - 3) a = tf.constant(2, dtype=tf.float32) eps = tf.random.uniform((1,), minval=1, maxval=2) delta = tf.minimum(eps/2, 1) CartesCoordinator.draw_coord(ax[0], x_domain, y_domain) LimitVisualization.draw_f(ax[0], f, 'y = 2x - 3', x_domain, y_domain) LimitVisualization.draw_eps_boundary(ax[0], a, f, eps, x_domain) LimitVisualization.draw_delta_boundary(ax[0], a, f, delta, x_domain) x_domain = (-1.0, 1.0) y_domain = (-1.0, 1.0) f = lambda x: tf.math.sin(1/x) CartesCoordinator.draw_coord(ax[1], x_domain, y_domain, tick_freq=0.25) LimitVisualization.draw_f(ax[1], f, 'y = sin(1/x)', x_domain, y_domain) plt.show() . One-sided limits . Left-handed limit lim⁡x→a−f(x)=L\\lim_{x\\to a^-}{f(x)} = Llimx→a−​f(x)=L if ∀ε&gt;0,∃δ&gt;0:∣f(x)−L∣&lt;εwhere0&lt;x−a&lt;δ\\forall \\varepsilon &gt; 0, \\exist \\delta &gt; 0: \\lvert f(x) - L\\rvert &lt;\\varepsilon \\quad where\\quad 0 &lt; x - a &lt; \\delta∀ε&gt;0,∃δ&gt;0:∣f(x)−L∣&lt;εwhere0&lt;x−a&lt;δ Right-handed limit lim⁡x→a+f(x)=L\\lim_{x\\to a^+}{f(x)} = Llimx→a+​f(x)=L if ∀ε&gt;0,∃δ&gt;0:∣f(x)−L∣&lt;εwhere0&lt;a−x&lt;δ\\forall \\varepsilon &gt; 0, \\exist \\delta &gt; 0: \\lvert f(x) - L\\rvert &lt;\\varepsilon \\quad where\\quad 0 &lt; a - x &lt; \\delta∀ε&gt;0,∃δ&gt;0:∣f(x)−L∣&lt;εwhere0&lt;a−x&lt;δ Infinite limits . Positive infinity lim⁡x→a−f(x)=∞\\lim_{x\\to a^-}{f(x)} = \\inftylimx→a−​f(x)=∞ if ∀M&gt;0,∃δ&gt;0:f(x)&gt;Mwhere0&lt;∣x−a∣&lt;δ\\forall M&gt;0, \\exists \\delta&gt;0: f(x)&gt;M \\quad where\\quad 0 &lt; \\left|x-a\\right|&lt; \\delta∀M&gt;0,∃δ&gt;0:f(x)&gt;Mwhere0&lt;∣x−a∣&lt;δ Negative infinity lim⁡x→a+f(x)=−∞\\lim_{x\\to a^+}{f(x)} = -\\inftylimx→a+​f(x)=−∞ if ∀N&lt;0,∃δ&gt;0:f(x)&lt;Nwhere0&lt;∣x−a∣&lt;δ\\forall N &lt; 0, \\exist \\delta&gt;0: f(x) &lt; N \\quad where\\quad 0 &lt; \\left|x-a\\right|&lt;\\delta∀N&lt;0,∃δ&gt;0:f(x)&lt;Nwhere0&lt;∣x−a∣&lt;δ Limit laws . Let lim⁡x→af(x)=L\\lim_{x\\to a}{f(x)} = Llimx→a​f(x)=L and lim⁡x→ag(x)=M\\lim_{x\\to a}{g(x)}=Mlimx→a​g(x)=M exist and ccc be a constant. Const. mul. law lim⁡x→acf(x)=clim⁡x→af(x) \\lim_{x\\to a}{cf(x)} = c\\lim_{x\\to a}{f(x)} x→alim​cf(x)=cx→alim​f(x) Sum/Diff law lim⁡x→a[f(x)±g(x)]=lim⁡x→af(x)±lim⁡x→ag(x) \\lim_{x\\to a}{\\left[f(x)\\pm g(x)\\right]} = \\lim_{x\\to a}{f(x)}\\pm\\lim_{x\\to a}{g(x)} x→alim​[f(x)±g(x)]=x→alim​f(x)±x→alim​g(x) Product law lim⁡x→a[f(x)⋅g(x)]=lim⁡x→af(x)⋅lim⁡x→ag(x) \\lim_{x\\to a}{\\left[f(x)\\cdot g(x)\\right]} = \\lim_{x\\to a}{f(x)}\\cdot\\lim_{x\\to a}{g(x)} x→alim​[f(x)⋅g(x)]=x→alim​f(x)⋅x→alim​g(x) Quotient law lim⁡x→a[f(x)g(x)]=lim⁡x→af(x)lim⁡x→ag(x) \\lim_{x\\to a}{\\left[\\frac{f(x)}{g(x)}\\right]} = \\frac{\\lim_{x\\to a}{f(x)}}{\\lim_{x\\to a}{g(x)}} x→alim​[g(x)f(x)​]=limx→a​g(x)limx→a​f(x)​ (Supposelim⁡x→ag(x)≠0)\\left(Suppose \\quad \\lim_{x\\to a}{g(x)} \\ne 0 \\right)(Supposex→alim​g(x)​=0) Power law lim⁡x→a[f(x)]n=[lim⁡x→af(x)]n \\lim_{x\\to a}{\\left[f(x)\\right]^n} = \\left[\\lim_{x\\to a}{f(x)}\\right]^n x→alim​[f(x)]n=[x→alim​f(x)]n Root law lim⁡x→af(x)n=lim⁡x→af(x)n \\lim_{x\\to a}{\\sqrt[n]{f(x)}} = \\sqrt[n]{\\lim_{x\\to a}{f(x)}} x→alim​nf(x)​=nx→alim​f(x)​ Squeeze Theorem (Sandwich Theorem) . Suppose that: ∀x∈[a,b]\\forall x \\isin [a, b]∀x∈[a,b] (except possibly at x=cx=cx=c) . f(x)≤h(x)≤g(x) f(x) \\leq h(x) \\leq g(x) f(x)≤h(x)≤g(x) . Also if ∃c:a≤c≤b:\\exist c: a \\leq c \\leq b:∃c:a≤c≤b: . lim⁡x→cf(x)=lim⁡x→cg(x)=L  ⟹  lim⁡x→ch(x)=L \\begin{aligned} &amp;&amp; &amp;\\lim_{x\\to c}{f(x)} = \\lim_{x\\to c}{g(x)} = L\\\\ &amp;\\implies&amp; &amp;\\lim_{x\\to c}{h(x)} = L \\end{aligned} ​⟹​​x→clim​f(x)=x→clim​g(x)=Lx→clim​h(x)=L​ . This theorem bases on the fact that, ∀x∈[a,b],f(x)≤g(x)\\forall x \\isin [a,b], f(x) \\leq g(x)∀x∈[a,b],f(x)≤g(x) (except at possibly x=cx=cx=c) and a≤c≤ba \\leq c \\leq ba≤c≤b then: . lim⁡x→cf(x)≤lim⁡x→cg(x) \\lim_{x\\to c}{f(x)} \\leq \\lim_{x\\to c}{g(x)} x→clim​f(x)≤x→clim​g(x) . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-16-limits/#concepts",
     "relUrl": "/docs/calculus/2021-07-16-limits/#concepts"
-  },"42": {
+  },"43": {
     "doc": "Limits",
     "title": "Continuity",
     "content": "Definition . Function f(x)f(x)f(x) is continuous at x=ax=ax=a if lim⁡x→af(x)=f(a) \\lim_{x\\to a}{f(x)} = f(a) x→alim​f(x)=f(a) . A function said to be continuous on the interval [a,b]\\left[a, b\\right][a,b] if it is continuous at every point in the interval . Discontinuity . There are 4 kinds of discontinuity: . | Jump discontinuity | Removable discontinuity | Infinite discontinuity | Others discontinuity | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-16-limits/#continuity",
     "relUrl": "/docs/calculus/2021-07-16-limits/#continuity"
-  },"43": {
+  },"44": {
     "doc": "Limits",
     "title": "References",
     "content": ". | Davidson, J. (2021). About Calculus. https://www.sscc.edu/home/jdavidso/MathAdvising/AboutCalculus.html[Online; accessed 2021-07-18] LINK | Dawkins, P. (2021). Calculus I. https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx[Online; accessed 2021-07-18] LINK | Lakey, J., &amp; Terry, E. A. (2021). Calculus I. openstax. https://openstax.org/books/calculus-volume-1[Online; accessed 2021-07-18] LINK | Wikipedia: Secant line. (2021). https://en.wikipedia.org/wiki/Secant_line[Online; accessed 2021-07-28] LINK | Wikipedia: Trigonometric functions. (2021). https://en.wikipedia.org/wiki/Trigonometric_functions[Online; accessed 2021-07-28] LINK | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-16-limits/#references",
     "relUrl": "/docs/calculus/2021-07-16-limits/#references"
-  },"44": {
+  },"45": {
     "doc": "Limits",
     "title": "Limits",
     "content": ". | Objectives | Concepts . | Limits | One-sided limits | Infinite limits | Limit laws | Squeeze Theorem (Sandwich Theorem) | . | Continuity | References | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-16-limits/",
     "relUrl": "/docs/calculus/2021-07-16-limits/"
-  },"45": {
+  },"46": {
     "doc": "Derivatives",
     "title": "Objectives",
     "content": "Derivatives . | Definition | Interpretation | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-27-derivative/#objectives",
     "relUrl": "/docs/calculus/2021-07-27-derivative/#objectives"
-  },"46": {
+  },"47": {
     "doc": "Derivatives",
     "title": "Derivatives",
     "content": "Differentiation is a process of taking derivative. The derivative of f(x)f(x)f(x) with respect to x is the function f′(x)f^\\prime(x)f′(x): . f′(x)=lim⁡h→0f(x+h)−f(x)h f^\\prime(x) = \\lim_{h\\to 0}{\\frac{f(x+h) - f(x)}{h}} f′(x)=h→0lim​hf(x+h)−f(x)​ (f′calledfprime ofx) (f^\\prime \\quad \\text{called} \\quad f \\quad \\text{prime of} \\quad x) (f′calledfprime ofx) . View more about the origin of the term Origin of Differentiation terminologies . The following information are just opinions originated by Math SE, Quora, and Wikipedia: . | Derivative implies a derived function f′(x)f^\\prime(x)f′(x) of the original f(x)f(x)f(x), the final product which is obtained from the Differentiation of the same function. | Differentiate could refers to the the word ‘difference’ as Leibniz studied finite differences and introduce (infinitesimal) differentials. | Differential means a mathematical expression using differentials (e.g. dy,dx,dydx\\mathrm{d}y, \\mathrm{d}x,\\frac{\\mathrm{d}y}{\\mathrm{d}x}dy,dx,dxdy​) | . There are 2 major interpretations for a derivative of a function: . | Rate of change | Slope of tangent line | . Figure 1: Common lines and line segments on a circle (Wikipedia: Secant Line, 2021) . To understand a tangent line, the secant line concept has to come first. A secant is a line that intersects a curve at a minimum of two distinct points. (Wikipedia: Secant Line, 2021) . Then, . A tangent line is a line that intersects a curve at two infinitely close points . ― Gottfried Wilhelm Leibniz . If we draw a secant line at (a,f(a))\\left(a, f(a)\\right)(a,f(a)), the slope of this line is: msec=Q=f(x)−f(a)x−am_{sec} = Q = \\frac{f(x) - f(a)}{x - a}msec​=Q=x−af(x)−f(a)​ . This equation forms a difference quotient. Suppose ∀h≠0:x=a+h\\forall h\\ne 0: x = a + h∀h​=0:x=a+h, the aforementioned equation can also be expressed as: Q=f(a+h)−f(a)hQ = \\frac{f(a + h) - f(a)}{h}Q=hf(a+h)−f(a)​ . Also, from the above properties, one could infer the slope mtangentm_{tangent}mtangent​ of the tangent line of f(x)f(x)f(x) at x=ax=ax=a is: . mtangent=f′(a)=lim⁡x→af(x)−f(a)x−a=lim⁡Δx→0Δf(x)Δx \\begin{aligned} m_{tangent} = f^\\prime(a) &amp;= \\lim_{x\\to a}{\\frac{f(x) - f(a)}{x - a}} \\\\ &amp;= \\lim_{\\Delta{x}\\to 0}{\\frac{\\Delta{f(x)}}{\\Delta{x}}} \\end{aligned} mtangent​=f′(a)​=x→alim​x−af(x)−f(a)​=Δx→0lim​ΔxΔf(x)​​ . To summary, . Secant line=Δf(x)Δx=Average rate of changeTangent line=lim⁡Δx→0Δf(x)Δx=Instantaneous rate of change \\begin{aligned} \\text{Secant line} &amp;= \\frac{\\Delta{f(x)}}{\\Delta{x}} &amp; &amp;= \\text{Average rate of change} \\\\ \\text{Tangent line} &amp;= \\lim_{\\Delta{x}\\to 0}{\\frac{\\Delta{f(x)}}{\\Delta{x}}} &amp; &amp;= \\text{Instantaneous rate of change} \\end{aligned} Secant lineTangent line​=ΔxΔf(x)​=Δx→0lim​ΔxΔf(x)​​​=Average rate of change=Instantaneous rate of change​ . Figure 2: Examples of derivatives . Code for Fig. 2 import warnings warnings.filterwarnings('ignore') import logging logging.basicConfig( format='%(asctime)s %(levelname)-8s %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S') import tensorflow as tf from matplotlib import pyplot as plt . import numpy as np class CartesCoordinator: \"\"\" Collection of utils for vector operation samples and exercise \"\"\" def draw_coord(ax, xlim=(-5,5), ylim=(-5,5), tick_freq=1, aspect=1): xmin, xmax = xlim ymin, ymax = ylim ax.set(xlim=(xmin, xmax + tick_freq), ylim=(ymin, ymax + tick_freq), aspect=aspect) # Employ bottom, left spines as x,y axes ax.spines['bottom'].set_position('zero') ax.spines['left'].set_position('zero') # Remove top, right spines ax.spines['top'].set_visible(False) ax.spines['right'].set_visible(False) # Set x,y label on axes ax.set_xlabel('x', size=14, labelpad=-24, x=1.03) ax.set_ylabel('y', size=14, labelpad=-24, y=1.03, rotation=0) x_ticks = np.arange(xmin, xmax+tick_freq, tick_freq) y_ticks = np.arange(ymin, ymax+tick_freq, tick_freq) # Draw major and minor grid lines ax.grid(which='both', color='grey', linewidth=1, linestyle='-', alpha=0.2) ax.set_xticks(x_ticks[x_ticks != 0]) ax.set_yticks(y_ticks[y_ticks != 0]) # Arrows for axes arrow_fmt = dict(markersize=4, color='black', clip_on=False) ax.plot(1, 0, marker='&gt;', transform=ax.get_yaxis_transform(),**arrow_fmt) ax.plot(0, 1, marker='^', transform=ax.get_xaxis_transform(),**arrow_fmt) class DerivativeVisualization: def draw_f(ax, f, func_name, x_lim, y_lim, delta=0.01, X_in=None, alpha=1, tick_freq=1): X = X_in if (X_in is not None) else tf.range(x_lim[0] - delta, x_lim[1] + delta, delta=delta) X = tf.boolean_mask(X, tf.less(f(X), y_lim[1] + tick_freq)) Y = f(X) # Draw f(x) ax.plot(X, Y, '-', alpha=alpha) ax.text(X[-1] + 0.5, Y[-1] - 0.5, func_name, fontsize=15) . from matplotlib import ticker tf.random.set_seed(32) x_domain = (-3, 3) y_domain = (-3, 3) fig, ax = plt.subplots(2, 2,figsize=(20,20)) ### f(x) f = lambda x: (x**3 - x**2) ax[0,0].set_title('f(x) (Height)', pad=40, size=15) CartesCoordinator.draw_coord(ax[0,0], x_domain, y_domain, aspect=1) DerivativeVisualization.draw_f(ax[0,0], f, 'y = x^3 - x^2', x_domain, y_domain) ### f'(x) f = lambda x: (3*x**2 - 2*x) ax[0,1].set_title('First derivative (Slope)', pad=40, size=15) CartesCoordinator.draw_coord(ax[0,1], x_domain, y_domain, aspect=1) DerivativeVisualization.draw_f(ax[0,1], f, 'y = 3x^2 - 2x', x_domain, y_domain) ### f''(x) f = lambda x: (6*x - 2) ax[1,0].set_title('Second derivative (Bending)', pad=40, size=15) CartesCoordinator.draw_coord(ax[1,0], x_domain, y_domain, aspect=1) DerivativeVisualization.draw_f(ax[1,0], f, 'y = 6x - 2', x_domain, y_domain) fig.delaxes(ax[1,1]) plt.show() . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-27-derivative/#derivatives",
     "relUrl": "/docs/calculus/2021-07-27-derivative/#derivatives"
-  },"47": {
+  },"48": {
     "doc": "Derivatives",
     "title": "References",
     "content": ". | Wikipedia: Secant line. (2021). https://en.wikipedia.org/wiki/Secant_line[Online; accessed 2021-07-28] LINK | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-27-derivative/#references",
     "relUrl": "/docs/calculus/2021-07-27-derivative/#references"
-  },"48": {
+  },"49": {
     "doc": "Derivatives",
     "title": "Derivatives",
     "content": ". | Derivatives | References | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-27-derivative/",
     "relUrl": "/docs/calculus/2021-07-27-derivative/"
-  },"49": {
+  },"50": {
     "doc": "Differentiation Rules",
     "title": "Differentiation Rules",
     "content": ". | Differentiation Rules . | Basic Rules | Chain Rule | References | . | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-28-derivative-properties/",
     "relUrl": "/docs/calculus/2021-07-28-derivative-properties/"
-  },"50": {
+  },"51": {
     "doc": "Differentiation Rules",
     "title": "Objectives",
     "content": "The Basic Rules . | List of basic rules | Examples | . Chain Rule . | Definition | Applications | . Higher deriviation . | Definition | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-28-derivative-properties/#objectives",
     "relUrl": "/docs/calculus/2021-07-28-derivative-properties/#objectives"
-  },"51": {
+  },"52": {
     "doc": "Differentiation Rules",
     "title": "Basic Rules",
     "content": "Constant law (cf(x))′=cf′(x) \\left(cf(x)\\right)^\\prime=cf^\\prime\\left(x\\right) (cf(x))′=cf′(x) (lim⁡x→acf(x)=clim⁡x→af(x)) \\left(\\lim_{x\\to a}{cf(x)} = c\\lim_{x\\to a}{f(x)} \\right) (x→alim​cf(x)=cx→alim​f(x)) Sum/Diff law (f(x)±g(x))′=f′(x)±g′(x) \\left(f(x) \\pm g(x)\\right)^\\prime=f^\\prime\\left(x\\right)\\pm g^\\prime\\left(x\\right) (f(x)±g(x))′=f′(x)±g′(x) (lim⁡x→a[f(x)±g(x)]=lim⁡x→af(x)±lim⁡x→ag(x)) \\left(\\lim_{x\\to a}{\\left[f(x)\\pm g(x)\\right]} = \\lim_{x\\to a}{f(x)}\\pm\\lim_{x\\to a}{g(x)}\\right) (x→alim​[f(x)±g(x)]=x→alim​f(x)±x→alim​g(x)) Power law (xn)′=nxn−1 \\left(x^n\\right)^\\prime = nx^{n-1} (xn)′=nxn−1 (lim⁡x→a[f(x)]n=[lim⁡x→af(x)]n) \\left(\\lim_{x\\to a}{\\left[f(x)\\right]^n} = \\left[\\lim_{x\\to a}{f(x)}\\right]^n\\right) (x→alim​[f(x)]n=[x→alim​f(x)]n) Product law (fg)′=f′g+g′f \\left(fg\\right)^\\prime=f^\\prime g + g^\\prime f (fg)′=f′g+g′f (lim⁡x→a[f(x)⋅g(x)]=lim⁡x→af(x)⋅lim⁡x→ag(x)) \\left(\\lim_{x\\to a}{\\left[f(x)\\cdot g(x)\\right]} = \\lim_{x\\to a}{f(x)}\\cdot\\lim_{x\\to a}{g(x)}\\right) (x→alim​[f(x)⋅g(x)]=x→alim​f(x)⋅x→alim​g(x)) Quotient law (fg)=f′g−fg′g2 \\left(\\frac{f}{g}\\right) = \\frac{f^\\prime g - fg^\\prime}{g^2} (gf​)=g2f′g−fg′​ (lim⁡x→a[f(x)g(x)]=lim⁡x→af(x)lim⁡x→ag(x)) \\left(\\lim_{x\\to a}{\\left[\\frac{f(x)}{g(x)}\\right]} = \\frac{\\lim_{x\\to a}{f(x)}}{\\lim_{x\\to a}{g(x)}}\\right) (x→alim​[g(x)f(x)​]=limx→a​g(x)limx→a​f(x)​) ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-28-derivative-properties/#basic-rules",
     "relUrl": "/docs/calculus/2021-07-28-derivative-properties/#basic-rules"
-  },"52": {
+  },"53": {
     "doc": "Differentiation Rules",
     "title": "Chain Rule",
     "content": "Suppose there are two functions fff and ggg, both are differentiable: . | If there is a function h:h(x)=g(f(x))h: h(x) = g(f(x))h:h(x)=g(f(x)), then hhh is called a composite function | The composite function hhh is denoted as: h=g∘for(g∘f)(x)=g(f(x))h=g\\circ f \\quad \\text{or} \\quad (g\\circ f)(x) = g(f(x))h=g∘for(g∘f)(x)=g(f(x)) | The derivative of the composite function: h′(x)=g′(f(x))f′(x)ordhdx=dhdf∗dfdxh^\\prime(x) = g^\\prime(f(x))f^\\prime(x) \\quad\\text{or}\\quad \\frac{dh}{dx} = \\frac{dh}{df}*\\frac{df}{dx}h′(x)=g′(f(x))f′(x)ordxdh​=dfdh​∗dxdf​ | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-28-derivative-properties/#chain-rule",
     "relUrl": "/docs/calculus/2021-07-28-derivative-properties/#chain-rule"
-  },"53": {
+  },"54": {
     "doc": "Differentiation Rules",
     "title": "References",
     "content": ". ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-28-derivative-properties/#references",
     "relUrl": "/docs/calculus/2021-07-28-derivative-properties/#references"
-  },"54": {
+  },"55": {
     "doc": "Differentiation Formulas",
     "title": "Objectives",
     "content": "Differentiation Formulas . | Trig functions | Exponential and Logarithm functions | Hyperbolic functions | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-29-derivative-formulas/#objectives",
     "relUrl": "/docs/calculus/2021-07-29-derivative-formulas/#objectives"
-  },"55": {
+  },"56": {
     "doc": "Differentiation Formulas",
     "title": "Differentiation Formulas",
-    "content": "Trig Functions . Below are popular six trig functions: . cos⁡xsin⁡xtan⁡x=sin⁡xcos⁡xcot⁡x=cos⁡xsin⁡xsec⁡x=1cos⁡xcsc⁡x=1sin⁡x \\begin{aligned} \\cos{x} &amp; \\quad&amp;&amp; \\sin{x}&amp; \\\\ \\tan{x} &amp;=\\frac{\\sin{x}}{\\cos{x}} \\quad&amp;&amp; \\cot{x}&amp;=\\frac{\\cos{x}}{\\sin{x}} \\\\ \\sec{x} &amp;=\\frac{1}{\\cos{x}} \\quad&amp;&amp; \\csc{x}&amp;=\\frac{1}{\\sin{x}} \\end{aligned} cosxtanxsecx​=cosxsinx​=cosx1​​​sinxcotxcscx​=sinxcosx​=sinx1​​ . More reviews could be found here . Figure 3: Trigonometric functions (Wikipedia: Trigonometric Functions, 2021) . Sine x (cf(x))′=cf′(x) \\left(cf(x)\\right)^\\prime=cf^\\prime\\left(x\\right) (cf(x))′=cf′(x) ",
+    "content": "Trig Functions . Below are popular six trig functions: . cos⁡xsin⁡xtan⁡x=sin⁡xcos⁡xcot⁡x=cos⁡xsin⁡xsec⁡x=1cos⁡xcsc⁡x=1sin⁡x \\begin{aligned} \\cos{x} &amp; \\quad&amp;&amp; \\sin{x}&amp; \\\\ \\tan{x} &amp;=\\frac{\\sin{x}}{\\cos{x}} \\quad&amp;&amp; \\cot{x}&amp;=\\frac{\\cos{x}}{\\sin{x}} \\\\ \\sec{x} &amp;=\\frac{1}{\\cos{x}} \\quad&amp;&amp; \\csc{x}&amp;=\\frac{1}{\\sin{x}} \\end{aligned} cosxtanxsecx​=cosxsinx​=cosx1​​​sinxcotxcscx​=sinxcosx​=sinx1​​ . More reviews could be found here . Figure 3: Trigonometric functions (Wikipedia: Trigonometric Functions, 2021) . |   | Function fff | Derivative f′f^\\primef′ | . | sin | f(x)=sin(x)f(x) = sin(x)f(x)=sin(x) | f′(x)=cos(x)f^\\prime(x)=cos(x)f′(x)=cos(x) | . | cos | f(x)=cos(x)f(x) = cos(x)f(x)=cos(x) | f′(x)=−sin(x)f^\\prime(x)=-sin(x)f′(x)=−sin(x) | . | tan | f(x)=tan(x)f(x) = tan(x)f(x)=tan(x) | f′(x)=1cos2(x)=sec2(x)f^\\prime(x)=\\frac{1}{cos^2(x)}=sec^2(x)f′(x)=cos2(x)1​=sec2(x) | . | cot | f(x)=cot(x)f(x) = cot(x)f(x)=cot(x) | f′(x)=−1sin2(x)=−csc2(x)f^\\prime(x)=-\\frac{1}{sin^2(x)}=-csc^2(x)f′(x)=−sin2(x)1​=−csc2(x) | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-29-derivative-formulas/#differentiation-formulas",
     "relUrl": "/docs/calculus/2021-07-29-derivative-formulas/#differentiation-formulas"
-  },"56": {
+  },"57": {
     "doc": "Differentiation Formulas",
     "title": "References",
     "content": ". | Wikipedia: Trigonometric functions. (2021). https://en.wikipedia.org/wiki/Trigonometric_functions[Online; accessed 2021-07-28] LINK | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-29-derivative-formulas/#references",
     "relUrl": "/docs/calculus/2021-07-29-derivative-formulas/#references"
-  },"57": {
+  },"58": {
     "doc": "Differentiation Formulas",
     "title": "Differentiation Formulas",
     "content": ". | Differentiation Formulas | References | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-29-derivative-formulas/",
     "relUrl": "/docs/calculus/2021-07-29-derivative-formulas/"
-  },"58": {
+  },"59": {
     "doc": "Matrix",
     "title": "Matrix",
-    "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/#matrix",
-    "relUrl": "/docs/algebra/2021-08-15-matrices/#matrix"
-  },"59": {
+    "content": ". | Introduction . | Diagonals | Traces | Norms | Orthogonal | Ranks . | Column and Row Ranks | Matrix Ranks | . | Tensors | Matrix intuition | . | Special matrices | Matrix operations . | Transpose | Matrix-Tensor addition . | Matrix-Scalar addition | Matrix-Matrix addition | . | Matrix-Tensor product . | Matrix-Scalar product | Matrix-Vector product | Matrix-Matrix product | . | . | References | . ",
+    "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/",
+    "relUrl": "/docs/algebra/2021-08-15-matrices/"
+  },"60": {
     "doc": "Matrix",
     "title": "Objectives",
     "content": "1. Concepts . | Matrix definition: Matrices, Tensors, and their applications | Zero Matrix | Identity Matrix | . 2. Operations . | Transpose | Inverse | Matrix Arithmetics | Matrix-Tensor products | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/#objectives",
     "relUrl": "/docs/algebra/2021-08-15-matrices/#objectives"
-  },"60": {
+  },"61": {
     "doc": "Matrix",
     "title": "Introduction",
-    "content": "A matrix, A∈Rn×m\\boldsymbol{A} \\isin \\mathbb{R}^{n\\times m}A∈Rn×m is a two-dimensional array of scalars: [a1,1a1,2…a1,ma2,1a2,2…a2,m⋮⋮⋮⋮an,1an,2…an,m] \\begin{bmatrix} a_{1,1} &amp; a_{1,2} &amp; \\dots &amp; a_{1,m} \\\\ a_{2,1} &amp; a_{2,2} &amp; \\dots &amp; a_{2,m} \\\\ \\vdots &amp; \\vdots &amp; \\vdots &amp; \\vdots \\\\ a_{n,1} &amp; a_{n,2} &amp; \\dots &amp; a_{n,m} \\end{bmatrix} ⎣⎢⎢⎢⎢⎡​a1,1​a2,1​⋮an,1​​a1,2​a2,2​⋮an,2​​……⋮…​a1,m​a2,m​⋮an,m​​⎦⎥⎥⎥⎥⎤​ . Diagonals . DONE . Every matrix has 2 diagonals: . | Main diagonal (or principal diagonal, primary diagonal, leading diagonal, major diagonal) is the list of entries Ai,j(i=j)\\boldsymbol{A}_{i,j}\\left(\\text{i=j}\\right)Ai,j​(i=j) while the other entries are zeroes. | . [10…001…0⋮⋱1⋮0……1] \\begin{bmatrix} \\textcolor{red}{1} &amp; 0 &amp; \\dots &amp; 0 \\\\ 0 &amp; \\textcolor{red}{1} &amp; \\dots &amp; 0 \\\\ \\vdots &amp; \\ddots &amp; \\textcolor{red}{1} &amp; \\vdots \\\\ 0 &amp; \\dots &amp; \\dots &amp; \\textcolor{red}{1} \\end{bmatrix} ⎣⎢⎢⎢⎢⎡​10⋮0​01⋱…​……1…​00⋮1​⎦⎥⎥⎥⎥⎤​ . | Antidiagonal (or Harrison diagonal, secondary diagonal, trailing diagonal), of a square matrix B∈RN×NB \\isin \\mathbb{R}^{N\\times N}B∈RN×N, is a collection of entries Bi,j:i+j=N+1,∀1≤i,j≤NB_{i,j}: i+j=N+1, \\forall 1\\leq i,j\\leq NBi,j​:i+j=N+1,∀1≤i,j≤N | . [00…10…10⋮1⋱⋮1……0] \\begin{bmatrix} 0 &amp; 0 &amp; \\dots &amp; \\textcolor{red}{1} \\\\ 0 &amp; \\dots &amp; \\textcolor{red}{1} &amp; 0 \\\\ \\vdots &amp; \\textcolor{red}{1} &amp; \\ddots &amp; \\vdots \\\\ \\textcolor{red}{1} &amp; \\dots &amp; \\dots &amp; 0 \\end{bmatrix} ⎣⎢⎢⎢⎢⎡​00⋮1​0…1…​…1⋱…​10⋮0​⎦⎥⎥⎥⎥⎤​ . Traces . WIP . The trace of a square matrix A∈Rn×n\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times n}A∈Rn×n, denoted as tr(A)tr(\\boldsymbol{A})tr(A) (or trAtr\\boldsymbol{A}trA), is the sum of diagonal elements: . tr(A)=∑i=1nai,i tr(\\boldsymbol{A}) = \\sum_{i=1}^{n}{a_{i,i}} tr(A)=i=1∑n​ai,i​ . Norms . WIP . Similar to Vectors, Matrices can also possess Norms, such as Frobenius norm. ∥A∥F=∑i=1m∑j=1nAi,j2=tr(ATA) \\lVert A\\rVert_F = \\sqrt{\\sum_{i=1}^m{\\sum_{j=1}^n{A_{i,j}^2}}} = \\sqrt{tr(\\boldsymbol{A}^T\\boldsymbol{A})} ∥A∥F​=i=1∑m​j=1∑n​Ai,j2​ . ​=tr(ATA) . ​ . Ranks . WIP . Column and Row Ranks . Suppose there is a matrix A∈Rm×n\\boldsymbol{A} \\isin \\mathbb{R}^{m\\times n}A∈Rm×n: . Column rank Let CCC be the largest set of linearly independent column vectors of A\\boldsymbol{A}A column rank=∥C∥\\text{column rank} = \\lVert C\\rVertcolumn rank=∥C∥ Row rank Let RRR be the largest set of linearly independent row vectors of A\\boldsymbol{A}A row rank=∥R∥\\text{row rank} = \\lVert R\\rVertrow rank=∥R∥ (Kolter &amp; Do, 2015) . Matrix Ranks . For any matrix A∈Rn×m\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times m}A∈Rn×m: column rank=row rank \\text{column rank} = \\text{row rank} column rank=row rank . Hence, both ranks are collectively referred as the Rank of A\\boldsymbol{A}A, denoted as rank(A)rank(\\boldsymbol{A})rank(A) . Properties of A\\boldsymbol{A}A’s rank are: . | rank(A)≤min⁡(m,n)rank(\\boldsymbol{A}) \\leq \\min{(m,n)}rank(A)≤min(m,n) | Ais full rank  ⟺  rank(A)=min⁡(m,n)\\boldsymbol{A} \\quad \\text{is full rank} \\iff rank(\\boldsymbol{A}) = \\min{(m, n)}Ais full rank⟺rank(A)=min(m,n) | rank(A)=rank(AT)rank(\\boldsymbol{A}) = rank(\\boldsymbol{A}^T)rank(A)=rank(AT) | rank(AB)≤min⁡(rank(A),rank(B)∀B∈Rm×prank(\\boldsymbol{A}\\boldsymbol{B})\\leq\\min{(rank(\\boldsymbol{A}), rank(\\boldsymbol{B})}\\quad\\forall \\boldsymbol{B}\\isin\\mathbb{R}^{m\\times p}rank(AB)≤min(rank(A),rank(B)∀B∈Rm×p | rank(A+B)≤rank(A+B)∀B∈Rn×mrank(\\boldsymbol{A} + \\boldsymbol{B})\\leq rank(\\boldsymbol{A} + \\boldsymbol{B})\\quad \\forall \\boldsymbol{B}\\isin\\mathbb{R}^{n\\times m}rank(A+B)≤rank(A+B)∀B∈Rn×m | . Tensors . Both of Vector and Matrix could be generalized as a Tensor, which is an algebraic object possessing an order or rank (the dimension of the array) (Linear Algebra for Deep Learning, 2021): . | Tensor object | Order (Rank) | Sets | Represent of | . | Scalars | 0th order | N,Z,Q,R,etc.\\mathbb{N}, \\mathbb{Z}, \\mathbb{Q},\\mathbb{R},\\text{etc.}N,Z,Q,R,etc. | Magnitude | . | Vectors | 1st order | Rn,n∈N\\mathbb{R}^n, \\quad n\\isin\\mathbb{N}Rn,n∈N | Direction and Magnitude | . | Matrices | 2nd order | Rn×m,n,m∈N\\mathbb{R}^{n\\times m}, \\quad n,m\\isin\\mathbb{N}Rn×m,n,m∈N | Linear map | . Matrix intuition . WIP . Matrices are used as an encoder for geometric operations (e.g. rotations, reflections, and transformations, etc.) . ",
+    "content": "A matrix, A∈Rn×m\\boldsymbol{A} \\isin \\mathbb{R}^{n\\times m}A∈Rn×m is a two-dimensional array of scalars: [a1,1a1,2…a1,ma2,1a2,2…a2,m⋮⋮⋮⋮an,1an,2…an,m] \\begin{bmatrix} a_{1,1} &amp; a_{1,2} &amp; \\dots &amp; a_{1,m} \\\\ a_{2,1} &amp; a_{2,2} &amp; \\dots &amp; a_{2,m} \\\\ \\vdots &amp; \\vdots &amp; \\vdots &amp; \\vdots \\\\ a_{n,1} &amp; a_{n,2} &amp; \\dots &amp; a_{n,m} \\end{bmatrix} ⎣⎢⎢⎢⎢⎡​a1,1​a2,1​⋮an,1​​a1,2​a2,2​⋮an,2​​……⋮…​a1,m​a2,m​⋮an,m​​⎦⎥⎥⎥⎥⎤​ . Diagonals . DONE . Every matrix has 2 diagonals: . | Main diagonal (or principal diagonal, primary diagonal, leading diagonal, major diagonal) is the list of entries Ai,j(i=j)\\boldsymbol{A}_{i,j}\\left(\\text{i=j}\\right)Ai,j​(i=j) while the other entries are zeroes. | . [10…001…0⋮⋱1⋮0……1] \\begin{bmatrix} \\textcolor{red}{1} &amp; 0 &amp; \\dots &amp; 0 \\\\ 0 &amp; \\textcolor{red}{1} &amp; \\dots &amp; 0 \\\\ \\vdots &amp; \\ddots &amp; \\textcolor{red}{1} &amp; \\vdots \\\\ 0 &amp; \\dots &amp; \\dots &amp; \\textcolor{red}{1} \\end{bmatrix} ⎣⎢⎢⎢⎢⎡​10⋮0​01⋱…​……1…​00⋮1​⎦⎥⎥⎥⎥⎤​ . | Antidiagonal (or Harrison diagonal, secondary diagonal, trailing diagonal), of a square matrix B∈RN×NB \\isin \\mathbb{R}^{N\\times N}B∈RN×N, is a collection of entries Bi,j:i+j=N+1,∀1≤i,j≤NB_{i,j}: i+j=N+1, \\forall 1\\leq i,j\\leq NBi,j​:i+j=N+1,∀1≤i,j≤N | . [00…10…10⋮1⋱⋮1……0] \\begin{bmatrix} 0 &amp; 0 &amp; \\dots &amp; \\textcolor{red}{1} \\\\ 0 &amp; \\dots &amp; \\textcolor{red}{1} &amp; 0 \\\\ \\vdots &amp; \\textcolor{red}{1} &amp; \\ddots &amp; \\vdots \\\\ \\textcolor{red}{1} &amp; \\dots &amp; \\dots &amp; 0 \\end{bmatrix} ⎣⎢⎢⎢⎢⎡​00⋮1​0…1…​…1⋱…​10⋮0​⎦⎥⎥⎥⎥⎤​ . Traces . WIP . The trace of a square matrix A∈Rn×n\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times n}A∈Rn×n, denoted as tr(A)tr(\\boldsymbol{A})tr(A) (or trAtr\\boldsymbol{A}trA), is the sum of diagonal elements: . tr(A)=∑i=1nai,i tr(\\boldsymbol{A}) = \\sum_{i=1}^{n}{a_{i,i}} tr(A)=i=1∑n​ai,i​ . Norms . WIP . Similar to Vectors, Matrices can also possess Norms, such as Frobenius norm. ∥A∥F=∑i=1m∑j=1nAi,j2=tr(ATA) \\lVert A\\rVert_F = \\sqrt{\\sum_{i=1}^m{\\sum_{j=1}^n{A_{i,j}^2}}} = \\sqrt{tr(\\boldsymbol{A}^T\\boldsymbol{A})} ∥A∥F​=i=1∑m​j=1∑n​Ai,j2​ . ​=tr(ATA) . ​ . Orthogonal . WIP . Just like Vectors, a square matrix A∈Rn×n\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times n}A∈Rn×n is orthogonal if all of its columns are orthogonal to each other and are normalized. As a result, . ATA=I=AAT \\boldsymbol{A}^T\\boldsymbol{A} = \\boldsymbol{I} = \\boldsymbol{A}\\boldsymbol{A}^T ATA=I=AAT . note: The columns of A\\boldsymbol{A}A are referred to as being orthonormal (different from orthogonal) . In other words, the inverse of an orthogonal matrix is its transpose. Question:&nbsp;Why A\\boldsymbol{A}A must be a square matrix Answer: Even if the columns of A∈Rn×m,n≠m\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times m}, n\\neq mA∈Rn×m,n​=m are orthonormal, I=ATA≠AAT \\boldsymbol{I} = \\boldsymbol{A}^T\\boldsymbol{A} \\neq \\boldsymbol{A}\\boldsymbol{A}^T I=ATA​=AAT Hence the term orthogonal is only used when A\\boldsymbol{A}A is square. | Operating on a vector with an orthogonal matrix will not change its Euclidean norm: ∥Ax∥2=∥x∥2\\lVert \\boldsymbol{A}\\boldsymbol{x}\\rVert_2 = \\lVert \\boldsymbol{x}\\rVert_2∥Ax∥2​=∥x∥2​ | . Ranks . WIP . Column and Row Ranks . Suppose there is a matrix A∈Rm×n\\boldsymbol{A} \\isin \\mathbb{R}^{m\\times n}A∈Rm×n: . Column rank Let CCC be the largest set of linearly independent column vectors of A\\boldsymbol{A}A column rank=∥C∥\\text{column rank} = \\lVert C\\rVertcolumn rank=∥C∥ Row rank Let RRR be the largest set of linearly independent row vectors of A\\boldsymbol{A}A row rank=∥R∥\\text{row rank} = \\lVert R\\rVertrow rank=∥R∥ (Kolter &amp; Do, 2015) . Matrix Ranks . For any matrix A∈Rn×m\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times m}A∈Rn×m: column rank=row rank \\text{column rank} = \\text{row rank} column rank=row rank . Hence, both ranks are collectively referred as the Rank of A\\boldsymbol{A}A, denoted as rank(A)rank(\\boldsymbol{A})rank(A) . Properties of A\\boldsymbol{A}A’s rank are: . | rank(A)≤min⁡(m,n)rank(\\boldsymbol{A}) \\leq \\min{(m,n)}rank(A)≤min(m,n) | Ais full rank  ⟺  rank(A)=min⁡(m,n)\\boldsymbol{A} \\quad \\text{is full rank} \\iff rank(\\boldsymbol{A}) = \\min{(m, n)}Ais full rank⟺rank(A)=min(m,n) | rank(A)=rank(AT)rank(\\boldsymbol{A}) = rank(\\boldsymbol{A}^T)rank(A)=rank(AT) | rank(AB)≤min⁡(rank(A),rank(B)∀B∈Rm×prank(\\boldsymbol{A}\\boldsymbol{B})\\leq\\min{(rank(\\boldsymbol{A}), rank(\\boldsymbol{B})}\\quad\\forall \\boldsymbol{B}\\isin\\mathbb{R}^{m\\times p}rank(AB)≤min(rank(A),rank(B)∀B∈Rm×p | rank(A+B)≤rank(A+B)∀B∈Rn×mrank(\\boldsymbol{A} + \\boldsymbol{B})\\leq rank(\\boldsymbol{A} + \\boldsymbol{B})\\quad \\forall \\boldsymbol{B}\\isin\\mathbb{R}^{n\\times m}rank(A+B)≤rank(A+B)∀B∈Rn×m | . Tensors . Both of Vector and Matrix could be generalized as a Tensor, which is an algebraic object possessing an order or rank (the dimension of the array) (Linear Algebra for Deep Learning, 2021): . | Tensor object | Order (Rank) | Sets | Represent of | . | Scalars | 0th order | N,Z,Q,R,etc.\\mathbb{N}, \\mathbb{Z}, \\mathbb{Q},\\mathbb{R},\\text{etc.}N,Z,Q,R,etc. | Magnitude | . | Vectors | 1st order | Rn,n∈N\\mathbb{R}^n, \\quad n\\isin\\mathbb{N}Rn,n∈N | Direction and Magnitude | . | Matrices | 2nd order | Rn×m,n,m∈N\\mathbb{R}^{n\\times m}, \\quad n,m\\isin\\mathbb{N}Rn×m,n,m∈N | Linear map | . Matrix intuition . WIP . Matrices are used as an encoder for geometric operations (e.g. rotations, reflections, and transformations, etc.) . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/#introduction",
     "relUrl": "/docs/algebra/2021-08-15-matrices/#introduction"
-  },"61": {
+  },"62": {
     "doc": "Matrix",
     "title": "Special matrices",
     "content": "WIP . Identity Matrix: denoted as I\\boldsymbol{I}I, of size n×nn\\times nn×n has only ‘1’ in the main diagonal. Ii,j={1i=j0i≠j \\boldsymbol{I}_{i,j}=\\begin{cases} 1 \\quad i=j \\\\ 0 \\quad i\\neq j \\end{cases} Ii,j​={1i=j0i​=j​ . Zero Matrix: denoted as O\\boldsymbol{O}O, has all of its matrix elements equal to ‘0’. Symmetric Matrix: a square matrix which is A=AT\\boldsymbol{A} = \\boldsymbol{A}^TA=AT . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/#special-matrices",
     "relUrl": "/docs/algebra/2021-08-15-matrices/#special-matrices"
-  },"62": {
+  },"63": {
     "doc": "Matrix",
     "title": "Matrix operations",
     "content": "Transpose . Todo . The transpose of a matrix, written AT∈Rn×m\\boldsymbol{A}^T\\isin\\mathbb{R}^{n\\times m}AT∈Rn×m, has entries given by: . Ai,jT=Aj,i \\boldsymbol{A}^T_{i,j} = \\boldsymbol{A}_{j,i} Ai,jT​=Aj,i​ . Properties of the transposes are: . | (AT)T=A\\left(\\boldsymbol{A}^T\\right)^T = \\boldsymbol{A}(AT)T=A | (AB)T=BTAT\\left(\\boldsymbol{A}\\boldsymbol{B}\\right)^T = \\boldsymbol{B}^T\\boldsymbol{A}^T(AB)T=BTAT | (A+B)T=AT+BT\\left(\\boldsymbol{A} + \\boldsymbol{B}\\right)^T = \\boldsymbol{A}^T + \\boldsymbol{B}^T(A+B)T=AT+BT | . Matrix-Tensor addition . Matrix-Scalar addition . Todo . Matrix-Matrix addition . WIP . Suppose A∈Rn×m,x∈R\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times m}, x\\isin\\mathbb{R}A∈Rn×m,x∈R, the addition between A\\boldsymbol{A}A and x\\boldsymbol{x}x is another matrix B∈Rn×mB\\isin\\boldsymbol{R}^{n\\times m}B∈Rn×m: . B=A+xwithbi,j=ai,j+x \\boldsymbol{B} = \\boldsymbol{A} + x \\quad \\text{with}\\quad b_{i,j} = a_{i,j} + x B=A+xwithbi,j​=ai,j​+x . Although A\\boldsymbol{A}A and xxx doesn’t share the same size, the addition is possible by the broadcasting mechanism. Properties of the Matrix-Matrix addition includes: . | Commutative | Associative | . Matrix-Tensor product . Matrix-Scalar product . Todo . Matrix-Vector product . WIP . Suppose A∈Rn×m,x∈Rm\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times m}, \\boldsymbol{x}\\isin\\mathbb{R}^mA∈Rn×m,x∈Rm, the product of Ax\\boldsymbol{A}\\boldsymbol{x}Ax is a vector y\\boldsymbol{y}y - a same result by which could be described two different views: . Row viewpoint:y=Ax=[—a1T——a2T—⋮—anT—]x=[—a1Tx——a2Tx—⋮—anTx—]Column viewpoint:y=Ax=[∣∣a1…am∣∣][x1⋮xm]=[∣a1∣]x1+…[∣am∣]xm \\begin{aligned} \\text{Row viewpoint:} &amp;\\quad \\boldsymbol{y}&amp;=\\boldsymbol{A}\\boldsymbol{x}&amp;= \\begin{bmatrix} \\text{---} &amp; a_{1}^T &amp; \\text{---} \\\\ \\text{---} &amp; a_{2}^T &amp; \\text{---} \\\\ &amp; \\vdots &amp; \\\\ \\text{---} &amp; a_{n}^T &amp; \\text{---} \\\\ \\end{bmatrix} \\boldsymbol{x} \\\\ &amp;&amp;&amp;= \\begin{bmatrix} \\text{---} &amp; a_{1}^T\\boldsymbol{x} &amp; \\text{---} \\\\ \\text{---} &amp; a_{2}^T\\boldsymbol{x} &amp; \\text{---} \\\\ &amp; \\vdots &amp; \\\\ \\text{---} &amp; a_{n}^T\\boldsymbol{x} &amp; \\text{---} \\\\ \\end{bmatrix}\\\\ \\text{Column viewpoint:} &amp;\\quad \\boldsymbol{y}&amp;=\\boldsymbol{A}\\boldsymbol{x}&amp;= \\begin{bmatrix} \\mid &amp; &amp; \\mid \\\\ a_{1} &amp; \\dots &amp; a_{m}\\\\ \\mid &amp; &amp; \\mid \\end{bmatrix} \\begin{bmatrix} x_{1} \\\\ \\vdots\\\\ x_{m} \\end{bmatrix} \\\\ &amp;&amp;&amp;= \\begin{bmatrix} \\mid \\\\ a_{1}\\\\ \\mid \\end{bmatrix} x_{1} + \\dots \\begin{bmatrix} \\mid \\\\ a_{m}\\\\ \\mid \\end{bmatrix} x_{m} \\end{aligned} Row viewpoint:Column viewpoint:​yy​=Ax=Ax​=⎣⎢⎢⎢⎢⎡​———​a1T​a2T​⋮anT​​———​⎦⎥⎥⎥⎥⎤​x=⎣⎢⎢⎢⎢⎡​———​a1T​xa2T​x⋮anT​x​———​⎦⎥⎥⎥⎥⎤​=⎣⎢⎡​∣a1​∣​…​∣am​∣​⎦⎥⎤​⎣⎢⎢⎡​x1​⋮xm​​⎦⎥⎥⎤​=⎣⎢⎡​∣a1​∣​⎦⎥⎤​x1​+…⎣⎢⎡​∣am​∣​⎦⎥⎤​xm​​ . In the column form metioned above, the matrix y\\boldsymbol{y}y is a linear combination of the columns of A\\boldsymbol{A}A . Matrix-Matrix product . WIP . Suppose A∈Rn×m,B∈Rm×p\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times m}, \\boldsymbol{B}\\isin\\mathbb{R}^{m\\times p}A∈Rn×m,B∈Rm×p: . C=AB,withci,j=∑k=1mai,kbk,j \\boldsymbol{C} = \\boldsymbol{A}\\boldsymbol{B}, \\quad\\text{with}\\quad c_{i,j} = \\sum_{k=1}^{m}{a_{i,k}b_{k,j}} C=AB,withci,j​=k=1∑m​ai,k​bk,j​ . Properties of Matrix-Matrix product: . | Non-commutative: AB≠BA\\boldsymbol{A}\\boldsymbol{B} \\neq \\boldsymbol{B}\\boldsymbol{A}AB​=BA | Associative: (AB)C=A(BC)(\\boldsymbol{A}\\boldsymbol{B})\\boldsymbol{C} = \\boldsymbol{A}(\\boldsymbol{B}\\boldsymbol{C})(AB)C=A(BC) | Distributive: (A+B)C=AB+AC(\\boldsymbol{A}+\\boldsymbol{B})\\boldsymbol{C} = \\boldsymbol{A}\\boldsymbol{B} + \\boldsymbol{A}\\boldsymbol{C}(A+B)C=AB+AC | . Question: Why Matrix-Matrix multiplication is not commutative? Answer: As aforementioned, Matrices represent linear map functions between two vector spaces. The idea is similar to the composition between functions, which is also not commutative: . f∘g≠g∘ff\\circ g \\neq g \\circ ff∘g​=g∘f (Linear Algebra for Deep Learning, 2021) (Computational Linear Algebra for Coders, 2021) . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/#matrix-operations",
     "relUrl": "/docs/algebra/2021-08-15-matrices/#matrix-operations"
-  },"63": {
+  },"64": {
     "doc": "Matrix",
     "title": "References",
     "content": ". | Kolter, Z., &amp; Do, C. (2015). Linear Algebra Review and Reference. http://cs229.stanford.edu/section/cs229-linalg.pdf[Online; accessed 2021-08-13] LINK | Linear Algebra for Deep Learning. (2021). https://www.quantstart.com/articles/scalars-vectors-matrices-and-tensors-linear-algebra-for-deep-learning-part-1/[Online; accessed 2021-08-13] LINK | Computational Linear Algebra for Coders. (2021). https://github.com/fastai/numerical-linear-algebra[Online; accessed 2021-08-13] LINK | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/#references",
     "relUrl": "/docs/algebra/2021-08-15-matrices/#references"
-  },"64": {
-    "doc": "Matrix",
-    "title": "Matrix",
-    "content": ". | Introduction . | Diagonals | Traces | Norms | Ranks . | Column and Row Ranks | Matrix Ranks | . | Tensors | Matrix intuition | . | Special matrices | Matrix operations . | Transpose | Matrix-Tensor addition . | Matrix-Scalar addition | Matrix-Matrix addition | . | Matrix-Tensor product . | Matrix-Scalar product | Matrix-Vector product | Matrix-Matrix product | . | . | References | . ",
-    "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-15-matrices/",
-    "relUrl": "/docs/algebra/2021-08-15-matrices/"
   },"65": {
     "doc": "Linear Equations System",
     "title": "Matrix",
@@ -403,31 +403,19 @@
   },"67": {
     "doc": "Linear Equations System",
     "title": "Introduction",
-    "content": "A matrix, A∈Rn×m\\boldsymbol{A} \\isin \\mathbb{R}^{n\\times m}A∈Rn×m is a two-dimensional array of scalars: [a1,1a1,2…a1,ma2,1a2,2…a2,m⋮⋮⋮⋮an,1an,2…an,m] \\begin{bmatrix} a_{1,1} &amp; a_{1,2} &amp; \\dots &amp; a_{1,m} \\\\ a_{2,1} &amp; a_{2,2} &amp; \\dots &amp; a_{2,m} \\\\ \\vdots &amp; \\vdots &amp; \\vdots &amp; \\vdots \\\\ a_{n,1} &amp; a_{n,2} &amp; \\dots &amp; a_{n,m} \\end{bmatrix} ⎣⎢⎢⎢⎢⎡​a1,1​a2,1​⋮an,1​​a1,2​a2,2​⋮an,2​​……⋮…​a1,m​a2,m​⋮an,m​​⎦⎥⎥⎥⎥⎤​ . Diagonals . DONE . Every matrix has 2 diagonals: . | Main diagonal (or principal diagonal, primary diagonal, leading diagonal, major diagonal) is the list of entries Ai,j(i=j)\\boldsymbol{A}_{i,j}\\left(\\text{i=j}\\right)Ai,j​(i=j) while the other entries are zeroes. | . [10…001…0⋮⋱1⋮0……1] \\begin{bmatrix} \\textcolor{red}{1} &amp; 0 &amp; \\dots &amp; 0 \\\\ 0 &amp; \\textcolor{red}{1} &amp; \\dots &amp; 0 \\\\ \\vdots &amp; \\ddots &amp; \\textcolor{red}{1} &amp; \\vdots \\\\ 0 &amp; \\dots &amp; \\dots &amp; \\textcolor{red}{1} \\end{bmatrix} ⎣⎢⎢⎢⎢⎡​10⋮0​01⋱…​……1…​00⋮1​⎦⎥⎥⎥⎥⎤​ . | Antidiagonal (or Harrison diagonal, secondary diagonal, trailing diagonal), of a square matrix B∈RN×NB \\isin \\mathbb{R}^{N\\times N}B∈RN×N, is a collection of entries Bi,j:i+j=N+1,∀1≤i,j≤NB_{i,j}: i+j=N+1, \\forall 1\\leq i,j\\leq NBi,j​:i+j=N+1,∀1≤i,j≤N | . [00…10…10⋮1⋱⋮1……0] \\begin{bmatrix} 0 &amp; 0 &amp; \\dots &amp; \\textcolor{red}{1} \\\\ 0 &amp; \\dots &amp; \\textcolor{red}{1} &amp; 0 \\\\ \\vdots &amp; \\textcolor{red}{1} &amp; \\ddots &amp; \\vdots \\\\ \\textcolor{red}{1} &amp; \\dots &amp; \\dots &amp; 0 \\end{bmatrix} ⎣⎢⎢⎢⎢⎡​00⋮1​0…1…​…1⋱…​10⋮0​⎦⎥⎥⎥⎥⎤​ . Traces . WIP . The trace of a square matrix A∈Rn×n\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times n}A∈Rn×n, denoted as tr(A)tr(\\boldsymbol{A})tr(A) (or trAtr\\boldsymbol{A}trA), is the sum of diagonal elements: . tr(A)=∑i=1nai,i tr(\\boldsymbol{A}) = \\sum_{i=1}^{n}{a_{i,i}} tr(A)=i=1∑n​ai,i​ . Norms . WIP . Similar to Vectors, Matrices can also possess Norms, such as Frobenius norm. ∥A∥F=∑i=1m∑j=1nAi,j2=tr(ATA) \\lVert A\\rVert_F = \\sqrt{\\sum_{i=1}^m{\\sum_{j=1}^n{A_{i,j}^2}}} = \\sqrt{tr(\\boldsymbol{A}^T\\boldsymbol{A})} ∥A∥F​=i=1∑m​j=1∑n​Ai,j2​ . ​=tr(ATA) . ​ . Ranks . WIP . Column and Row Ranks . Suppose there is a matrix A∈Rm×n\\boldsymbol{A} \\isin \\mathbb{R}^{m\\times n}A∈Rm×n: . Column rank Let CCC be the largest set of linearly independent column vectors of A\\boldsymbol{A}A column rank=∥C∥\\text{column rank} = \\lVert C\\rVertcolumn rank=∥C∥ Row rank Let RRR be the largest set of linearly independent row vectors of A\\boldsymbol{A}A row rank=∥R∥\\text{row rank} = \\lVert R\\rVertrow rank=∥R∥ (Kolter &amp; Do, 2015) . Matrix Ranks . For any matrix A∈Rn×m\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times m}A∈Rn×m: column rank=row rank \\text{column rank} = \\text{row rank} column rank=row rank . Hence, both ranks are collectively referred as the Rank of A\\boldsymbol{A}A, denoted as rank(A)rank(\\boldsymbol{A})rank(A) . Properties A\\boldsymbol{A}A’s rank is: . | rank(A)≤min⁡(m,n)rank(\\boldsymbol{A}) \\leq \\min{(m,n)}rank(A)≤min(m,n) | Ais full rank  ⟺  rank(A)=min⁡(m,n)\\boldsymbol{A} \\quad \\text{is full rank} \\iff rank(\\boldsymbol{A}) = \\min{(m, n)}Ais full rank⟺rank(A)=min(m,n) | rank(A)=rank(AT)rank(\\boldsymbol{A}) = rank(\\boldsymbol{A}^T)rank(A)=rank(AT) | rank(AB)≤min⁡(rank(A),rank(B)∀B∈Rm×prank(\\boldsymbol{A}\\boldsymbol{B})\\leq\\min{(rank(\\boldsymbol{A}), rank(\\boldsymbol{B})}\\quad\\forall \\boldsymbol{B}\\isin\\mathbb{R}^{m\\times p}rank(AB)≤min(rank(A),rank(B)∀B∈Rm×p | rank(A+B)≤rank(A+B)∀B∈Rn×mrank(\\boldsymbol{A} + \\boldsymbol{B})\\leq rank(\\boldsymbol{A} + \\boldsymbol{B})\\quad \\forall \\boldsymbol{B}\\isin\\mathbb{R}^{n\\times m}rank(A+B)≤rank(A+B)∀B∈Rn×m | . Tensors . Both of Vector and Matrix could be generalized as a Tensor, which is an algebraic object possessing an order or rank (the dimension of the array) (Linear Algebra for Deep Learning, 2021): . | Tensor object | Order (Rank) | Sets | Represent of | . | Scalars | 0th order | N,Z,Q,R,etc.\\mathbb{N}, \\mathbb{Z}, \\mathbb{Q},\\mathbb{R},\\text{etc.}N,Z,Q,R,etc. | Magnitude | . | Vectors | 1st order | Rn,n∈N\\mathbb{R}^n, \\quad n\\isin\\mathbb{N}Rn,n∈N | Direction and Magnitude | . | Matrices | 2nd order | Rn×m,n,m∈N\\mathbb{R}^{n\\times m}, \\quad n,m\\isin\\mathbb{N}Rn×m,n,m∈N | Linear map | . Matrix intuition . WIP . Matrices are used as an encoder for geometric operations (e.g. rotations, reflections, and transformations, etc.) . ",
+    "content": "DONE . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-19-linear_eq_system/#introduction",
     "relUrl": "/docs/algebra/2021-08-19-linear_eq_system/#introduction"
   },"68": {
     "doc": "Linear Equations System",
-    "title": "Special matrices",
-    "content": "WIP . Identity Matrix: denoted as I\\boldsymbol{I}I, of size n×nn\\times nn×n has only ‘1’ in the main diagonal. Ii,j={1i=j0i≠j \\boldsymbol{I}_{i,j}=\\begin{cases} 1 \\quad i=j \\\\ 0 \\quad i\\neq j \\end{cases} Ii,j​={1i=j0i​=j​ . Zero Matrix: denoted as O\\boldsymbol{O}O, has all of its matrix elements equal to ‘0’. Symmetric Matrix: a square matrix which is A=AT\\boldsymbol{A} = \\boldsymbol{A}^TA=AT . ",
-    "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-19-linear_eq_system/#special-matrices",
-    "relUrl": "/docs/algebra/2021-08-19-linear_eq_system/#special-matrices"
-  },"69": {
-    "doc": "Linear Equations System",
-    "title": "Matrix operations",
-    "content": "Transpose . Todo . The transpose of a matrix, written AT∈Rn×m\\boldsymbol{A}^T\\isin\\mathbb{R}^{n\\times m}AT∈Rn×m, has entries given by: . Ai,jT=Aj,i \\boldsymbol{A}^T_{i,j} = \\boldsymbol{A}_{j,i} Ai,jT​=Aj,i​ . Properties of the transposes are: . | (AT)T=A\\left(\\boldsymbol{A}^T\\right)^T = \\boldsymbol{A}(AT)T=A | (AB)T=BTAT\\left(\\boldsymbol{A}\\boldsymbol{B}\\right)^T = \\boldsymbol{B}^T\\boldsymbol{A}^T(AB)T=BTAT | (A+B)T=AT+BT\\left(\\boldsymbol{A} + \\boldsymbol{B}\\right)^T = \\boldsymbol{A}^T + \\boldsymbol{B}^T(A+B)T=AT+BT | . Matrix-Tensor addition . Matrix-Scalar addition . Todo . Matrix-Matrix addition . WIP . Suppose A∈Rn×m,x∈R\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times m}, x\\isin\\mathbb{R}A∈Rn×m,x∈R, the addition between A\\boldsymbol{A}A and x\\boldsymbol{x}x is another matrix B∈Rn×mB\\isin\\boldsymbol{R}^{n\\times m}B∈Rn×m: . B=A+xwithbi,j=ai,j+x \\boldsymbol{B} = \\boldsymbol{A} + x \\quad \\text{with}\\quad b_{i,j} = a_{i,j} + x B=A+xwithbi,j​=ai,j​+x . Although A\\boldsymbol{A}A and xxx doesn’t share the same size, the addition is possible by the broadcasting mechanism. Properties of the Matrix-Matrix addition includes: . | Commutative | Associative | . Matrix-Tensor product . Matrix-Scalar product . Todo . Matrix-Vector product . WIP . Suppose A∈Rn×m,x∈Rm\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times m}, \\boldsymbol{x}\\isin\\mathbb{R}^mA∈Rn×m,x∈Rm, the product of Ax\\boldsymbol{A}\\boldsymbol{x}Ax is a vector y\\boldsymbol{y}y - a same result by which could be described two different views: . Row viewpoint:y=Ax=[—a1T——a2T—⋮—anT—]x=[—a1Tx——a2Tx—⋮—anTx—]Column viewpoint:y=Ax=[∣∣a1…am∣∣][x1⋮xm]=[∣a1∣]x1+…[∣am∣]xm \\begin{aligned} \\text{Row viewpoint:} &amp;\\quad \\boldsymbol{y}&amp;=\\boldsymbol{A}\\boldsymbol{x}&amp;= \\begin{bmatrix} \\text{---} &amp; a_{1}^T &amp; \\text{---} \\\\ \\text{---} &amp; a_{2}^T &amp; \\text{---} \\\\ &amp; \\vdots &amp; \\\\ \\text{---} &amp; a_{n}^T &amp; \\text{---} \\\\ \\end{bmatrix} \\boldsymbol{x} \\\\ &amp;&amp;&amp;= \\begin{bmatrix} \\text{---} &amp; a_{1}^T\\boldsymbol{x} &amp; \\text{---} \\\\ \\text{---} &amp; a_{2}^T\\boldsymbol{x} &amp; \\text{---} \\\\ &amp; \\vdots &amp; \\\\ \\text{---} &amp; a_{n}^T\\boldsymbol{x} &amp; \\text{---} \\\\ \\end{bmatrix}\\\\ \\text{Column viewpoint:} &amp;\\quad \\boldsymbol{y}&amp;=\\boldsymbol{A}\\boldsymbol{x}&amp;= \\begin{bmatrix} \\mid &amp; &amp; \\mid \\\\ a_{1} &amp; \\dots &amp; a_{m}\\\\ \\mid &amp; &amp; \\mid \\end{bmatrix} \\begin{bmatrix} x_{1} \\\\ \\vdots\\\\ x_{m} \\end{bmatrix} \\\\ &amp;&amp;&amp;= \\begin{bmatrix} \\mid \\\\ a_{1}\\\\ \\mid \\end{bmatrix} x_{1} + \\dots \\begin{bmatrix} \\mid \\\\ a_{m}\\\\ \\mid \\end{bmatrix} x_{m} \\end{aligned} Row viewpoint:Column viewpoint:​yy​=Ax=Ax​=⎣⎢⎢⎢⎢⎡​———​a1T​a2T​⋮anT​​———​⎦⎥⎥⎥⎥⎤​x=⎣⎢⎢⎢⎢⎡​———​a1T​xa2T​x⋮anT​x​———​⎦⎥⎥⎥⎥⎤​=⎣⎢⎡​∣a1​∣​…​∣am​∣​⎦⎥⎤​⎣⎢⎢⎡​x1​⋮xm​​⎦⎥⎥⎤​=⎣⎢⎡​∣a1​∣​⎦⎥⎤​x1​+…⎣⎢⎡​∣am​∣​⎦⎥⎤​xm​​ . In the column form metioned above, the matrix y\\boldsymbol{y}y is a linear combination of the columns of A\\boldsymbol{A}A . Matrix-Matrix product . WIP . Suppose A∈Rn×m,B∈Rm×p\\boldsymbol{A}\\isin\\mathbb{R}^{n\\times m}, \\boldsymbol{B}\\isin\\mathbb{R}^{m\\times p}A∈Rn×m,B∈Rm×p: . C=AB,withci,j=∑k=1mai,kbk,j \\boldsymbol{C} = \\boldsymbol{A}\\boldsymbol{B}, \\quad\\text{with}\\quad c_{i,j} = \\sum_{k=1}^{m}{a_{i,k}b_{k,j}} C=AB,withci,j​=k=1∑m​ai,k​bk,j​ . Properties of Matrix-Matrix product: . | Non-commutative: AB≠BA\\boldsymbol{A}\\boldsymbol{B} \\neq \\boldsymbol{B}\\boldsymbol{A}AB​=BA | Associative: (AB)C=A(BC)(\\boldsymbol{A}\\boldsymbol{B})\\boldsymbol{C} = \\boldsymbol{A}(\\boldsymbol{B}\\boldsymbol{C})(AB)C=A(BC) | Distributive: (A+B)C=AB+AC(\\boldsymbol{A}+\\boldsymbol{B})\\boldsymbol{C} = \\boldsymbol{A}\\boldsymbol{B} + \\boldsymbol{A}\\boldsymbol{C}(A+B)C=AB+AC | . Question: Why Matrix-Matrix multiplication is not commutative? Answer: As aforementioned, Matrices represent linear map functions between two vector spaces. The idea is similar to the composition between functions, which is also not commutative: . f∘g≠g∘ff\\circ g \\neq g \\circ ff∘g​=g∘f (Linear Algebra for Deep Learning, 2021) (Computational Linear Algebra for Coders, 2021) . ",
-    "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-19-linear_eq_system/#matrix-operations",
-    "relUrl": "/docs/algebra/2021-08-19-linear_eq_system/#matrix-operations"
-  },"70": {
-    "doc": "Linear Equations System",
     "title": "References",
-    "content": ". | Kolter, Z., &amp; Do, C. (2015). Linear Algebra Review and Reference. http://cs229.stanford.edu/section/cs229-linalg.pdf[Online; accessed 2021-08-13] LINK | Linear Algebra for Deep Learning. (2021). https://www.quantstart.com/articles/scalars-vectors-matrices-and-tensors-linear-algebra-for-deep-learning-part-1/[Online; accessed 2021-08-13] LINK | Computational Linear Algebra for Coders. (2021). https://github.com/fastai/numerical-linear-algebra[Online; accessed 2021-08-13] LINK | . ",
+    "content": ". ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-19-linear_eq_system/#references",
     "relUrl": "/docs/algebra/2021-08-19-linear_eq_system/#references"
-  },"71": {
+  },"69": {
     "doc": "Linear Equations System",
     "title": "Linear Equations System",
-    "content": ". | Introduction . | Diagonals | Traces | Norms | Ranks . | Column and Row Ranks | Matrix Ranks | . | Tensors | Matrix intuition | . | Special matrices | Matrix operations . | Transpose | Matrix-Tensor addition . | Matrix-Scalar addition | Matrix-Matrix addition | . | Matrix-Tensor product . | Matrix-Scalar product | Matrix-Vector product | Matrix-Matrix product | . | . | References | . ",
+    "content": ". | Introduction | References | . ",
     "url": "http://nguyenntt97.github.io/docs/algebra/2021-08-19-linear_eq_system/",
     "relUrl": "/docs/algebra/2021-08-19-linear_eq_system/"
   }
