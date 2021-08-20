@@ -1,17 +1,28 @@
 ---
 layout: default
 title: Home
-nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
-permalink: /
+nav_order: 0
+has_children: false
+has_toc: false
+permanent_link: /
 ---
 
-# Welcome to my blog
+# ML Noteblog
+{: .fs-9}
 
-<ul>
-  {% for post in site.docs %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+A digital notebook includes **fully cited** summary notes and cheatsheets from books, lectures, and tech blogs in Data Science, Mathematics, and Sofware Engineering.
+{: .fs-6 .fw-300}
+
+***
+
+## Purpose statement
+
+(To be updated)
+
+## What to expect
+
+(To be updated)
+
+## Content Disclaimer
+
+(To be updated)

@@ -47,14 +47,12 @@ More reviews could be found [here][trig_review]
 {: .flex-justify-around .d-flex}
 *<b>Figure 3:</b> Trigonometric functions {%cite wiki_trigo --file calculus%}*
 
-<dl>
-  <dt>Sine x</dt>
-  <dd>
-    $$
-    \left(cf(x)\right)^\prime=cf^\prime\left(x\right)
-    $$
-  </dd>
-</dl>
+|    | Function $f$ | Derivative $f^\prime$ |
+|:--:|--------------|----------------|
+|sin |$f(x) = sin(x)$|$f^\prime(x)=cos(x)$|
+|cos |$f(x) = cos(x)$|$f^\prime(x)=-sin(x)$|
+|tan |$f(x) = tan(x)$|$f^\prime(x)=\frac{1}{cos^2(x)}=sec^2(x)$|
+|cot |$f(x) = cot(x)$|$f^\prime(x)=-\frac{1}{sin^2(x)}=-csc^2(x)$|
 
 {% endkatexmm %}
 
