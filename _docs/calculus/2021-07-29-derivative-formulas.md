@@ -6,6 +6,9 @@ grand_parent: Calculus
 categories: calculus derivative
 nav_order: 2
 ---
+
+# Differentiation Formulas
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -27,9 +30,7 @@ nav_order: 2
 
 {% katexmm %}
 
-## Differentiation Formulas
-
-### Trig Functions
+## Trig Functions
 
 WIP
 {: .label .label-yellow }
@@ -46,7 +47,7 @@ $$
 
 More reviews could be found [here][trig_review]
 
-![trig_functions][fig3_trig_function]
+![trig_functions][fig1_trig_function]
 {: .flex-justify-around .d-flex}
 *<b>Figure 3:</b> Trigonometric functions {%cite wiki_trigo --file calculus%}*
 
@@ -57,17 +58,66 @@ More reviews could be found [here][trig_review]
 |tan |$f(x) = tan(x)$|$f^\prime(x)=\frac{1}{cos^2(x)}=sec^2(x)$|
 |cot |$f(x) = cot(x)$|$f^\prime(x)=-\frac{1}{sin^2(x)}=-csc^2(x)$|
 
-{% endkatexmm %}
+## Exponential functions
 
-### Exponential functions
+### Number e
 
 WIP
 {: .label .label-yellow}
 
+The number $e$ is an important mathematical constant, approximately equal to $2.71828...$.
+
+> Three general definitions of $e$ are:
+>
+> - $$e = \lim_{n\to \infin}{(1+\frac{1}{n})^n}$$
+> - $$\lim_{h\to 0}{\frac{e^h-1}{h}} = 1$$
+> - $$e = \sum_{n=0}^{\infin}{\frac{1}{n!}}$$
+
+<details>
+    <summary>Code for Fig. 2</summary>
+    {% capture my_include %}{% include nb/trig_functions.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+</details>
+
+![trig_functions][fig2_exp_function]
+{: .flex-justify-around .d-flex}
+
+<details>
+    <summary>Code for Fig. 2</summary>
+    {% capture my_include %}{% include nb/trig_functions.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+</details>
+
+$$
+\begin{aligned}
+&\frac{d}{dx}(e^x)=e^x & &\quad & &\frac{d}{dx}(a^x)=a^x \ln{a}\\
+&\frac{d}{dx}(\ln{x}) = \frac{1}{x} & &\quad & &\frac{d}{dx}(\log_a{x})=\frac{1}{x\ln{a}}
+\end{aligned}
+$$
+
+## Inverse of Trig functions
+
+### Inverse Sine
+
+$$
+\begin{aligned}
+y &= \sin^{-1}{x}\\
+\frac{dy}{dx} &= \frac{1}{\sqrt{1-x^2}}
+\end{aligned}
+$$
+
+<details>
+    <summary>View proof</summary>
+    {% capture my_include %}{% include proofs/inverse_sine.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+</details>
+
+{% endkatexmm %}
 
 ## References
 
 {% bibliography --file calculus --cited %}
 
-[fig3_trig_function]: /assets/images/calculus/trig_functions.jpg "Trigometric functions"
+[fig1_trig_function]: /assets/images/calculus/trig_functions.jpg "Trigometric functions"
+[fig2_exp_function]: /assets/images/calculus/e_func.gif "Trigometric functions"
 [trig_review]: https://tutorial.math.lamar.edu/Classes/CalcI/TrigFcns.aspx
