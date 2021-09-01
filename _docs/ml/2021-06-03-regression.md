@@ -3,7 +3,7 @@ layout: default
 title: Regression
 parent: "Machine Learning Practice"
 categories: ml
-nav_order: 0
+nav_order: 1
 ---
 <details open markdown="block">
   <summary>

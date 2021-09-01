@@ -73,6 +73,11 @@ The number $e$ is an important mathematical constant, approximately equal to $2.
 > - $$\lim_{h\to 0}{\frac{e^h-1}{h}} = 1$$
 > - $$e = \sum_{n=0}^{\infin}{\frac{1}{n!}}$$
 
+#### Eucler's Number: Intuitions
+{: .no_toc}
+
+
+
 <details>
     <summary>Code for Fig. 2</summary>
     {% capture my_include %}{% include nb/trig_functions.md %}{% endcapture %}
@@ -111,6 +116,16 @@ $$
     {% capture my_include %}{% include proofs/inverse_sine.md %}{% endcapture %}
     {{ my_include | markdownify }}
 </details>
+
+### Summary: Inverse trig functions
+
+$$
+\begin{aligned}
+\frac{d}{dx}\left(\sin^{-1}{x}\right) &= \frac{1}{\sqrt{1-x^2}}  &  \frac{d}{dx}\left(\cos^{1}{x}\right) &= -\frac{1}{\sqrt{1-x^2}}\\
+\frac{d}{dx}\left(\tan^{-1}{x}\right) &= \frac{1}{1+x^2} & \frac{d}{dx}\left(\cot^{-1}{x}\right) &= -\frac{1}{1+x^2}\\
+\frac{d}{dx}\left(\sec^{-1}{x}\right) &= \frac{1}{\lvert x\rvert \sqrt{x^2-1}} & \frac{d}{dx}\left(\csc^{-1}{x}\right) &= -\frac{1}{\lvert x\rvert\sqrt{x^2-1}}
+\end{aligned}
+$$
 
 {% endkatexmm %}
 

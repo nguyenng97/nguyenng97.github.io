@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (6.0.4)
+    activesupport (6.0.4.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -13,9 +13,9 @@ GEM
       latex-decode (~> 0.0)
     citeproc (1.0.10)
       namae (~> 1.0)
-    citeproc-ruby (1.1.13)
+    citeproc-ruby (1.1.14)
       citeproc (~> 1.0, >= 1.0.9)
-      csl (~> 1.5)
+      csl (~> 1.6)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -24,8 +24,9 @@ GEM
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.9)
-    csl (1.5.2)
+    csl (1.6.0)
       namae (~> 1.0)
+      rexml
     csl-styles (1.0.1.11)
       csl (~> 1.0)
     dnsruby (1.61.7)
@@ -37,7 +38,7 @@ GEM
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
     execjs (2.8.1)
-    faraday (1.5.1)
+    faraday (1.7.0)
       faraday-em_http (~> 1.0)
       faraday-em_synchrony (~> 1.0)
       faraday-excon (~> 1.1)
@@ -45,6 +46,7 @@ GEM
       faraday-net_http (~> 1.0)
       faraday-net_http_persistent (~> 1.1)
       faraday-patron (~> 1.0)
+      faraday-rack (~> 1.0)
       multipart-post (>= 1.2, < 3)
       ruby2_keywords (>= 0.0.4)
     faraday-em_http (1.0.0)
@@ -54,6 +56,7 @@ GEM
     faraday-net_http (1.0.1)
     faraday-net_http_persistent (1.2.0)
     faraday-patron (1.0.0)
+    faraday-rack (1.0.0)
     ffi (1.15.3)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -238,7 +241,7 @@ GEM
     latex-decode (0.3.2)
     libv8 (3.16.14.19-x86_64-linux)
     liquid (4.0.3)
-    listen (3.5.1)
+    listen (3.7.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
@@ -249,7 +252,7 @@ GEM
     minitest (5.14.4)
     multipart-post (2.1.1)
     namae (1.1.1)
-    nokogiri (1.11.7-x86_64-linux)
+    nokogiri (1.12.4-x86_64-linux)
       racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
@@ -267,7 +270,7 @@ GEM
     rouge (3.26.0)
     ruby-enum (0.9.0)
       i18n
-    ruby2_keywords (0.0.4)
+    ruby2_keywords (0.0.5)
     rubyzip (2.3.2)
     safe_yaml (1.0.5)
     sass (3.7.4)
@@ -312,4 +315,4 @@ DEPENDENCIES
   wdm (~> 0.1.1)
 
 BUNDLED WITH
-   2.2.11
+   2.2.26
