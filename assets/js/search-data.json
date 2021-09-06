@@ -265,7 +265,7 @@
   },"44": {
     "doc": "Limits",
     "title": "References",
-    "content": ". | Davidson, J. (2021). About Calculus. https://www.sscc.edu/home/jdavidso/MathAdvising/AboutCalculus.html[Online; accessed 2021-07-18] LINK | Dawkins, P. (2021). Calculus I. https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx[Online; accessed 2021-07-18] LINK | Lakey, J., &amp; Terry, E. A. (2021). Calculus I. openstax. https://openstax.org/books/calculus-volume-1[Online; accessed 2021-07-18] LINK | Wikipedia: Secant line. (2021). https://en.wikipedia.org/wiki/Secant_line[Online; accessed 2021-07-28] LINK | Wikipedia: Trigonometric functions. (2021). https://en.wikipedia.org/wiki/Trigonometric_functions[Online; accessed 2021-07-28] LINK | . ",
+    "content": ". | Davidson, J. (2021). About Calculus. https://www.sscc.edu/home/jdavidso/MathAdvising/AboutCalculus.html[Online; accessed 2021-07-18] LINK | Dawkins, P. (2021). Calculus I. https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx[Online; accessed 2021-07-18] LINK | Lakey, J., &amp; Terry, E. A. (2021). Calculus I. openstax. https://openstax.org/books/calculus-volume-1[Online; accessed 2021-07-18] LINK | Wikipedia: Secant line. (2021). https://en.wikipedia.org/wiki/Secant_line[Online; accessed 2021-07-28] LINK | Wikipedia: Trigonometric functions. (2021). https://en.wikipedia.org/wiki/Trigonometric_functions[Online; accessed 2021-07-28] LINK | Singh, P. (2021). Theories of Exponential and Logarithmic Functions. https://paramanands.blogspot.com/2014/05/theories-of-exponential-and-logarithmic-functions-part-1.html[Online; accessed 2021-09-05] LINK | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-07-16-limits/#references",
     "relUrl": "/docs/calculus/2021-07-16-limits/#references"
   },"45": {
@@ -438,14 +438,26 @@
     "relUrl": "/docs/calculus/2021-09-01-calculus-supplement/#objectives"
   },"73": {
     "doc": "Calculus Supplement",
-    "title": "Exponential and Logarithmic Functions",
-    "content": " ",
-    "url": "http://nguyenntt97.github.io/docs/calculus/2021-09-01-calculus-supplement/#exponential-and-logarithmic-functions",
-    "relUrl": "/docs/calculus/2021-09-01-calculus-supplement/#exponential-and-logarithmic-functions"
+    "title": "Preprequisites",
+    "content": "Exponentiation operation . Exponentiation, involving two components: the base (bbb) and the power (nnn) defined as bn=b×⋯×b⏟n times b^n = \\underbrace{b\\times \\dots \\times b}_{n\\ \\text{times}} bn=n times . b×⋯×b​​ . Properties of the exponentiation consists of: . | ap+q=ap⋅aqa^{p+q} = a^p \\cdot a^qap+q=ap⋅aq | (a⋅b)q=aq⋅bq(a\\cdot b)^q = a^q \\cdot b^q(a⋅b)q=aq⋅bq | (ab)q=aqbq\\left(\\frac{a}{b}\\right)^q = \\frac{a^q}{b^q}(ba​)q=bqaq​ | (ap)q=apq\\left(a^p\\right)^q = a^{pq}(ap)q=apq | . Suppose n∈Qn \\isin \\mathbb{Q}n∈Q, the concept of exponentiation and its properties could also be expanded to n∈Rn \\isin \\mathbb{R}n∈R by using the limit theory. Power function . f(x)=cxn f(x) = cx^n f(x)=cxn . | Relation | Name | Shape | . | x↦xx\\mapsto xx↦x | Identity, Linear | | . | x↦x2x\\mapsto x^2x↦x2 | Quadratic | | . | x↦x12x\\mapsto x^{\\frac{1}{2}}x↦x21​ | Square root | | . | x↦x−1x\\mapsto x^{-1}x↦x−1 | Reciprocal | | . ",
+    "url": "http://nguyenntt97.github.io/docs/calculus/2021-09-01-calculus-supplement/#preprequisites",
+    "relUrl": "/docs/calculus/2021-09-01-calculus-supplement/#preprequisites"
   },"74": {
     "doc": "Calculus Supplement",
+    "title": "Logarithmic function",
+    "content": "To define a logarithmic function and prove its properties, the Euler number eee have to be defined and be used to establish the function’s properties in a non-circular manner. (Singh, 2021) . Euler number . Figure 1: Area under the curve of 1x\\frac{1}{x}x1​ (Singh, 2021) . ",
+    "url": "http://nguyenntt97.github.io/docs/calculus/2021-09-01-calculus-supplement/#logarithmic-function",
+    "relUrl": "/docs/calculus/2021-09-01-calculus-supplement/#logarithmic-function"
+  },"75": {
+    "doc": "Calculus Supplement",
+    "title": "References",
+    "content": ". | Singh, P. (2021). Theories of Exponential and Logarithmic Functions. https://paramanands.blogspot.com/2014/05/theories-of-exponential-and-logarithmic-functions-part-1.html[Online; accessed 2021-09-05] LINK | . ",
+    "url": "http://nguyenntt97.github.io/docs/calculus/2021-09-01-calculus-supplement/#references",
+    "relUrl": "/docs/calculus/2021-09-01-calculus-supplement/#references"
+  },"76": {
+    "doc": "Calculus Supplement",
     "title": "Calculus Supplement",
-    "content": ". | Exponential and Logarithmic Functions | . ",
+    "content": ". | Preprequisites . | Exponentiation operation | Power function | . | Logarithmic function | References | . ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-09-01-calculus-supplement/",
     "relUrl": "/docs/calculus/2021-09-01-calculus-supplement/"
   }
