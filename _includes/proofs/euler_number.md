@@ -9,7 +9,7 @@ $$
 There are multiple approaches existed to explain the origin of this "unique" constant (just like how $\pi$ is the ratio between circumference and diameter of any circle). However, this note will limit the scope to two explanations (or characterization) of this special constant:
 
 - $e$ as a **base rate** of **exponential growth** {%cite bex_e --file calculus%}
-- **Area under the curve** of $\frac{1}{x}$ between $x=1$ and $x=e$ **is 1**.
+- The higher boundary for **Area under the curve** of $\frac{1}{x}$ to be **equal 1**.
 
 ### Rate of exponential growth
 
@@ -128,11 +128,59 @@ $$
 \end{aligned}
 $$
 
+The concept could be generalized further into:
+
+$$
+\lim_{n\to\infty}{\left(1 + \frac{r}{n}\right)^n} = e^r
+$$
+
 ### Area under the curve of $y = \frac{1}{x}$
 
 ![euler_number_proof](/assets/images/calculus/euler_number_2_0.png)
 {: .flex-justify-around .d-flex}
 *<b>Figure 1:</b> Area under the curve of $\frac{1}{x}$ {%cite exp_theory --file calculus%}*
+
+The second popular characterization of $e$ is using Geometry, to be specific, the area under the curve of $y = 1/x$
+
+To approximate the area under the curve of $y=1/x$ in which $x > 0$, let seperate the area into adjacent rectangles with the base of $\Delta{x} = 1$ and height of $1/{x_0}$. In other words, he are under the curve, which we will called $\mathbf{A}$, consists of infinite smaller rectangles with base $1$:
+
+$$
+\begin{aligned}
+\mathbf{A} &= \sum_{i=1}^{\infty}{\mathbf{A}(i, i+1)}\\
+&\approx \sum_{i=0}^{\infty}{\left(\frac{\Delta{x}}{i}\right)}\\
+&\approx \sum_{i=0}^{\infty}{\left(\frac{1}{i}\right)}
+\end{aligned}
+$$
+
+The smaller the base is, the more accurate the area sum becomes:
+
+$$
+\mathbf{A}(a,b) = \lim_{\Delta{x}\to 0}{\left[\sum_{i=0}^{a+i\Delta{x} \leq b}{\left(\frac{\Delta{x}}{a+i\Delta{x}}\right)}\right]}
+$$
+
+Suppose we have a transformation $\phi : (x, y) \mapsto (2x, y/2)$. As $(2x_0, 1/{2x_0})$ is also located on the curve of $y=1/x$ and the area of every member rectangle before the transformation remains the same after the transformation (base doubled, height halved), we clearly see that:
+
+$$
+\begin{aligned}
+\mathbf{A}(a,b) &= \mathbf{A}(2a,2b) & \text{(Figure 1 - left)}\\
+&= \mathbf{A}(ka, kb) & k\isin\mathbb{R}
+\end{aligned}
+$$
+
+In other words
+
+$$
+\begin{aligned}
+\mathbf{A}(1,ab) &= \mathbf{A}(1, a) + \mathbf{A}{(a,ab)}\\
+&= \mathbf{A}(1,a) + \mathbf{A}(1,b)
+\end{aligned}
+$$
+
+... which is similar to a property of logarithm functions:
+
+$$
+\ln{ab} = \ln{a} + \ln{b}
+$$
 
 ### Applications
 WIP
