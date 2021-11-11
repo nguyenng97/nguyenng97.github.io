@@ -1,3 +1,4 @@
 ## Mini projects
 
-- [Deep Learning from scratch](./01_dl_scratch.ipynb)
+* [Tensorflow basics](tf_basics.ipynb)
+* [Perception in SDV](perception_net.ipynb)
