@@ -37,7 +37,7 @@
   },"6": {
     "doc": "Mini projects",
     "title": "Mini projects",
-    "content": "## Mini projects - [Deep Learning from scratch](/projects/01_dl_scratch.ipynb) ",
+    "content": "## Mini projects * [Tensorflow basics](/projects/tf_basics.ipynb) * [Perception in SDV](/projects/perception_net.ipynb) ",
     "url": "http://nguyenntt97.github.io/projects/",
     "relUrl": "/projects/"
   },"7": {
