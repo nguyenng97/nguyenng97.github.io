@@ -97,12 +97,6 @@
 	},
 	{
 		"identifier": {
-			"id": "vscode.git-ui"
-		},
-		"version": "1.0.0"
-	},
-	{
-		"identifier": {
 			"id": "vscode.github"
 		},
 		"version": "0.0.1"
@@ -111,7 +105,7 @@
 		"identifier": {
 			"id": "vscode.github-authentication"
 		},
-		"version": "0.0.1"
+		"version": "0.0.2"
 	},
 	{
 		"identifier": {
@@ -271,12 +265,6 @@
 	},
 	{
 		"identifier": {
-			"id": "vscode.notebook-markdown-extensions"
-		},
-		"version": "1.0.0"
-	},
-	{
-		"identifier": {
 			"id": "vscode.npm"
 		},
 		"version": "1.0.1"
@@ -386,12 +374,6 @@
 	{
 		"identifier": {
 			"id": "vscode.swift"
-		},
-		"version": "1.0.0"
-	},
-	{
-		"identifier": {
-			"id": "vscode.testing-editor-contributions"
 		},
 		"version": "1.0.0"
 	},
@@ -512,7 +494,7 @@
 			"id": "davidanson.vscode-markdownlint",
 			"uuid": "daf8b44d-8aae-4da2-80c5-1f770219f643"
 		},
-		"version": "0.37.2",
+		"version": "0.45.0",
 		"installed": true
 	},
 	{
@@ -528,7 +510,7 @@
 			"id": "formulahendry.code-runner",
 			"uuid": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3"
 		},
-		"version": "0.11.5",
+		"version": "0.11.6",
 		"installed": true
 	},
 	{
@@ -536,7 +518,7 @@
 			"id": "goessner.mdmath",
 			"uuid": "1d66faf4-3266-4fce-b7c9-df60aecf496d"
 		},
-		"version": "2.5.1",
+		"version": "2.7.4",
 		"installed": true
 	},
 	{
@@ -544,7 +526,7 @@
 			"id": "golang.go",
 			"uuid": "d6f6cfea-4b6f-41f4-b571-6ad2ab7918da"
 		},
-		"version": "0.27.2",
+		"version": "0.29.0",
 		"installed": true
 	},
 	{
@@ -552,7 +534,7 @@
 			"id": "james-yu.latex-workshop",
 			"uuid": "61d03280-3919-4dd1-bce1-178ca21fdeaf"
 		},
-		"version": "8.15.0",
+		"version": "8.22.0",
 		"installed": true
 	},
 	{
@@ -560,7 +542,7 @@
 			"id": "jeff-hykin.better-cpp-syntax",
 			"uuid": "73767f91-7dcb-43cb-90b3-596d073eea1f"
 		},
-		"version": "1.15.5",
+		"version": "1.15.10",
 		"installed": true
 	},
 	{
@@ -581,18 +563,10 @@
 	},
 	{
 		"identifier": {
-			"id": "ms-python.anaconda-extension-pack",
-			"uuid": "5a8b9107-e667-4ec8-a792-d066a93b9eff"
-		},
-		"version": "1.0.1",
-		"installed": true
-	},
-	{
-		"identifier": {
 			"id": "ms-python.python",
 			"uuid": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5"
 		},
-		"version": "2020.11.371526539",
+		"version": "2021.11.1422169775",
 		"installed": true
 	},
 	{
@@ -600,7 +574,7 @@
 			"id": "ms-toolsai.jupyter",
 			"uuid": "6c2f1801-1e7f-45b2-9b5c-7782f1e076e8"
 		},
-		"version": "2021.9.1101343141",
+		"version": "2021.10.1101450599",
 		"installed": true
 	},
 	{
@@ -624,15 +598,16 @@
 			"id": "ms-vscode-remote.remote-containers",
 			"uuid": "93ce222b-5f6f-49b7-9ab1-a0463c6238df"
 		},
-		"version": "0.148.1",
-		"installed": true
+		"version": "0.205.2",
+		"installed": true,
+		"state": {}
 	},
 	{
 		"identifier": {
 			"id": "ms-vscode-remote.remote-ssh",
 			"uuid": "607fd052-be03-4363-b657-2bd62b83d28a"
 		},
-		"version": "0.56.0",
+		"version": "0.66.1",
 		"installed": true
 	},
 	{
@@ -640,7 +615,7 @@
 			"id": "ms-vscode-remote.remote-ssh-edit",
 			"uuid": "bfeaf631-bcff-4908-93ed-fda4ef9a0c5c"
 		},
-		"version": "0.56.0",
+		"version": "0.66.1",
 		"installed": true
 	},
 	{
@@ -648,7 +623,7 @@
 			"id": "ms-vscode-remote.remote-wsl",
 			"uuid": "f0c5397b-d357-4197-99f0-cb4202f22818"
 		},
-		"version": "0.51.4",
+		"version": "0.58.5",
 		"installed": true
 	},
 	{
@@ -656,7 +631,7 @@
 			"id": "ms-vscode-remote.remote-wsl-recommender",
 			"uuid": "cb296d3c-017a-4dee-83af-ebb5a5a16e9a"
 		},
-		"version": "0.0.5"
+		"version": "0.0.12"
 	},
 	{
 		"identifier": {
@@ -671,7 +646,7 @@
 			"id": "ms-vscode.cpptools",
 			"uuid": "690b692e-e8a9-493f-b802-8089d50ac1b2"
 		},
-		"version": "1.7.0",
+		"version": "1.7.1",
 		"installed": true
 	},
 	{
@@ -695,57 +670,35 @@
 			"id": "ms-vscode.js-debug",
 			"uuid": "25629058-ddac-4e17-abba-74678e126c5d"
 		},
-		"version": "1.51.0"
+		"version": "1.62.0"
 	},
 	{
 		"identifier": {
 			"id": "ms-vscode.js-debug-companion",
 			"uuid": "99cb0b7f-7354-4278-b8da-6cc79972169d"
 		},
-		"version": "1.0.8"
-	},
-	{
-		"identifier": {
-			"id": "ms-vscode.node-debug",
-			"uuid": "b6ded8fb-a0a0-4c1c-acbd-ab2a3bc995a6"
-		},
-		"version": "1.44.14"
-	},
-	{
-		"identifier": {
-			"id": "ms-vscode.node-debug2",
-			"uuid": "36d19e17-7569-4841-a001-947eb18602b2"
-		},
-		"version": "1.42.5"
+		"version": "1.0.15"
 	},
 	{
 		"identifier": {
 			"id": "ms-vscode.references-view",
 			"uuid": "dc489f46-520d-4556-ae85-1f9eab3c412d"
 		},
-		"version": "0.0.71"
+		"version": "0.0.81"
 	},
 	{
 		"identifier": {
 			"id": "ms-vscode.vscode-js-profile-table",
 			"uuid": "7e52b41b-71ad-457b-ab7e-0620f1fc4feb"
 		},
-		"version": "0.0.11"
-	},
-	{
-		"identifier": {
-			"id": "ms-vsonline.vsonline",
-			"uuid": "0b94edb3-44e3-49a3-aed9-04b5d8510385"
-		},
-		"version": "1.0.3075",
-		"installed": true
+		"version": "0.0.18"
 	},
 	{
 		"identifier": {
 			"id": "redhat.vscode-yaml",
 			"uuid": "2061917f-f76a-458a-8da9-f162de22b97e"
 		},
-		"version": "0.13.0",
+		"version": "1.2.0",
 		"installed": true
 	},
 	{
