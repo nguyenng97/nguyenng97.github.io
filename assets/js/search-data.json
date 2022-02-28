@@ -538,5 +538,17 @@
     "content": " ",
     "url": "http://nguyenntt97.github.io/docs/calculus/2021-10-13-multivar_calculus/",
     "relUrl": "/docs/calculus/2021-10-13-multivar_calculus/"
+  },"90": {
+    "doc": "Deep Learning",
+    "title": "Concept",
+    "content": " ",
+    "url": "http://nguyenntt97.github.io/docs/ml/2021-12-06-deeplearning/#concept",
+    "relUrl": "/docs/ml/2021-12-06-deeplearning/#concept"
+  },"91": {
+    "doc": "Deep Learning",
+    "title": "Deep Learning",
+    "content": ". | Concept | . ",
+    "url": "http://nguyenntt97.github.io/docs/ml/2021-12-06-deeplearning/",
+    "relUrl": "/docs/ml/2021-12-06-deeplearning/"
   }
 }
