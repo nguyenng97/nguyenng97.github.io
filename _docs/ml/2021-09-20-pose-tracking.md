@@ -3,7 +3,7 @@ layout: default
 title: Pose Tracking Task
 parent: "Machine Learning Practice"
 categories: ml pose-tracking
-nav_order: 2
+nav_order: 7
 ---
 <details open markdown="block">
   <summary>
