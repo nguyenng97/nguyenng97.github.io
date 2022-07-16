@@ -2,6 +2,7 @@
 layout: default
 title: "Linear Equations System"
 parent: "Linear Algebra"
+grand_parent: "Math Review"
 categories: linear_algebra
 nav_order: 5
 ---

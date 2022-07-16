@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Derivatives"
-parent: "Calculus"
+parent: Calculus
+grand_parent: "Math Review"
 categories: calculus derivative
 has_children: true
 has_toc: false

@@ -1,12 +1,11 @@
 ---
 layout: default
-title: "Exponential and Logarithmic functions"
-parent: "Calculus Supplement"
-categories: calculus supplement
-grand_parent: Calculus
+title: "Exponential functions"
+parent: Calculus
+grand_parent: "Math Review"
 has_children: false
 has_toc: false
-nav_order: 1
+nav_order: 4
 ---
 <details open markdown="block">
   <summary> 

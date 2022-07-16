@@ -1,3 +1,68 @@
-@media screen {
-    .main-content { text-align: left;}
+@media all {
+  .main-content {
+    text-align: left;
+  }
+
+  /* Home styles */
+  /* ----------------------------------------------------------*/
+
+  .home h1 {
+    margin-bottom: 25px;
+  }
+
+  .posts {
+    list-style-type: none;
+  }
+
+  .posts li {
+    margin-bottom: 30px;
+  }
+
+  .posts li::before {
+    content: "" !important;
+  }
+
+  .posts .post-link {
+    font-size: 20px;
+    letter-spacing: -1px;
+    line-height: 1;
+  }
+
+  .posts .post-date {
+    display: block;
+    font-size: 15px;
+    color: #818181;
+  }
+
+  .post-content ul,
+  .post-content ol {
+    padding-left: 20px;
+  }
+
+  .post pre,
+  .post code {
+    border: 1px solid #d5d5e9;
+    background-color: #eef;
+    padding: 8px 12px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    font-size: 15px;
+    overflow: auto;
+  }
+
+  .post code {
+    padding: 1px 5px;
+  }
+
+  .post ul,
+  .post ol {
+    margin-left: 1.35em;
+  }
+
+  .post pre code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
 }

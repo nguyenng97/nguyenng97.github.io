@@ -2,7 +2,9 @@
 layout: default
 title:  "Probability Advanced"
 parent: "Probability"
+grand_parent: "Math Review"
 categories: probability theory
+description: "Summary of high-level techniques in Probabilistic domain"
 published: true
 nav_order: 2
 ---

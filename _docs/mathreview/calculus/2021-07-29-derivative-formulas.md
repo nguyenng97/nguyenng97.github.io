@@ -1,10 +1,10 @@
 ---
 layout: default
 title: "Differentiation Formulas"
-parent: Derivatives
-grand_parent: Calculus
+parent: Calculus
+grand_parent: "Math Review"
 categories: calculus derivative
-nav_order: 2
+nav_order: 3
 ---
 
 # Differentiation Formulas
