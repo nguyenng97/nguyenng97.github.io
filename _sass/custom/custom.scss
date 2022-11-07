@@ -5,9 +5,19 @@
 
   /* Home styles */
   /* ----------------------------------------------------------*/
+  .site-title {
+    font-weight: bold;
+  }
 
-  .home h1 {
+  .main h1 {
     margin-bottom: 25px;
+    font: 0.8em/1.5 Helvetica;
+    font-weight: bold;
+    color: #444;
+  }
+
+  #nguyen-nguyen + p {
+    margin-top: -1.5em;
   }
 
   .posts {
