@@ -76,3 +76,15 @@
     padding-left: 0;
   }
 }
+
+figcaption {
+  color: #444;
+  font-style: italic;
+}
+
+figcaption::before {
+  content: "Figure: ";
+  color: #7253ed;
+  font-weight: 600!important;
+  font-style: normal;
+}
